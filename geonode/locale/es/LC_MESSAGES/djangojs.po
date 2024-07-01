@@ -1,0 +1,1044 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Andres Alfonso Lemon Gomez <lemon.andres@gmail.com>, 2014
+# Juan Lautaro Silva Ortiz <jlautarosilva@gmail.com>, 2015
+# Sergio Luis Arnal <sergioarnal@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoNode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-08 09:03+0300\n"
+"PO-Revision-Date: 2020-05-19 18:03-0600\n"
+"Last-Translator: Julien Collaer <julien.collaer@opengeode.be>\n"
+"Language-Team: Spanish (http://www.transifex.com/geonode/geonode/language/"
+"es/)\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "STORE_UPDATED"
+msgstr ""
+
+#, javascript-format
+msgid "Missing a %s file, which is required"
+msgstr "Falta un archivo %s, el cual es requerido"
+
+msgid "ESRI Shapefile"
+msgstr "ESRI Shapefile"
+
+msgid "ASCII Text File"
+msgstr "Archivo de texto ASCII"
+
+msgid "GeoTIFF"
+msgstr "GeoTIFF"
+
+msgid "Comma Separated Value"
+msgstr "Valor Separado por Comas"
+
+msgid "Google Earth KML"
+msgstr "Google Earth KML"
+
+msgid "Google Earth KML with a GroundOverlay"
+msgstr "Google Earth KML con GroundOverlay"
+
+msgid "Google Earth KMZ"
+msgstr "Google Earth KMZ"
+
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+msgid "Zip Archive"
+msgstr "Archivo Zip"
+
+msgid "ERDAS Imagine"
+msgstr "ERDAS Imagine"
+
+msgid "National Imagery Transmission Format"
+msgstr "Formato Nacional de Transmisión de Imágenes"
+
+msgid "Controlled Image Base-1 Meter"
+msgstr ""
+
+msgid "Controlled Image Base-5 Meter"
+msgstr ""
+
+msgid "Controlled Image Base-10 Meter"
+msgstr ""
+
+msgid "CADRG-Global Navigation Chart"
+msgstr ""
+
+msgid "CADRG-Jet Navigation Chart"
+msgstr ""
+
+msgid "CADRG-Operational Navigation Chart"
+msgstr ""
+
+msgid "CADRG-Tactical Pilotage Chart"
+msgstr ""
+
+msgid "CADRG-Joint Operations Graphic"
+msgstr ""
+
+msgid "CADRG-Topographic Line Map 100K"
+msgstr ""
+
+msgid "CADRG-Topographic Line Map 50K"
+msgstr ""
+
+msgid "JPEG2000"
+msgstr ""
+
+msgid "MrSID-Multi-resolution Seamless Image Database"
+msgstr ""
+
+msgid "XML Metadata File"
+msgstr "Archivo de metadatos XML"
+
+msgid "Style Layer Descriptor"
+msgstr "Descriptor de Capa de Estilo SLD"
+
+msgid "JPEG"
+msgstr ""
+
+msgid "PNG"
+msgstr ""
+
+msgid "GIF"
+msgstr "GIF"
+
+#, fuzzy
+#| msgid "Unexpected Error"
+msgid "Unexpected error!"
+msgstr "Error Inesperado"
+
+msgid ""
+" - 400 Bad Request. Server cannot or will not process the request due to "
+"something that is perceived to be a client error (e.g., malformed request "
+"syntax, invalid request message framing, or deceptive request routing)."
+msgstr ""
+
+msgid ""
+" - 401 Unauthorized. Request was not sent with the proper authentication "
+"credentials."
+msgstr ""
+
+msgid ""
+" - 403 Forbidden. This is generally related to permission rules on your "
+"server. Contact the system administrator for more information regarding this "
+"error message."
+msgstr ""
+
+msgid ""
+" - 404 Not Found. Origin server was unable or unwilling to find the resource "
+"requested."
+msgstr ""
+
+msgid ""
+" - 405 Method Not Allowed. Origin server is aware of the requested resource, "
+"but the request method used is not supported."
+msgstr ""
+
+msgid ""
+" - 406 Not Acceptable. Resource is not available at the origin that adheres "
+"to negotiation headers that were  set prior (e.g. via 'Accept-Charset' and "
+"'Accept-Language' headers)."
+msgstr ""
+
+msgid ""
+" - 407 Authentication Required. The client did not send the required "
+"authentication with the request."
+msgstr ""
+
+msgid ""
+" - 408 Request Timeout. The origin server did not receive the complete "
+"request in what it considers a reasonable time."
+msgstr ""
+
+msgid ""
+" - 409 Conflict. The request did not complete because of a conflict with the "
+"current state of the resource. Typically happens on a PUT request where "
+"multiple clients are attempting to edit the same resource."
+msgstr ""
+
+msgid ""
+" - 410 Gone. The resource requested is permanently missing at the origin."
+msgstr ""
+
+msgid ""
+" - 411 Length Required. Client did not define the 'Content-Length' of the "
+"request body in the headers and this is required to obtain the resource."
+msgstr ""
+
+msgid ""
+" - 412 Precondition Failed. Server denies the request because the resource "
+"failed to meet the conditions specified by the client."
+msgstr ""
+
+msgid ""
+" - 413 Payload Too Large. Refusal from the server to process the request "
+"because the payload sent from the client is larger than the server wished to "
+"accept. Server has the optional to close the connection."
+msgstr ""
+
+msgid ""
+" - 414 URI Too Long. Refusal from the server that the URI was too long to be "
+"processed. For example, if a client is attempting a GET request with an "
+"unusually long URI after a POST, this could be seen as a security risk and a "
+"414 gets generated."
+msgstr ""
+
+msgid ""
+" - 415 Unsupported Media Type. Refusal from the server to process the format "
+"of the current payload. One way to identify and fix this issue would be to "
+"look at the 'Content-Type' or 'Content-Encoding' headers sent in the "
+"client’s request."
+msgstr ""
+
+msgid ""
+" - 417 Expectation Failed. Failure of server to meet the requirements "
+"specified in the 'Expect' header of the client’s request."
+msgstr ""
+
+msgid ""
+" - 429 Too Many Requests. Client has sent too many requests in the specified "
+"amount of time according to the server."
+msgstr ""
+
+msgid ""
+" - 499 Client Close Request. Nginx specific response code to indicate when "
+"the connection has been closed by the client while the server is still "
+"processing its request, making server unable to send a status code back."
+msgstr ""
+
+msgid ""
+" - 500 Internal Server Error. This error indicates that the server has "
+"encountered an unexpected condition. This often occurs when an application "
+"request cannot be fulfilled due to the application being configured "
+"incorrectly on the server."
+msgstr ""
+
+msgid ""
+" - 501 Not Implemented. This error indicates that the HTTP method sent by "
+"the client is not supported by the server. This is most often caused by the "
+"server being out of date. It is a very rare error and generally requires "
+"that the web server be updated."
+msgstr ""
+
+msgid ""
+" - 502 Bad Gateway. This error is usually due to improperly configured proxy "
+"servers. The first step in resolving the issue is to clear the client's "
+"cache."
+msgstr ""
+
+msgid ""
+" - 503 Service Unavailable. This error occurs when the server is unable to "
+"handle requests due to a temporary overload or due to the server being "
+"temporarily closed for maintenance. The error indicates that the server will "
+"only temporarily be down."
+msgstr ""
+
+msgid ""
+" - 504 Gateway Timeout. GeoNode lost the connection with GeoServer or DB due "
+"to a connection timeout. Consider using the management commands to import "
+"data!"
+msgstr ""
+
+msgid ""
+" - 505 HTTP Version Not Supported. This error occurs when the server refuses "
+"to support the HTTP protocol that has been specified by the client computer. "
+"This can be caused by the protocol not being specified properly by the "
+"client computer; for example, if an invalid version number has been "
+"specified."
+msgstr ""
+
+msgid ""
+" - 506 Variant Also Negotiates. This error indicates that the server is not "
+"properly configured. Contact the system administrator to resolve this issue."
+msgstr ""
+
+msgid ""
+" - 507 Insufficient Storage. This error indicates that the server is out of "
+"free memory. This is most likely to occur when an application that is being "
+"requested cannot allocate the necessary system resources to run. To resolve "
+"the issue, the server's hard disk may need to be cleaned of any unnecessary "
+"documents to free up more hard disk space, its memory may need to be "
+"expanded, or it may simply need to be restarted. Contact the system "
+"administrator for more information regarding this error message."
+msgstr ""
+
+msgid ""
+" - 509 Bandwidth Limit Exceeded. This error occurs when the bandwidth limit "
+"imposed by the system administrator has been reached. The only fix for this "
+"issue is to wait until the limit is reset in the following cycle. Consult "
+"the system administrator for information about acquiring more bandwidth."
+msgstr ""
+
+msgid ""
+" - 510 Not Extended. This error occurs when an extension attached to the "
+"HTTP request is not supported by the web server. To resolve the issue, you "
+"may need to update the server."
+msgstr ""
+
+#, fuzzy
+#| msgid "<br>Unknown."
+msgid "Unknwon"
+msgstr "<br> Desconocido."
+
+msgid ""
+" Error Code. Contact the system administrator for more information regarding "
+"this error message."
+msgstr ""
+
+msgid "Additional info: "
+msgstr ""
+
+msgid "Finalizing"
+msgstr ""
+
+msgid "Unexpected Error"
+msgstr "Error Inesperado"
+
+msgid "Your "
+msgstr "Tu "
+
+msgid " Info"
+msgstr " Informacion"
+
+msgid "Edit Metadata"
+msgstr "Editar Metadatos"
+
+msgid "Upload Metadata"
+msgstr "Subir Metadatos"
+
+msgid "Upload SLD"
+msgstr "Subir SLD"
+
+msgid "Manage Styles"
+msgstr "Administrar Estilos"
+
+msgid "Please wait until GeoNode finished configuring it!"
+msgstr ""
+
+msgid "The column %1 was renamed to %2 <br/>"
+msgstr "La columna %1 se ha renombrado como %2 <br/>"
+
+msgid "Performing Final GeoServer Config Step"
+msgstr "Realizando Paso Final en la Configuración del GeoServer"
+
+msgid "You need to specify more information in order to complete your upload"
+msgstr ""
+"Usted necesita especificar mas información para poder completar la carga"
+
+msgid "Files are ready to be ingested!"
+msgstr "Los archivos están listos para ser ingeridos!"
+
+msgid "A temporal dimension may be added to this Layer."
+msgstr "Se puede agregar una dimensión temporal a esta capa."
+
+msgid "Performing GeoServer Config Step"
+msgstr "Realizando Configuración del GeoServer"
+
+msgid ""
+"<br>Please check your network connection. In case of Layer Upload make sure "
+"GeoServer is running and accepting connections."
+msgstr ""
+"<br> Compruebe su conexión de red. En el caso de Carga de capa, asegúrese de "
+"que GeoServer se esté ejecutando y acepte conexiones."
+
+msgid "<br>"
+msgstr ""
+
+msgid "<br>Bad request or URL not found."
+msgstr "<br> Solicitud incorrecta o URL no encontrada."
+
+msgid "<br>Unknown."
+msgstr "<br> Desconocido."
+
+msgid "Layer files uploaded, configuring in GeoServer"
+msgstr "Capas cargadas, configurando en GeoServer"
+
+msgid "Remove"
+msgstr "Remover"
+
+#, javascript-format
+msgid "The file %s is an unsupported file type, please select another file."
+msgstr ""
+"El archivo %s no es un tipo de archivo soportado, por favor selecciona otro "
+"archivo."
+
+msgid ""
+"You are trying to upload an incomplete set of files or not all mandatory "
+"options have been validated.\n"
+"\n"
+"Please check for errors in the form!"
+msgstr ""
+"Está tratando de subir un conjunto incompleto de archivos o no todas las "
+"opciones obligatorias han sido validadas.\n"
+"\n"
+"Por favor, comprobar si hay errores en el formulario!"
+
+#, javascript-format
+msgid "Available %s"
+msgstr "Available %s"
+
+#, javascript-format
+msgid ""
+"This is the list of available %s. You may choose some by selecting them in "
+"the box below and then clicking the \"Choose\" arrow between the two boxes."
+msgstr ""
+"This is the list of available %s. You may choose some by selecting them in "
+"the box below and then clicking the \"Choose\" arrow between the two boxes."
+
+#, javascript-format
+msgid "Type into this box to filter down the list of available %s."
+msgstr "Type into this box to filter down the list of available %s."
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Choose all"
+msgstr "Choose all"
+
+#, javascript-format
+msgid "Click to choose all %s at once."
+msgstr "Click to choose all %s at once."
+
+msgid "Choose"
+msgstr "Choose"
+
+#, javascript-format
+msgid "Chosen %s"
+msgstr "Chosen %s"
+
+#, javascript-format
+msgid ""
+"This is the list of chosen %s. You may remove some by selecting them in the "
+"box below and then clicking the \"Remove\" arrow between the two boxes."
+msgstr ""
+"This is the list of chosen %s. You may remove some by selecting them in the "
+"box below and then clicking the \"Remove\" arrow between the two boxes."
+
+msgid "Remove all"
+msgstr "Remove all"
+
+#, javascript-format
+msgid "Click to remove all chosen %s at once."
+msgstr "Click to remove all chosen %s at once."
+
+msgid "%(sel)s of %(cnt)s selected"
+msgid_plural "%(sel)s of %(cnt)s selected"
+msgstr[0] "94d7ef36d54e81afde607d8fd121772b_pl_0"
+msgstr[1] "94d7ef36d54e81afde607d8fd121772b_pl_1"
+
+msgid ""
+"You have unsaved changes on individual editable fields. If you run an "
+"action, your unsaved changes will be lost."
+msgstr ""
+"You have unsaved changes on individual editable fields. If you run an "
+"action, your unsaved changes will be lost."
+
+msgid ""
+"You have selected an action, but you haven't saved your changes to "
+"individual fields yet. Please click OK to save. You'll need to re-run the "
+"action."
+msgstr ""
+"You have selected an action, but you haven't saved your changes to "
+"individual fields yet. Please click OK to save. You'll need to re-run the "
+"action."
+
+msgid ""
+"You have selected an action, and you haven't made any changes on individual "
+"fields. You're probably looking for the Go button rather than the Save "
+"button."
+msgstr ""
+"You have selected an action, and you haven't made any changes on individual "
+"fields. You're probably looking for the Go button rather than the Save "
+"button."
+
+msgid "'"
+msgstr ""
+
+msgid "-1"
+msgstr ""
+
+msgid "trailingComments"
+msgstr ""
+
+msgid "leadingComments"
+msgstr ""
+
+#, fuzzy
+#| msgid "Enter comments here."
+msgid "innerComments"
+msgstr "Escriba aquí sus comentarios."
+
+msgid "Multiselect"
+msgstr ""
+
+#, fuzzy
+#| msgid "Select"
+msgid "SelectList"
+msgstr "Selecciona"
+
+msgid "show:"
+msgstr ""
+
+msgid "DraftEditor/root"
+msgstr ""
+
+msgid "DraftEditor/editorContainer"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "uirevision"
+msgstr ""
+
+msgid "bgcolor"
+msgstr ""
+
+msgid "bordercolor"
+msgstr ""
+
+msgid "borderwidth"
+msgstr ""
+
+msgid "orientation"
+msgstr ""
+
+msgid "traceorder"
+msgstr ""
+
+msgid "tracegroupgap"
+msgstr ""
+
+msgid "itemsizing"
+msgstr ""
+
+msgid "itemclick"
+msgstr ""
+
+msgid "itemdoubleclick"
+msgstr ""
+
+msgid "x"
+msgstr ""
+
+msgid "xanchor"
+msgstr ""
+
+msgid "y"
+msgstr ""
+
+msgid "yanchor"
+msgstr ""
+
+msgid "valign"
+msgstr ""
+
+msgid "title.text"
+msgstr ""
+
+msgid "title.side"
+msgstr ""
+
+msgid "visible"
+msgstr ""
+
+msgid "thickness"
+msgstr ""
+
+msgid "autorange"
+msgstr ""
+
+msgid "range"
+msgstr ""
+
+msgid "bingroup"
+msgstr ""
+
+msgid "Print configuration broken ("
+msgstr ""
+
+msgid "Print configuration not available ("
+msgstr ""
+
+msgid "go"
+msgstr ""
+
+msgid "goBack"
+msgstr ""
+
+msgid "goForward"
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "As Sibling"
+msgstr ""
+
+msgid "As child"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Now"
+#~ msgid "No"
+#~ msgstr "Now"
+
+#~ msgid "Enter your text here ..."
+#~ msgstr "Ingrese su texto aqui...."
+
+#~ msgid "Enter your region here ..."
+#~ msgstr "Escriba su region aqui ..."
+
+#~ msgid "Your layer was successfully uploaded"
+#~ msgstr "Su capa fue cargada exitosamente"
+
+#~ msgid ""
+#~ "You need to specify more information in order to complete your upload."
+#~ msgstr ""
+#~ "Usted necesita especificar mas información para poder completar la carga."
+
+#~ msgid "You can continue configuring your layer."
+#~ msgstr "Puedes continuar configurando tu capa."
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Save as Copy"
+#~ msgstr "Guardar copia"
+
+#~ msgid "About this Map"
+#~ msgstr "Acerca de este Mapa"
+
+#~ msgid "Abstract"
+#~ msgstr "Resumen"
+
+#~ msgid "Save"
+#~ msgstr "Guardar"
+
+#~ msgid "Title"
+#~ msgstr "Título"
+
+#~ msgid "Connection Error"
+#~ msgstr "Error de conexión"
+
+#~ msgid "The server returned an error"
+#~ msgstr "El servidor ha devuelto un error"
+
+#~ msgid "Details..."
+#~ msgstr "Detalles..."
+
+#~ msgid "Add Layers"
+#~ msgstr "Agregar capas"
+
+#~ msgid "Area"
+#~ msgstr "Área"
+
+#~ msgid "Background"
+#~ msgstr "Fondo"
+
+#~ msgid "Done"
+#~ msgstr "Hecho"
+
+#~ msgid "Available Layers"
+#~ msgstr "Capas disponibles"
+
+#~ msgid "Height"
+#~ msgstr "Altura"
+
+#~ msgid "Get Feature Info"
+#~ msgstr "Obtener información del objeto"
+
+#~ msgid "Large"
+#~ msgstr "Grande"
+
+#~ msgid "or add a new server."
+#~ msgstr "o agregar un nuevo servidor."
+
+#~ msgid "Map Layers"
+#~ msgstr "Capas del mapa"
+
+#~ msgid "View available data from:"
+#~ msgstr "Ver datos disponibles en:"
+
+#~ msgid "Data"
+#~ msgstr "Datos"
+
+#~ msgid "Layers"
+#~ msgstr "Capas"
+
+#~ msgid "Legend"
+#~ msgstr "Leyenda"
+
+#~ msgid "Length"
+#~ msgstr "Longitud"
+
+#~ msgid "Loading Map..."
+#~ msgstr "Cargando Mapa ..."
+
+#~ msgid "Map Size"
+#~ msgstr "Tamaño del mapa"
+
+#~ msgid "Measure"
+#~ msgstr "Medida"
+
+#~ msgid "Contact"
+#~ msgstr "Contacto"
+
+#~ msgid "Permalink"
+#~ msgstr "Enlace permanente"
+
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+#~ msgid "Pan Map"
+#~ msgstr "Paneo del Mapa"
+
+#~ msgid "Zoom to Next Extent"
+#~ msgstr "Acercamiento a la Extensión Siguiente"
+
+#~ msgid "Zoom to Previous Extent"
+#~ msgstr "Acercamiento a la Extensión Anterior"
+
+#~ msgid "This map has not yet been saved."
+#~ msgstr "Este mapa no se ha guardado todavía."
+
+#~ msgid "Premium"
+#~ msgstr "Premium"
+
+#~ msgid "Print Map"
+#~ msgstr "Imprimir Mapa"
+
+#~ msgid "Print Preview"
+#~ msgstr "Vista previa de Impresión"
+
+#~ msgid "Properties"
+#~ msgstr "Propiedades"
+
+#~ msgid "Publish Map"
+#~ msgstr "Publicar Mapa"
+
+#~ msgid "Remove Layer"
+#~ msgstr "Remover Capa"
+
+#~ msgid "Sorry, your map could not be saved."
+#~ msgstr "Lo sentimos, el mapa no se pudo guardar."
+
+#~ msgid "Error While Saving"
+#~ msgstr "Error al guardar"
+
+#~ msgid "Save Map"
+#~ msgstr "Guardar Mapa"
+
+#~ msgid "You must be logged in to save this map."
+#~ msgstr "Debes iniciar una sesión para guardar este mapa."
+
+#~ msgid "Small"
+#~ msgstr "Pequeñas"
+
+#~ msgid ""
+#~ "Error contacting server.\n"
+#~ " Please check the url and try again."
+#~ msgstr ""
+#~ "Error al conectarse con el servidor.\n"
+#~ "Por favor, compruebe la URL y vuelva a intentarlo."
+
+#~ msgid "Layer Properties"
+#~ msgstr "Propiedades de las capas"
+
+#~ msgid "Change layer format and style"
+#~ msgstr "Cambiar el formato y el estilo de la capa"
+
+#~ msgid "Edit Styles"
+#~ msgstr "Editar Estilos"
+
+#~ msgid "Edit layer styles"
+#~ msgstr "Editar estilos de capa"
+
+#~ msgid "Switch to Google Earth 3D Viewer"
+#~ msgstr "Cambiar a Google Earth Viewer 3D"
+
+#~ msgid ""
+#~ "The map that you are trying to load does not exist.  Creating a new map "
+#~ "instead."
+#~ msgstr "El mapa que está intentando cargar no existe. Se creará un mapa."
+
+#~ msgid "Width"
+#~ msgstr "Ancho"
+
+#~ msgid "Zoom In"
+#~ msgstr "Acercar"
+
+#~ msgid "Zoom Out"
+#~ msgstr "Alejar"
+
+#~ msgid "Zoom level"
+#~ msgstr "Nivel de acercamiento"
+
+#~ msgid "Zoom Level"
+#~ msgstr "Nivel de Acercamiento"
+
+#~ msgid "Zoom to Layer Extent"
+#~ msgstr "Zoom a la Extensión de la Capa"
+
+#~ msgid "Zoom to Visible Extent"
+#~ msgstr "Zoom a la Extensión Visible"
+
+#~ msgid "Zoom Level {zoom}"
+#~ msgstr "Nivel de zoom {zoom}"
+
+#~ msgid "Create Map"
+#~ msgstr "Crear Mapa"
+
+#~ msgid "Export Map"
+#~ msgstr "Exportar Mapa "
+
+#~ msgid "Map"
+#~ msgstr "Mapa"
+
+#~ msgid "View this Map"
+#~ msgstr "Ver este Mapa"
+
+#~ msgid "Open Map"
+#~ msgstr "Abrir Mapa"
+
+#~ msgid "Name"
+#~ msgstr "Nombre"
+
+#~ msgid "Queryable"
+#~ msgstr "Consultable"
+
+#~ msgid "No background"
+#~ msgstr "Sin fondo"
+
+#~ msgid ""
+#~ "Your map is ready to be published to the web!  Simply copy the following "
+#~ "HTML to embed the map in your website:"
+#~ msgstr ""
+#~ "El mapa está listo para ser publicado en la web! Simplemente copia el "
+#~ "siguiente código HTML para incrustar el mapa en tu página web:"
+
+#~ msgid "Abstract:"
+#~ msgstr "Resumen:"
+
+#~ msgid "No attribution information is provided for this layer."
+#~ msgstr "No hay información de atributos para esta capa."
+
+#~ msgid "Provided by:"
+#~ msgstr "Proporcionado por:"
+
+#~ msgid "Download:"
+#~ msgstr "Descargar:"
+
+#~ msgid "No keywords are listed for this layer."
+#~ msgstr "No hay palabras clave para esta capa."
+
+#~ msgid "Keywords:"
+#~ msgstr "Palabras clave:"
+
+#~ msgid "No metadata URLs are defined for this layer."
+#~ msgstr "No hay URLs de metadato definidas para esta capa."
+
+#~ msgid "Paper size:"
+#~ msgstr "Tamaño de papel:"
+
+#~ msgid "Resolution:"
+#~ msgstr "Resolución:"
+
+#~ msgid "Print"
+#~ msgstr "Imprimir"
+
+#~ msgid "Enter map title here."
+#~ msgstr "Introduzca el título del mapa aquí."
+
+#~ msgid "Include legend?"
+#~ msgstr "Incluir la leyenda?"
+
+#~ msgid "Creating PDF..."
+#~ msgstr "Creando PDF ..."
+
+#~ msgid "Last Modified"
+#~ msgstr "Última Modificación"
+
+#~ msgid "Prev"
+#~ msgstr "Anterior"
+
+#~ msgid "Next"
+#~ msgstr "Siguiente"
+
+#~ msgid "of"
+#~ msgstr "de"
+
+#~ msgid "Your search did not match any items."
+#~ msgstr "Tu búsqueda no produjo ningún resultado."
+
+#~ msgid "Search Maps"
+#~ msgstr "Mapa de Búsqueda"
+
+#~ msgid "Search"
+#~ msgstr "Búsqueda"
+
+#~ msgid "Showing"
+#~ msgstr "Listado"
+
+#~ msgid "Loading"
+#~ msgstr "Cargando"
+
+#~ msgid "permalink"
+#~ msgstr "Enlace permanente"
+
+#~ msgid "Select:"
+#~ msgstr "Selecciona:"
+
+#~ msgid "All"
+#~ msgstr "Todos los"
+
+#~ msgid "None"
+#~ msgstr "Ninguno"
+
+#~ msgid "Loading..."
+#~ msgstr "Cargando..."
+
+#~ msgid "You do not have permission to view this data"
+#~ msgstr "No tienes permiso para ver estos datos"
+
+#~ msgid "This data is stored on a remote server"
+#~ msgstr "Estos datos están almacenados en un servidor remoto"
+
+#~ msgid "No abstract is provided for this layer."
+#~ msgstr "No hay resumen para esta capa."
+
+#~ msgid "No download URLs are definied for this layer."
+#~ msgstr "No hay URLs de descarga para esta capa."
+
+#~ msgid "Selected Layers"
+#~ msgstr "Capas seleccionadas"
+
+#~ msgid "No Layers Selected"
+#~ msgstr "No hay capas seleccionadas"
+
+#~ msgid "Clear Selected"
+#~ msgstr "Borrar seleccionados"
+
+#~ msgid "Clear All"
+#~ msgstr "Borrar todos"
+
+#~ msgid "Operation Failed"
+#~ msgstr "Error en la operación"
+
+#~ msgid "No layers are currently selected."
+#~ msgstr "Actualmente no hay capas seleccionadas."
+
+#~ msgid "Downloading..."
+#~ msgstr "Descargando..."
+
+#~ msgid "Please wait"
+#~ msgstr "Por favor, espere"
+
+#~ msgid ""
+#~ "January February March April May June July August September October "
+#~ "November December"
+#~ msgstr ""
+#~ "January February March April May June July August September October "
+#~ "November December"
+
+#~ msgid "S M T W T F S"
+#~ msgstr "S M T W T F S"
+
+#~ msgid "Show"
+#~ msgstr "Show"
+
+#~ msgid "Hide"
+#~ msgstr "Hide"
+
+#~ msgid "Clock"
+#~ msgstr "Clock"
+
+#~ msgid "Choose a time"
+#~ msgstr "Choose a time"
+
+#~ msgid "Midnight"
+#~ msgstr "Midnight"
+
+#~ msgid "6 a.m."
+#~ msgstr "6 a.m."
+
+#~ msgid "Noon"
+#~ msgstr "Noon"
+
+#~ msgid "Today"
+#~ msgstr "Today"
+
+#~ msgid "Calendar"
+#~ msgstr "Calendar"
+
+#~ msgid "Yesterday"
+#~ msgstr "Yesterday"
+
+#~ msgid "Tomorrow"
+#~ msgstr "Tomorrow"
+
+#~ msgid "Add user..."
+#~ msgstr "Add user..."
+
+#~ msgid "Who can view and download this data?"
+#~ msgstr "Who can view and download this data?"
+
+#~ msgid "Anyone"
+#~ msgstr "Anyone"
+
+#~ msgid "Any registered user"
+#~ msgstr "Any registered user"
+
+#~ msgid "Only users who can edit"
+#~ msgstr "Only users who can edit"
+
+#~ msgid "Who can edit this data?"
+#~ msgstr "Who can edit this data?"
+
+#~ msgid "Only the following users or groups:"
+#~ msgstr "Only the following users or groups:"
+
+#~ msgid "Who can manage and edit this data?"
+#~ msgstr "Who can manage and edit this data?"
+
+#~ msgid "GeoTiff File"
+#~ msgstr "GeoTiff File"
+
+#~ msgid "Comma Separated File"
+#~ msgstr "Comma Separated File"
+
+#~ msgid "Zip Archives"
+#~ msgstr "Zip Archives"
+
+#~ msgid "You are uploading an incomplete set of files."
+#~ msgstr "You are uploading an incomplete set of files."
+
+#~ msgid "No error message supplied"
+#~ msgstr "No error message supplied"

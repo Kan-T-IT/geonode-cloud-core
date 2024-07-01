@@ -1,0 +1,6913 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Barun Paudel <paudel.barun4@gmail.com>, 2015
+# chandimathamali <thamalimampitiya@gmail.com>, 2013
+# geoedge dmc <geoedge.dmc@gmail.com>, 2016
+# Indunil <ricsdej@gmail.com>, 2013
+# Indunil <ricsdej@gmail.com>, 2013
+# srimalsl <srimalsl@yahoo.com>, 2013
+# srimalsl <srimalsl@yahoo.com>, 2013
+# chandimathamali <thamalimampitiya@gmail.com>, 2013
+# Vivien Deparday <vivien.deparday@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoNode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-08 09:02+0300\n"
+"PO-Revision-Date: 2016-08-23 13:57+0000\n"
+"Last-Translator: Julien Collaer <julien.collaer@opengeode.be>\n"
+"Language-Team: Sinhala (http://www.transifex.com/geonode/geonode/language/"
+"si/)\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Request to download a resource"
+msgstr "resource බාගත කිරීම සඳහා ඉල්ලුම් කිරීම"
+
+msgid "A request for downloading a resource was sent"
+msgstr "resource බාගත කිරීම සඳහා ඉල්ලීමක් යවන ලදී"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Request resource change"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "A user has requested access to the site"
+msgid "Owner has requested permissions to modify a resource"
+msgstr "පරිශීලකයෙක් වෙබ් අඩවිය වෙත ප්රවේශ ඉල්ලීමක් කර තිබේ"
+
+msgid "series"
+msgstr "ශ්‍රේණිය"
+
+msgid "computer program or routine"
+msgstr "පරිගණක වැඩසටහන හෝ රූටිනය"
+
+msgid "feature type"
+msgstr "අංගය"
+
+msgid "copy or imitation of an existing or hypothetical object"
+msgstr "පවතින හෝ කල්පිත වස්තුවක් පිටපත් කිරීම හෝ අනුකරණය"
+
+msgid "collection hardware"
+msgstr "එකතුව දෘඩාංග"
+
+msgid "collection session"
+msgstr "එකතුව සැසිය"
+
+msgid "non-geographic data"
+msgstr "භූගෝලීය නොවන දත්ත"
+
+msgid "property type"
+msgstr "ගුණාංගය"
+
+msgid "field session"
+msgstr "ක්ෂේත්රයේ සැසිය"
+
+#, fuzzy
+#| msgid "dataset"
+msgid "dataset"
+msgstr "දත්ත කට්ටලය"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "service interfaces"
+msgstr "සම්පත්"
+
+msgid "attribute class"
+msgstr "ගුණාංග පන්තිය"
+
+msgid "characteristic of a feature"
+msgstr "අංගයක ගති ලක්ෂණ"
+
+msgid "tile or spatial subset of geographic data"
+msgstr "උළු හෝ භූගෝලීය දත්ත අවකාශ උප කුලකයක්"
+
+msgid "feature"
+msgstr "අංගය"
+
+msgid "dimension group"
+msgstr "මිනුම් කණ්ඩායම"
+
+msgid "frequency of maintenance for the data is not known"
+msgstr "දත්ත නඩත්තු කිරීම් වාර ගණන නොදනී"
+
+msgid "data is repeatedly and frequently updated"
+msgstr "දත්ත නිරන්තරයෙන් නැවත නැවතත් යාවත්කාලීන කරනු ලැබේ"
+
+msgid "there are no plans to update the data"
+msgstr "දත්ත යාවත්කාලීන කිරීමේ සැලසුමක් නොපවතී"
+
+msgid "data is updated each day"
+msgstr "දිනපතා දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated every year"
+msgstr "සෑම වසරකම දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated as deemed necessary"
+msgstr "අවශ්‍ය වූ විටෙක දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated each month"
+msgstr "සෑම මසකදීම දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated every two weeks"
+msgstr "සෑම සති දෙකකට වරක්ම දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated in intervals that are uneven in duration"
+msgstr "අසමාන කාල පරිච්ඡේද වලදී දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated on a weekly basis"
+msgstr "සති පතා  දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated twice each year"
+msgstr "සෑම වසරකටම දෙවරක් දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "data is updated every three months"
+msgstr "සෑම මාස තුනකට වරක්ම දත්ත යාවත්කාලීන කරනු ලැබේ"
+
+msgid "No information provided"
+msgstr "තොරතුරු සපයා නොමැත"
+
+msgid "Category is required."
+msgstr "ප්රවර්ගය අවශ්ය වේ."
+
+msgid "Keywords from Thesaurus"
+msgstr ""
+
+msgid "List of keywords from Thesaurus"
+msgstr ""
+
+msgid "Abstract"
+msgstr "සාරාංශය"
+
+msgid "Purpose"
+msgstr "අරමුණ"
+
+#, fuzzy
+#| msgid "Notice settings"
+msgid "Other constraints"
+msgstr "Notice settings"
+
+#, fuzzy
+#| msgid "supplemental information"
+msgid "Supplemental information"
+msgstr "අතිරේක තොරතුරු"
+
+#, fuzzy
+#| msgid "data quality statement"
+msgid "Data quality statement"
+msgstr "දත්ත වල ගුණාත්මක භාවය"
+
+msgid "Owner"
+msgstr "හිමිකරු"
+
+msgid "Date"
+msgstr "දිනය"
+
+msgid "temporal extent start"
+msgstr "ලෞකික දුරට ආරම්භ"
+
+msgid "temporal extent end"
+msgstr "ලෞකික දුරට අවසන්"
+
+msgid "Person outside GeoNode (fill form)"
+msgstr "GeoNode පිටත පුද්ගලයා (ආකෘති පත්රය පිරවීම)"
+
+msgid "Point of Contact"
+msgstr "විමසීමි"
+
+msgid "Metadata Author"
+msgstr "ලේඛනයේ අයිතිකරු"
+
+#, fuzzy
+#| msgid "Keywords"
+msgid "Free-text Keywords"
+msgstr "මුලපද"
+
+#, fuzzy
+#| msgid "A space or comma-separated list of keywords"
+msgid ""
+"A space or comma-separated list of keywords. Use the widget to select from "
+"Hierarchical tree."
+msgstr "එක් එක් මුලපදය  එක හිස්තැනකින් හෝ කොමාවකින් වෙන් කර ඇතුලත් කරන්න"
+
+msgid "Regions"
+msgstr "කලාප"
+
+#, fuzzy
+#| msgid "Groups"
+msgid "Group"
+msgstr "කණ්ඩායම්"
+
+msgid "Category"
+msgstr "ප්‍රභේදය"
+
+msgid "License"
+msgstr "බලපත්ර"
+
+msgid "Language"
+msgstr "භාෂාව"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "පරිශීලක"
+msgstr[1] "පරිශීලකයන්"
+
+#, fuzzy
+#| msgid "Permissions"
+msgid "Permission Type"
+msgstr "අවසර"
+
+#, fuzzy
+#| msgid "Model"
+msgid "Mode"
+msgstr "ආදර්ශ"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource"
+msgstr "සම්පත්"
+
+msgid "Reason"
+msgstr ""
+
+msgid "Short reasoning behind the request"
+msgstr ""
+
+msgid "function performed by the responsible party"
+msgstr "වගකිවයුතු පාර්ශවය විසින් සිදු කෙරෙන කාර්යය භාරය"
+
+msgid "brief narrative summary of the content of the resource(s)"
+msgstr "මූලාශ්‍රයේ (මූලාශ්‍ර වල) අන්තර්ගතය පිළිබඳ කෙටි සාරාංශගත විස්තරයක්"
+
+msgid "reference date for the cited resource"
+msgstr "උපුටාගත් මූලාශ්‍රය පරිශීලනය කල දිනය"
+
+msgid "identification of when a given event occurred"
+msgstr "යම් සිද්ධියක් සිදු වූ අවස්ථාව හඳුනා ගැනීම"
+
+msgid "version of the cited resource"
+msgstr "උපුටාගත් මූලාශ්‍රය කී වෙනි සංස්කරණයද යන වග"
+
+msgid ""
+"authority or function assigned, as to a ruler, legislative assembly, "
+"delegate, or the like."
+msgstr ""
+
+msgid "a DOI will be added by Admin before publication."
+msgstr ""
+
+msgid "summary of the intentions with which the resource(s) was developed"
+msgstr "මූලාශ්‍රයේ (මූලාශ්‍ර වල) පරමාර්ථය පිළිබඳ සාරාංශයක්"
+
+msgid ""
+"frequency with which modifications and deletions are made to the data after "
+"it is first produced"
+msgstr "දත්ත නිපදවීමෙන් පසු ඒවාට සිදු කරන වෙනස්කම් සහ මකා දැමීම් වාර ගනන"
+
+#, fuzzy
+#| msgid ""
+#| "commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+#| "the subject (space or comma-separated"
+msgid ""
+"commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+"the subject (space or comma-separated)"
+msgstr ""
+"වස්තුව විස්තර කිරීමට යොදා ගන්නා පොදුවේ භාවිතා වන වචන(ය) හෝ රූපීකෘත වචන (ය) හෝ වාක්‍ය "
+"ඛණ්ඩ(ය) (හිස්තැනකින් හෝ කොමාවකින් වෙන් කර ලියන්න"
+
+#, fuzzy
+#| msgid ""
+#| "commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+#| "the subject (space or comma-separated"
+msgid ""
+"formalised word(s) or phrase(s) from a fixed thesaurus used to describe the "
+"subject (space or comma-separated)"
+msgstr ""
+"වස්තුව විස්තර කිරීමට යොදා ගන්නා පොදුවේ භාවිතා වන වචන(ය) හෝ රූපීකෘත වචන (ය) හෝ වාක්‍ය "
+"ඛණ්ඩ(ය) (හිස්තැනකින් හෝ කොමාවකින් වෙන් කර ලියන්න"
+
+msgid "keyword identifies a location"
+msgstr "මුලපදය ස්ථානයක් හඳුනාගනී"
+
+msgid "limitation(s) placed upon the access or use of the data."
+msgstr "දත්ත වලට පිවිසීම හෝ භාවිතය සම්බන්ධයෙන් පනවා ඇති සීමා කිරීම්"
+
+msgid ""
+"other restrictions and legal prerequisites for accessing and using the "
+"resource or metadata"
+msgstr ""
+"සම්පත හෝ මෙටාදත්ත වලට පිවිසීමට හෝ ඒවා භාවිතා කිරීමට පනවා ඇති වෙනත් සම්බාධක සහ නීතිමය අවශ්‍"
+"යතා"
+
+msgid "license of the dataset"
+msgstr "මේ දත්ත සමුදාය බලපත්රය"
+
+msgid "language used within the dataset"
+msgstr "දත්ත කට්ටලය තුල භාවිතා කර ඇති භාෂාව"
+
+msgid ""
+"high-level geographic data thematic classification to assist in the grouping "
+"and search of available geographic data sets."
+msgstr ""
+"පවතින භූගෝලීය දත්ත කට්ටලයන් සමූහනයට සහ සෙවීමට සහය දැක්වීම සඳහා ඉහල මට්ටමේ භූගෝලීය දත්ත "
+"තේමානුගතව වර්ගීකරණය "
+
+msgid "method used to represent geographic information in the dataset."
+msgstr "දත්ත කට්ටලය තුල ඇති භූගෝලීය තොරතුරු නියෝජනය කිරීමට භාවිත කර ඇති ක්‍රමය"
+
+msgid "time period covered by the content of the dataset (start)"
+msgstr "දත්ත කට්ටලයේ අන්තර්ගතයෙන් ආවරණය වන කාල සීමාව (ආරම්භයේදී )"
+
+msgid "time period covered by the content of the dataset (end)"
+msgstr "දත්ත කට්ටලයේ අන්තර්ගතයෙන් ආවරණය වන කාල සීමාව (අවසානයේදී )"
+
+msgid ""
+"general explanation of the data producer's knowledge about the lineage of a "
+"dataset"
+msgstr "දත්ත කට්ටලයක ආර පිළිබඳව දත්ත නිෂ්පාදකගේ දැනීම ගැන සාමාන්‍ය පැහැදිලි කිරීමක්"
+
+msgid "title"
+msgstr "මාතෘකාව"
+
+msgid "name by which the cited resource is known"
+msgstr "උපුටාගත් මූලාශ්‍රය හඳුන්වන නාමය"
+
+msgid "abstract"
+msgstr "සාරාංශය"
+
+msgid "purpose"
+msgstr "අරමුණ"
+
+msgid "date"
+msgstr "දිනය"
+
+msgid "date type"
+msgstr "දින මාදිළිය"
+
+msgid "edition"
+msgstr "සංස්කරණය"
+
+#, fuzzy
+#| msgid "Attribute"
+msgid "Attribution"
+msgstr "ගුණාංග"
+
+msgid "DOI"
+msgstr ""
+
+msgid "maintenance frequency"
+msgstr "නඩත්තු වාර ගණන"
+
+msgid "keywords"
+msgstr "මුලපදය"
+
+msgid "keywords region"
+msgstr "මුලපද කලාපය"
+
+msgid "restrictions"
+msgstr "බාධා කිරීම්"
+
+msgid "restrictions other"
+msgstr "වෙනත් සීමා කිරීම්"
+
+msgid "language"
+msgstr "භාෂාව"
+
+msgid "spatial representation type"
+msgstr "අවකාශීය නිරූපණය වර්ගය"
+
+msgid "supplemental information"
+msgstr "අතිරේක තොරතුරු"
+
+msgid "any other descriptive information about the dataset"
+msgstr "දත්ත කට්ටලය පිළිබඳ වෙනත් ඕනෑම සවිස්තරාත්මක තොරතුරක්"
+
+msgid "data quality statement"
+msgstr "දත්ත වල ගුණාත්මක භාවය"
+
+msgid "CSW typename"
+msgstr "CSW වර්ග නාමය"
+
+msgid "CSW schema"
+msgstr "අතිකරන්නන් schema"
+
+msgid "CSW source"
+msgstr "CSW ප්‍රභවය"
+
+msgid "CSW insert date"
+msgstr "CSW ඇතුලත් කරන දිනය"
+
+msgid "CSW type"
+msgstr "CSW වර්ගය"
+
+msgid "CSW anytext"
+msgstr "අතිකරන්නන් anytext"
+
+msgid "CSW WKT geometry"
+msgstr "CSW WKT ජ්‍යාමිතිය"
+
+#, fuzzy
+#| msgid "Metadata Provider"
+msgid "Metadata uploaded preserve"
+msgstr "මෙටාදත්ත සැපයුම්කරු"
+
+msgid "Featured"
+msgstr "විශේෂාංග"
+
+msgid "Should this resource be advertised in home page?"
+msgstr "මෙම resource මුල් පිටුව ප්රචාරය කළ යුතුද?"
+
+msgid "Is Published"
+msgstr "ප්රකාශයට පත්"
+
+msgid "Should this resource be published and searchable?"
+msgstr "මෙම resource මුල් පිටුව ප්රචාරය කළ යුතුද?"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Approved"
+msgstr "සපයනු නොලැබේ"
+
+msgid "Is this resource validated from a publisher or editor?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail url"
+msgstr "Thumbnail"
+
+msgid "State"
+msgstr ""
+
+msgid "Hold the resource processing state."
+msgstr ""
+
+msgid "Dirty State"
+msgstr ""
+
+msgid "Security Rules Are Not Synched with GeoServer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource Type"
+msgstr "සම්පත්"
+
+msgid "Metadata"
+msgstr "පාරදත්ත"
+
+msgid "If true, will be excluded from search"
+msgstr ""
+
+msgid "For example \"kml\""
+msgstr "උදාහරණයක් ලෙස \"kml\""
+
+msgid "For example \"View in Google Earth\""
+msgstr "උදාහරණයක් ලෙස \"view in Google Earth\""
+
+msgid "For example \"text/xml\""
+msgstr "උදාහරණයක් ලෙස \"text/xml\""
+
+msgid "About"
+msgstr "ගැන"
+
+#, fuzzy
+#| msgid "Owner, Point of Contact, Metadata Author"
+msgid "Responsible, Point of Contact, Metadata Author"
+msgstr "හිමිකරු, point of Contact. Meta data කර්තෘ"
+
+msgid "Responsible"
+msgstr ""
+
+msgid "Title"
+msgstr "මාතෘකාව"
+
+msgid "SRID"
+msgstr ""
+
+#, fuzzy
+#| msgid "More info"
+msgid "For more info see"
+msgstr "වැඩි විස්තර"
+
+#, fuzzy
+#| msgid "Creating a Map"
+msgid "Creation Date"
+msgstr "සිතියමක් නිර්මාණය කිරීම"
+
+#, fuzzy
+#| msgid "Position Name"
+msgid "Publication Date"
+msgstr "තනතුර"
+
+#, fuzzy
+#| msgid "Permission Denied"
+msgid "Revision Date"
+msgstr "අවසර ලබා දෙනු නොලැබේ"
+
+msgid "Type"
+msgstr "වර්ගය"
+
+msgid "Keywords"
+msgstr "මුලපද"
+
+msgid "More info"
+msgstr "වැඩි විස්තර"
+
+msgid "Maintenance Frequency"
+msgstr "නඩත්තු වාර ගණන"
+
+msgid "Restrictions"
+msgstr "සීමා කිරීම්"
+
+msgid "Edition"
+msgstr "සංස්කරණය"
+
+msgid "Temporal Extent"
+msgstr "ලෞකික ෙහ"
+
+msgid "Data Quality"
+msgstr "දත්ත වල ගුණාත්මකභාවය"
+
+msgid "Supplemental Information"
+msgstr "අමතර විස්තර"
+
+msgid "Spatial Representation Type"
+msgstr "අවකාශ නිරූපණය වර්ගය"
+
+#, fuzzy
+#| msgid "Document Created"
+msgid "No content created yet."
+msgstr "ලේඛන නිර්මාණය"
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Temporal Serie"
+msgstr "ලෞකික ෙහ"
+
+msgid "Select"
+msgstr ""
+
+#, fuzzy
+#| msgid "Services"
+msgid "Service is"
+msgstr "සේවා"
+
+msgid "online"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "SECURITY NOT YET SYNCHRONIZED"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Sync permissions immediately"
+msgstr "කට්ටලයක් අවසර"
+
+msgid "PENDING APPROVAL"
+msgstr ""
+
+msgid "UNPUBLISHED"
+msgstr ""
+
+msgid "Create a Map"
+msgstr "සිතියමක් නිර්මාණය කරන්න"
+
+msgid "View Map"
+msgstr "සිතියම බලන්න"
+
+msgid "Batch Edit"
+msgstr ""
+
+msgid "Cancel"
+msgstr "අවලංගු කරන්න"
+
+msgid "Submit"
+msgstr "යොමු කරන්න"
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Set Permissions"
+msgstr "කට්ටලයක් අවසර"
+
+msgid "Discover the available datasets."
+msgstr ""
+
+#, fuzzy
+#| msgid "Set Map Thumbnail"
+msgid "Upload a Thumbnail"
+msgstr "Set Map Thumbnail"
+
+msgid "Remove (and use auto generated thumbnail)"
+msgstr ""
+
+#, fuzzy
+#| msgid "uploaded"
+msgid "Upload"
+msgstr "උඩුගත කරන ලද්දේ"
+
+#, fuzzy
+#| msgid "Remote Thumbnail"
+msgid "Auto generated thumbnail"
+msgstr "Remote Thumbnail"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "Raster Layer"
+msgstr "සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Edit Layer"
+msgid "Vector Layer"
+msgstr "ස්ථරය සංස්කරණය කරන්න"
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Vector Temporal Serie"
+msgstr "ලෞකික ෙහ"
+
+#, fuzzy
+#| msgid "Remove Layers"
+msgid "Remote Layer"
+msgstr "ලේයර් ඉවත් කරන්න"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "WMS Cascade Layer"
+msgstr "සිතියමක් නිර්මාණය කරන්න"
+
+msgid "me"
+msgstr "මා"
+
+msgid "System message: A request to modify resource"
+msgstr ""
+
+#, fuzzy
+#| msgid "A user has requested access to the site"
+msgid "The resource owner has requested to modify the resource"
+msgstr "පරිශීලකයෙක් වෙබ් අඩවිය වෙත ප්රවේශ ඉල්ලීමක් කර තිබේ"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource title"
+msgstr "සම්පත්"
+
+msgid "Reason for the request"
+msgstr ""
+
+msgid ""
+"To allow the change, set the resource to not \"Approved\" under the metadata "
+"settingsand write message to the owner to notify him"
+msgstr ""
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Resource Cloned Successfully!"
+msgstr "Password සාර්ථකව වෙනස් විය."
+
+#, python-brace-format
+msgid "Error Occurred while Cloning the Resource: {e}"
+msgstr ""
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Resource Metadata"
+msgstr "සංස්කරණය කරන්න සේවා පාරදත්ත"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource ID"
+msgstr "සම්පත්"
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Extent"
+msgstr "ෙහ"
+
+#, fuzzy
+#| msgid "Coordinate Reference System"
+msgid "Spatial Reference System Identifier"
+msgstr "විමර්ශන ඛණ්ඩාංක පද්ධතිය"
+
+msgid "Attributes"
+msgstr "ගුණාංග"
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "Attribute name"
+msgstr "ගුණාංග නාමය"
+
+msgid "Description"
+msgstr "විස්තරය"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Client Library"
+msgstr "GeoNode සහය"
+
+msgid ""
+"Flora and/or fauna in natural environment. Examples: wildlife, vegetation, "
+"biological sciences, ecology, wilderness, sealife, wetlands, habitat."
+msgstr ""
+
+msgid "Biota"
+msgstr ""
+
+msgid ""
+"Legal land descriptions. Examples: political and administrative boundaries."
+msgstr ""
+
+msgid "Boundaries"
+msgstr ""
+
+msgid ""
+"Processes and phenomena of the atmosphere. Examples: cloud cover, weather, "
+"climate, atmospheric conditions, climate change, precipitation."
+msgstr ""
+
+msgid "Climatology Meteorology Atmosphere"
+msgstr ""
+
+msgid ""
+"Economic activities, conditions and employment. Examples: production, "
+"labour, revenue, commerce, industry, tourism and ecotourism, forestry, "
+"fisheries, commercial or subsistence hunting, exploration and exploitation "
+"of resources such as minerals, oil and gas."
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid ""
+"Height above or below sea level. Examples: altitude, bathymetry, digital "
+"elevation models, slope, derived products."
+msgstr ""
+
+msgid "Elevation"
+msgstr ""
+
+msgid ""
+"Environmental resources, protection and conservation. Examples: "
+"environmental pollution, waste storage and treatment, environmental impact "
+"assessment, monitoring environmental risk, nature reserves, landscape."
+msgstr ""
+
+#, fuzzy
+#| msgid "Announcement"
+msgid "Environment"
+msgstr "නිවේදනය"
+
+msgid ""
+"Rearing of animals and/or cultivation of plants. Examples: agriculture, "
+"irrigation, aquaculture, plantations, herding, pests and diseases affecting "
+"crops and livestock."
+msgstr ""
+
+msgid "Farming"
+msgstr ""
+
+msgid ""
+"Information pertaining to earth sciences. Examples: geophysical features and "
+"processes, geology, minerals, sciences dealing with the composition, "
+"structure and origin of the earth s rocks, risks of earthquakes, volcanic "
+"activity, landslides, gravity information, soils, permafrost, hydrogeology, "
+"erosion."
+msgstr ""
+
+#, fuzzy
+#| msgid "Supplemental Information"
+msgid "Geoscientific Information"
+msgstr "අමතර විස්තර"
+
+msgid ""
+"Health, health services, human ecology, and safety. Examples: disease and "
+"illness, factors affecting health, hygiene, substance abuse, mental and "
+"physical health, health services."
+msgstr ""
+
+msgid "Health"
+msgstr ""
+
+msgid ""
+"Base maps. Examples: land cover, topographic maps, imagery, unclassified "
+"images, annotations."
+msgstr ""
+
+msgid "Imagery Base Maps Earth Cover"
+msgstr ""
+
+msgid ""
+"Inland water features, drainage systems and their characteristics. Examples: "
+"rivers and glaciers, salt lakes, water utilization plans, dams, currents, "
+"floods, water quality, hydrographic charts."
+msgstr ""
+
+msgid "Inland Waters"
+msgstr ""
+
+msgid ""
+"Military bases, structures, activities. Examples: barracks, training "
+"grounds, military transportation, information collection."
+msgstr ""
+
+msgid "Intelligence Military"
+msgstr ""
+
+msgid ""
+"Positional information and services. Examples: addresses, geodetic networks, "
+"control points, postal zones and services, place names."
+msgstr ""
+
+msgid "Location"
+msgstr "ස්ථානය"
+
+msgid ""
+"Features and characteristics of salt water bodies (excluding inland waters). "
+"Examples: tides, tidal waves, coastal information, reefs."
+msgstr ""
+
+msgid "Oceans"
+msgstr ""
+
+msgid ""
+"Information used for appropriate actions for future use of the land. "
+"Examples: land use maps, zoning maps, cadastral surveys, land ownership."
+msgstr ""
+
+msgid "Planning Cadastre"
+msgstr ""
+
+msgid ""
+"Settlements, anthropology, archaeology, education, traditional beliefs, "
+"manners and customs, demographic data, recreational areas and activities, "
+"social impact assessments, crime and justice, census information. Economic "
+"activities, conditions and employment."
+msgstr ""
+
+#, fuzzy
+#| msgid "Location"
+msgid "Population"
+msgstr "ස්ථානය"
+
+msgid ""
+"Characteristics of society and cultures. Examples: settlements, "
+"anthropology, archaeology, education, traditional beliefs, manners and "
+"customs, demographic data, recreational areas and activities, social impact "
+"assessments, crime and justice, census information."
+msgstr ""
+
+msgid "Society"
+msgstr ""
+
+msgid ""
+"Man-made construction. Examples: buildings, museums, churches, factories, "
+"housing, monuments, shops, towers."
+msgstr ""
+
+msgid "Structure"
+msgstr ""
+
+msgid ""
+"Means and aids for conveying persons and/or goods. Examples: roads, airports/"
+"airstrips, shipping routes, tunnels, nautical charts, vehicle or vessel "
+"location, aeronautical charts, railways."
+msgstr ""
+
+#, fuzzy
+#| msgid "Information of Layer"
+msgid "Transportation"
+msgstr "ස්ථරය තුළ දත්ත තොරතුරු"
+
+msgid ""
+"Energy, water and waste systems and communications infrastructure and "
+"services. Examples: hydroelectricity, geothermal, solar and nuclear sources "
+"of energy, water purification and distribution, sewage collection and "
+"disposal, electricity and gas distribution, data communication, "
+"telecommunication, radio, communication networks."
+msgstr ""
+
+msgid "Utilities Communication"
+msgstr ""
+
+#, fuzzy
+#| msgid "Document Updated"
+msgid "Document Created"
+msgstr "ලේඛන යාවත්කාලීන කිරීම"
+
+msgid "A Document was created"
+msgstr "ලියවිල්ලක් නිර්මිතය"
+
+msgid "Document Updated"
+msgstr "ලේඛන යාවත්කාලීන කිරීම"
+
+msgid "A Document was updated"
+msgstr "ලියවිල්ලක් යාවත්කාලීන කර"
+
+#, fuzzy
+#| msgid "Document Updated"
+msgid "Document Approved"
+msgstr "ලේඛන යාවත්කාලීන කිරීම"
+
+#, fuzzy
+#| msgid "A Document was created"
+msgid "A Document was approved by a Manager"
+msgstr "ලියවිල්ලක් නිර්මිතය"
+
+#, fuzzy
+#| msgid "Document Deleted"
+msgid "Document Published"
+msgstr "ලේඛන මකාදැමුවා"
+
+#, fuzzy
+#| msgid "A Document was updated"
+msgid "A Document was published"
+msgstr "ලියවිල්ලක් යාවත්කාලීන කර"
+
+msgid "Document Deleted"
+msgstr "ලේඛන මකාදැමුවා"
+
+msgid "A Document was deleted"
+msgstr "ලියවිල්ලක් මකා"
+
+msgid "Comment on Document"
+msgstr "ලේඛන පිළිබඳව නොදනිති"
+
+msgid "A Document was commented on"
+msgstr "ලියවිල්ලක් පිළිබඳව අදහස් විය"
+
+msgid "Rating for Document"
+msgstr ""
+
+msgid "A rating was given to a document"
+msgstr "ශ්රේණිය ලියවිල්ලක් ලබා දෙන ලදී"
+
+msgid "Width"
+msgstr "පළල"
+
+msgid "Height"
+msgstr "උස"
+
+msgid "Make"
+msgstr "සාදන්න "
+
+msgid "Model"
+msgstr "ආදර්ශ"
+
+msgid "Latitude"
+msgstr "අක්ෂාංශය"
+
+msgid "Not specified"
+msgstr "විශේෂයෙන් දක්වා නැති"
+
+msgid "Longitude"
+msgstr "දේශාංශය"
+
+msgid "Flash"
+msgstr "ක්‍ෂනික "
+
+msgid "True"
+msgstr "නිවැරදි "
+
+msgid "False"
+msgstr "වැරදි "
+
+msgid "Speed Rating"
+msgstr "වේග ඇගැයුම"
+
+msgid "Link to"
+msgstr "සම්බන්ධ කරන්න"
+
+msgid "File"
+msgstr "ගොනුව"
+
+msgid "Document must be a file or url."
+msgstr "ලේඛන හෝ ගොනුවකට විය යුතුය url"
+
+msgid "A document cannot have both a file and a url."
+msgstr "කරන ලද ලියවිල්ලක් ගොනු හා URL එකක් දෙකම කරන්න බැහැ."
+
+msgid "This file type is not allowed"
+msgstr "මෙම ගොනු වර්ගය සඳහා ඉඩ නැත"
+
+msgid "Permissions must be valid JSON."
+msgstr "අවසර වලංගු JSON විය යුතුය."
+
+msgid "The URL of the document if it is external."
+msgstr "එය බාහිර නම් ලේඛනයේ මෙම URL එක."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#, fuzzy
+#| msgid "Download"
+msgid "Download the"
+msgstr "බාගත කරන්න"
+
+#, fuzzy
+#| msgid "Document"
+msgid "document"
+msgstr "ලේඛන"
+
+msgid "External Resource"
+msgstr "බාහිර සම්පත්"
+
+msgid "Rate this document"
+msgstr "මෙම ලේඛනය ප්‍රමාණනය කරන්න"
+
+msgid "Average Rating"
+msgstr "සමාන්‍ය ප්‍රමාණනයන්"
+
+msgid "Metadata Detail"
+msgstr "පාරදත්ත විස්තර"
+
+msgid "Download Document"
+msgstr "බාගත ලේඛන"
+
+msgid "Request Download"
+msgstr "ඉල්ලීම් බාගත"
+
+msgid "Edit Document"
+msgstr "ලේඛනය සංස්කරණය කරන්න"
+
+#, fuzzy
+#| msgid "Request Download"
+msgid "Request change"
+msgstr "ඉල්ලීම් බාගත"
+
+msgid "Wizard"
+msgstr ""
+
+msgid "Advanced Edit"
+msgstr ""
+
+#, fuzzy
+#| msgid "Document"
+msgid "Document"
+msgid_plural "Documents"
+msgstr[0] "ලේඛන"
+msgstr[1] "ලේඛන"
+
+msgid "Clone"
+msgstr ""
+
+msgid "Replace"
+msgstr "ආදේශ කරන්න"
+
+msgid "Remove"
+msgstr "ඉවත් කරන්න"
+
+msgid "Close"
+msgstr "වසන්න"
+
+msgid "Download Metadata"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+#, fuzzy
+#| msgid "Metadata"
+msgid "Full metadata"
+msgstr "පාරදත්ත"
+
+#, fuzzy
+#| msgid "format"
+msgid "Text format"
+msgstr "හැඩහුරුව"
+
+#, fuzzy
+#| msgid "format"
+msgid "HTML format"
+msgstr "හැඩහුරුව"
+
+msgid "Standard Metadata - XML format"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resource using this document"
+msgid "Resources using this document"
+msgstr "මෙම ලේඛනය භාවිතා කරන සම්පත"
+
+msgid "List of resources using this document:"
+msgstr "මෙම ලේඛනය භාවිතා කරන සම්පත් ලැයිස්තුව"
+
+msgid "This document is not related to any maps or layers"
+msgstr "මෙම ලේඛනය කිසියම් සිතියමකට හෝ ස්ථරයකට සම්බන්ධ නොවේ."
+
+msgid "Permissions"
+msgstr "අවසර"
+
+msgid "Click the button below to change the permissions of this document."
+msgstr "මෙම ලේඛනයේ අවසරය වෙනස් කිරීමට පහත බොත්තම ක්ලික් කරන්න"
+
+msgid "Change Document Permissions"
+msgstr "ලේඛනයේ අවසරය වෙනස් කරන්න"
+
+msgid "Explore Documents"
+msgstr "ලේඛන සොයන්න"
+
+msgid "Upload Documents"
+msgstr "ලේඛන උඩුගත කරන්න"
+
+#, python-format
+msgid "for %(document_title)s"
+msgstr ""
+
+msgid "Completeness"
+msgstr ""
+
+msgid "Metadata Schema mandatory fields completed"
+msgstr ""
+
+msgid "Check Schema mandatory fields"
+msgstr ""
+
+msgid "Error updating metadata.  Please check the following fields: "
+msgstr "යාවත්කාලීන කිරීමේ දෝෂය metadata.පහත සඳහන් ක්ෂේත්ර පරීක්ෂා කරන්න:"
+
+msgid "Done"
+msgstr ""
+
+msgid "Metadata Provider"
+msgstr "මෙටාදත්ත සැපයුම්කරු"
+
+msgid "<< Back"
+msgstr ""
+
+msgid "Update"
+msgstr "යාවත්කාලීන කිරිම"
+
+#, fuzzy
+#| msgid "Next"
+msgid "Next >>"
+msgstr "මීළඟ"
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Select an option"
+msgstr "ගුණාංගයක් තෝරා ගන්න"
+
+msgid "Edit Metadata"
+msgstr "මෙටා දත්ත සංස්කරණය කරන්න"
+
+msgid "Editing details for"
+msgstr "සඳහා සංස්කරණය විස්තර"
+
+msgid "Return to Document"
+msgstr "ලේඛන වෙත ආපසු යන්න"
+
+msgid "Deleting"
+msgstr "මකාදැමීම"
+
+msgid "Remove Document"
+msgstr "ලේඛන ඉවත් කරන්න"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(document.get_absolute_url)s\">%(document_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "Yes, I am sure"
+msgstr "ඔව්, මට සහතිකයි"
+
+msgid "No, don't remove it"
+msgstr "නෑ, එය ඉවත් කරන්න එපා"
+
+msgid "Replace Document"
+msgstr "ලේඛනය ප්‍රතිස්ථාපනය කරන්න"
+
+msgid "Replace "
+msgstr "ප්‍රතිස්ථාපනය කරන්න"
+
+msgid "Clear"
+msgstr "සිස් කරන්න"
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Upload Document's Thumbnail"
+msgstr "ලේඛන උඩුගත කරන්න"
+
+msgid "Drop files here"
+msgstr "ගොනු මෙහි අතහරින්න"
+
+msgid " or select them one by one:"
+msgstr "එසේත් නැත්නම් ඒවා එකින් එක තෝරන්න:"
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose Files"
+msgstr "පරිශීලකයන් තෝරන්න ..."
+
+msgid "Files to be uploaded"
+msgstr "උඩුගත කිරීමට ඇති ගොනු"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Is Upload Metadata XML Form"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+msgid "Upload files"
+msgstr "ගොනු උඩුගත කරන්න"
+
+msgid "Upload Document"
+msgstr "ලේඛනය උඩුගත කරන්න"
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Allowed document types"
+msgstr "ලේඛන උඩුගත කරන්න"
+
+msgid "Done!"
+msgstr ""
+
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+#, fuzzy
+#| msgid "Ratings"
+msgid "Settings"
+msgstr "ප්‍රමාණන"
+
+msgid "Mandatory"
+msgstr ""
+
+#, fuzzy
+#| msgid "Time Options"
+msgid "Optional"
+msgstr "කාල විකල්පයන්"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "Basic Metadata"
+msgstr "මෙටා දත්ත සංස්කරණය කරන්න"
+
+msgid "Location and Licenses"
+msgstr ""
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Required Metadata"
+msgstr "සංස්කරණය කරන්න සේවා පාරදත්ත"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Optional Metadata"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+#, fuzzy
+#| msgid "This action affects the following maps:"
+msgid "Choose one of the following..."
+msgstr "මෙම ක්‍රියාව පහත සිතියම් වලට බලපානු ඇත"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Other, Optional, Metadata"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+msgid "Responsible Parties"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change Layer Permissions"
+msgid "Responsible and Permissions"
+msgstr "මෙම සිතියම සඳහා අවසරය වෙනස් කරන්න"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Publishing"
+msgstr "ප්රකාශයට පත්"
+
+msgid "You are not allowed to view this document."
+msgstr "මෙම ලේඛනය නැරඹීමට ඔබට අවසර නැත."
+
+msgid "You are not permitted to delete this document"
+msgstr "මෙම ලේඛනය මකා දැමීමට ඔබට අවසර නැත"
+
+msgid "You do not have permissions for this document."
+msgstr "මෙම ලේඛනය සඳහා ඔබට අවසර නැත"
+
+msgid "You are not permitted to modify this document"
+msgstr "මෙම ලේඛනයට වෙනස්කම් සිදු කිරීමට ඔබට අවසර නැත"
+
+msgid "You are not permitted to modify this document's metadata"
+msgstr "මෙම ලෙඛනයේ වෙනස්කම් කිරීමට ඔබට අවසර නැත"
+
+msgid "You are not permitted to view this document"
+msgstr "මෙම ලේඛනය බැලීමට ඔබට අවසර නැත"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Not allowed"
+msgstr "සපයනු නොලැබේ"
+
+#, fuzzy
+#| msgid "Page Not Found"
+msgid "Not found"
+msgstr "පිටුව සොයා ගත නොහැක"
+
+msgid "You must set a point of contact for this resource"
+msgstr "ඔබ මෙම සම්පත් සඳහා සබඳතා ලක්ෂ්යයක් තැබිය යුතු"
+
+msgid "You must set an author for this resource"
+msgstr "ඔබ මෙම සම්පත් සඳහා කර්තෘ තැබිය යුතුය"
+
+msgid "Favorite"
+msgstr "ප්රියතම"
+
+msgid "Add to Favorites"
+msgstr "ප්‍රියතමදෑ එක්කිරීම"
+
+#, fuzzy
+#| msgid "Add to Favorites"
+msgid "Go to Favorites"
+msgstr "ප්‍රියතමදෑ එක්කිරීම"
+
+msgid "Log in to add/delete Favorites."
+msgstr "එකතු කිරීමට ලොගින් වන්න / ප්‍රියතමදෑ මැකීම "
+
+msgid "Delete from Favorites"
+msgstr "ප්‍රියතමදෑ මැකීම "
+
+msgid "Favorites"
+msgstr "ප්රියතම"
+
+msgid "Favorites for"
+msgstr "ප්‍රියතමදෑ සඳහා"
+
+msgid "Item"
+msgstr ""
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "App Created"
+msgstr "සිතියම නිර්මාණය කරන ලදී."
+
+#, fuzzy
+#| msgid "A Layer was created"
+msgid "A App was created"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+#, fuzzy
+#| msgid "Map Updated"
+msgid "App Updated"
+msgstr "සිතියම යාවත්කාලීන කිරීම"
+
+#, fuzzy
+#| msgid "A Layer was updated"
+msgid "A App was updated"
+msgstr "A Layer was updated"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "App Approved"
+msgstr "සපයනු නොලැබේ"
+
+#, fuzzy
+#| msgid "A Layer was created"
+msgid "A App was approved by a Manager"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+#, fuzzy
+#| msgid "Published"
+msgid "App Published"
+msgstr "ප්රකාශයට පත්"
+
+#, fuzzy
+#| msgid "A Map was deleted"
+msgid "A App was published"
+msgstr "සිතියමක් මකා"
+
+#, fuzzy
+#| msgid "Map Deleted"
+msgid "App Deleted"
+msgstr "සිතියම මකාදැමුවා"
+
+#, fuzzy
+#| msgid "A Map was deleted"
+msgid "A App was deleted"
+msgstr "සිතියමක් මකා"
+
+#, fuzzy
+#| msgid "Comment on Map"
+msgid "Comment on App"
+msgstr "සිතියම පිළිබඳ අදහස් දක්වන්න"
+
+#, fuzzy
+#| msgid "A map was commented on"
+msgid "An App was commented on"
+msgstr "සිතියමක් පිළිබඳ අදහසක් දක්වන ලදී"
+
+#, fuzzy
+#| msgid "Rating for Map"
+msgid "Rating for App"
+msgstr "සිතියම සඳහා ප්‍රමාණනයන්"
+
+#, fuzzy
+#| msgid "A rating was given to a map"
+msgid "A rating was given to an App"
+msgstr "සිතියමක් සඳහා ප්‍රමාණනයක් දෙන ලදී"
+
+msgid "Name"
+msgstr "නම"
+
+msgid "zoom"
+msgstr "විශාල කර බලන්න"
+
+msgid "projection"
+msgstr "ප්‍රක්ෂේපය"
+
+msgid "center X"
+msgstr "X මධ්‍ය ලක්ෂය"
+
+msgid "center Y"
+msgstr "Y මධ්‍ය ලක්ෂය"
+
+msgid "Site URL"
+msgstr "අඩවිය URL එක"
+
+#, fuzzy, python-format
+#| msgid "Resources"
+msgid "%(resource.type)s"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "Rate this Map"
+msgid "Rate this"
+msgstr "සිතියම ප්‍රමාණනය කරන්න"
+
+#, fuzzy
+#| msgid "Editing details for"
+msgid "Editing Tools"
+msgstr "සඳහා සංස්කරණය විස්තර"
+
+msgid "Set"
+msgstr "කට්ටලයක්"
+
+msgid "View"
+msgstr "View"
+
+msgid "Specify which users can view or modify this map"
+msgstr ""
+"මෙම සිතියම බැලීමට හෝ ඊට වෙනස්කම් සිදු කිරීමට හැකියාව ඇත්තේ කුමන පරිශීලකයන්ටදැයි විශේෂීකරණය කරන්න"
+
+#, fuzzy
+#| msgid "Change Permissions of this Map"
+msgid "Change Permissions of this"
+msgstr "මෙම සිතියම සඳහා අවසරය වෙනස් කරන්න"
+
+msgid "Embed Iframe"
+msgstr ""
+
+msgid ""
+"To embed this map, add the following code snippet and customize its "
+"properties (scrolling, width, height) based on your needs to your site"
+msgstr ""
+
+msgid "Download"
+msgstr "බාගත කරන්න"
+
+#, python-format
+msgid "%(GEONODE_APPS_NAME)s"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a New Map"
+msgid "Create New"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "GeoExplorer"
+msgid "Explore"
+msgstr "GeoExplorer"
+
+#, python-format
+msgid "for %(map_title)s"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "Note: this map's orginal metadata was populated by importing a metadata "
+#| "XML file.\n"
+#| "        GeoNode's metadata import supports a subset of ISO, FGDC, and "
+#| "Dublin Core metadata elements.\n"
+#| "        Some of your original metadata may have been lost."
+msgid ""
+"Note: this geoapp's orginal metadata was populated by importing a metadata "
+"XML file.\n"
+"        GeoNode's metadata import supports a subset of ISO, FGDC, and Dublin "
+"Core metadata elements.\n"
+"        Some of your original metadata may have been lost."
+msgstr ""
+"සටහන: මෙම සිතියමේ අවශ්ය් පාරදත්ත වූ පාරදත්ත XML යක file.\n"
+"ආනයනය ජනාවාසී වූ\n"
+"GeoNode පාර-දත්ත ආනයනය තිබෙන ISO, FGDC , සහ ඩබ්ලින් මූලික පාරදත්ත elements.\n"
+" උප ඒකකයකි සහය\n"
+"ඔබේ මුල් පාරදත්ත සමහර අහිමි වන්නට ඇත."
+
+#, fuzzy
+#| msgid "Explore Maps"
+msgid "Explore Apps"
+msgstr "සිතියම් සොයන්න"
+
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(map_title)s\n"
+"      "
+msgstr ""
+"\n"
+"ක් සඳහා සංස්කරණය විස්තර %(map_title)s"
+
+#, fuzzy
+#| msgid "Return to"
+msgid "Return to GeoApp"
+msgstr "වෙත ආපසු"
+
+#, fuzzy
+#| msgid "View Map"
+msgid "New Map"
+msgstr "සිතියම බලන්න"
+
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "          Are you sure you want to remove <a href="
+#| "\"%(layer.get_absolute_url)s\">%(layer_title)s</a>?\n"
+#| "        "
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(resource.get_absolute_url)s\">%(resource_title)s</a>?\n"
+"        "
+msgstr ""
+"\n"
+"ඔබ ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද<a href=\"%(layer.get_absolute_url)s\">"
+"%(layer_title)s"
+
+#, fuzzy
+#| msgid "Notice settings"
+msgid "Other Settings"
+msgstr "Notice settings"
+
+#, fuzzy
+#| msgid "You are not permitted to delete this map."
+msgid "You are not permitted to delete this app."
+msgstr "මෙම සිතියම මකා දැමීමට ඔබට අවසර නැත"
+
+#, fuzzy
+#| msgid "You do not have permissions for this map."
+msgid "You do not have permissions for this app."
+msgstr "මෙම සිතියම සඳහා ඔබට අවරස නැත."
+
+#, fuzzy
+#| msgid "You must be logged in to save this map"
+msgid "You must be logged in to save this app"
+msgstr "මෙම සිතියම save කිරීමට ඔබ ලොග් විය යුතුය"
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You are not permitted to save or edit this app."
+msgstr "ඔබ මෙම සිතියම බේරා හෝ සංස්කරණය කිරීමට අවසර නැත."
+
+#, fuzzy
+#| msgid "You are not allowed to modify this map's metadata."
+msgid "You are not allowed to modify this app's metadata."
+msgstr "මෙම සිතියමේ මෙටා දත්ත වෙනස් කිරීමට ඔබට අවසර නොමැත"
+
+#, fuzzy
+#| msgid "You are not allowed to view this map."
+msgid "You are not allowed to view this app."
+msgstr "මෙම සිතියම බැලීමට ඔබට අවසර නැත"
+
+msgid "An unknown error has occured."
+msgstr "නාඳුනන දෝෂයක් සිදු කර ඇත."
+
+msgid "Layer Uploaded"
+msgstr "ස්ථරය උඩුගත කලා"
+
+#, fuzzy
+#| msgid "A Layer was updated"
+msgid "A layer was uploaded"
+msgstr "A Layer was updated"
+
+msgid "Comment on Layer"
+msgstr "ස්ථරය ගැන අදහස් දක්වන්න"
+
+msgid "A layer was commented on"
+msgstr "ස්ථරයක් සඳහා අදහස් දක්වන ලදී"
+
+msgid "Rating for Layer"
+msgstr "ස්ථරය පිළිබඳ ප්‍රමාණනය"
+
+msgid "A rating was given to a layer"
+msgstr "ස්ථරයක් සඳහා ප්‍රමාණනයක් දෙන ලදී"
+
+msgid "Points"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Polygons"
+msgstr ""
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Dataset name"
+msgstr "දත්ත කට්ටලය"
+
+#, fuzzy
+#| msgid "Attributes"
+msgid "Dataset title"
+msgstr "ගුණාංග"
+
+#, fuzzy
+#| msgid "property type"
+msgid "Geometry type"
+msgstr "ගුණාංගය"
+
+#, fuzzy
+#| msgid "Featured"
+msgid "Create Dataset"
+msgstr "විශේෂාංග"
+
+#, fuzzy
+#| msgid "Explore Layers"
+msgid "Explore Datasets"
+msgstr "ස්ථර සොයන්න"
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Create an empty dataset"
+msgstr "මෙම ස්ථරය භාවිතා කර සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Attribute"
+msgid "Add Attribute"
+msgstr "ගුණාංග"
+
+msgid "Create"
+msgstr "නිර්මාණය කරන්න"
+
+msgid "String"
+msgstr ""
+
+#, fuzzy
+#| msgid "Intervals"
+msgid "Integer"
+msgstr "කාල ප්‍රාන්තර"
+
+msgid "Float"
+msgstr ""
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "No title provided"
+msgstr "සපයනු නොලැබේ"
+
+msgid "No abstract provided"
+msgstr "වියුක්ත ලබා නැත"
+
+msgid "An exception occurred loading data to PostGIS"
+msgstr "ව්යතිරේකයක් PostGIS කිරීමට පැටවීම දත්ත සිදු"
+
+msgid " Additionally an error occured during database cleanup"
+msgstr "මීට අමතරව දෝෂයක් දත්ත සමුදාය තුළ පිරිසිදු කිරීමේ සිදුවිය"
+
+msgid "Invalid Projection. Layer is missing CRS!"
+msgstr ""
+
+msgid "GZIP"
+msgstr ""
+
+msgid "GeoTIFF"
+msgstr ""
+
+msgid "Zipped Shapefile"
+msgstr "zip කරන ලද shapefile එක"
+
+msgid "GML 2.0"
+msgstr "GML 2.0"
+
+msgid "GML 3.1.1"
+msgstr "GML 3.1.1"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Excel"
+msgstr "Excel"
+
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "You don't have permissions to change style for this layer"
+msgstr "ඔබට මෙම ස්ථරය සඳහා ශෛලිය වෙනස් කිරීමට අවසර නොමැත"
+
+msgid "Bad HTTP Authorization Credentials."
+msgstr "නිවැරදි නොවන HTTP අවසර දීමේ සහතික"
+
+msgid ""
+"a short version of the name consisting only of letters, numbers, underscores "
+"and hyphens."
+msgstr "අකුරු, අංක , යටි සහ හයිපනය පමණක් සමන්විත නම කෙටි අනුවාදයක් ."
+
+msgid "A group already exists with that slug."
+msgstr "පිරිසක් දැනටමත් Slug මත පවතී."
+
+msgid "A group already exists with that name."
+msgstr "පිරිසක් මේ වන විටත් එම නම මත පවතී."
+
+#, fuzzy
+#| msgid "Identification"
+msgid "User Identifiers"
+msgstr "හදුනා ගැනීම"
+
+msgid "Assign manager role"
+msgstr ""
+
+#, python-format
+msgid ""
+"The following are not valid usernames: %(errors)s; not added to the group"
+msgstr ""
+
+#, fuzzy
+#| msgid "Categories"
+msgid "Group Categories"
+msgstr "වර්ග"
+
+msgid "Public"
+msgstr "පොදු"
+
+msgid "Public (invite-only)"
+msgstr "පොදු ( ආරාධනා - පමණි)"
+
+msgid "Private"
+msgstr "පුද්ගලික"
+
+msgid ""
+"Public: Any registered user can view and join a public group.<br>Public "
+"(invite-only):Any registered user can view the group.  Only invited users "
+"can join.<br>Private: Registered users cannot see any details about the "
+"group, including membership.  Only invited users can join."
+msgstr ""
+"රාජ්ය ඕනෑම ලියාපදිංචි පරිශීලක මහජන කණ්ඩායමක් නැරඹීමට හා සම්බන්ධ විය හැක <br> රාජ්ය "
+"( ආරාධනා පමණක් ): . යම් ලියාපදිංචි පරිශීලක සමූහය බැලිය හැක. ආරාධනා පරිශීලකයන් පමණක් සම්බන්ධ "
+"විය හැක පුද්ගලික විශ්වකෝෂය : . ලියාපදිංචි පරිශීලකයන් සාමාජිකත්වය ඇතුළු පිරිසක් ගැන කිසිදු විස්තරයක් "
+"පේන්නේ නැහැ. පමණක් ආරාධනා කරන්නන් සමග එක්විය හැකියි ."
+
+msgid ""
+"Email used to contact one or all group members, such as a mailing list, "
+"shared email, or exchange group."
+msgstr ""
+"විද්යුත් එවැනි ලිපි ලැයිස්තුවක් , බෙදා ඊ-තැපැල්, හෝ විනිමය කණ්ඩායමක් ලෙස කෙනෙකු හෝ සියලු කණ්ඩායම් "
+"සාමාජිකයන්, සම්බන්ධ කර ගැනීමට යොදා ගත්තේය."
+
+msgid "Logo"
+msgstr "ලාංඡනය"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "A space or comma-separated list of keywords"
+msgstr "එක් එක් මුලපදය  එක හිස්තැනකින් හෝ කොමාවකින් වෙන් කර ඇතුලත් කරන්න"
+
+msgid "Access"
+msgstr "ප්රවේශ"
+
+msgid "Categories"
+msgstr "වර්ග"
+
+msgid "Manager"
+msgstr "කළමනාකරු"
+
+msgid "Member"
+msgstr "සාමාජික"
+
+msgid "Activity Feed for"
+msgstr "සඳහා ක්රියාකාරකම් සංග්රහය"
+
+msgid "All"
+msgstr "සියල්ල"
+
+msgid "Layers"
+msgstr "ස්ථර"
+
+msgid "Maps"
+msgstr "සිතියම්"
+
+msgid "Documents"
+msgstr "ලේඛන"
+
+msgid "Comments"
+msgstr "විවරණ"
+
+msgid "No actions yet"
+msgstr "තවම ක්‍රියාවක් සිදු කර නැත"
+
+#, fuzzy
+#| msgid "Explore Groups"
+msgid "Explore Group Categories"
+msgstr "කණ්ඩායම් ගවේෂණය"
+
+#, fuzzy
+#| msgid "Create a New Group"
+msgid "Create a New Group Category"
+msgstr "නව සමූහ නිර්මාණය"
+
+msgid "Explore Groups"
+msgstr "කණ්ඩායම් ගවේෂණය"
+
+msgid "Create a Group"
+msgstr "පිරිසක් බිහි"
+
+msgid "Update Group"
+msgstr "යාවත්කාලීන සමූහ"
+
+msgid "Remove Group"
+msgstr "සමූහ ඉවත් කරන්න"
+
+msgid "Create Group"
+msgstr "සමූහ නිර්මාණය"
+
+#, fuzzy
+#| msgid "last modified"
+msgid "Last Modified"
+msgstr "අවසාන වරට වෙනස්කම් සිදු කලේ"
+
+msgid "This group has not created a logo."
+msgstr "මෙම කණ්ඩායම ලාංඡනයක් නිර්මාණය කර නැත."
+
+msgid "Edit Group Details"
+msgstr "සංස්කරණය කරන්න කණ්ඩායම් තොරතුරු"
+
+msgid "Manage Group Members"
+msgstr "කණ්ඩායම් සාමාජික කළමනාකරණය"
+
+msgid "Delete this Group"
+msgstr "මෙම කණ්ඩායම මැකිය"
+
+msgid "Group Activities"
+msgstr "සමූහ ක්රියාකාරකම්"
+
+#, python-format
+msgid ""
+"\n"
+"            This group is <strong>%(access)s</strong>.\n"
+"          "
+msgstr ""
+"\n"
+"මෙම කණ්ඩායම <strong> %(access)s</ strong>"
+
+msgid "Anyone may join this group."
+msgstr "ඕනෑම කෙනෙකුට මෙම කණ්ඩායම එක්වන හැක."
+
+msgid "Join Group"
+msgstr "සමූහ එක්වන්න"
+
+msgid "Anyone may view this group but membership is by invitation only."
+msgstr "ඕනෑම කෙනෙකුට මෙම කණ්ඩායම සක්රීය විය හැකි නමුත්, සාමාජිකත්වය පමණක් ආරාධනා කිරීමයි."
+
+msgid "Membership is by invitation only."
+msgstr "සාමාජිකත්වය පමණක් ආරාධනා කිරීමයි."
+
+msgid "Managers"
+msgstr "කළමනාකරුවන්"
+
+msgid "Members"
+msgstr "සාමාජිකයින්"
+
+msgid "Create a New Group"
+msgstr "නව සමූහ නිර්මාණය"
+
+msgid "Edit Members for"
+msgstr "සංස්කරණය කරන්න මන්ත්රීවරුන් සඳහා"
+
+#, fuzzy
+#| msgid "Members"
+msgid "Current Members"
+msgstr "සාමාජිකයින්"
+
+msgid "Promote"
+msgstr ""
+
+msgid "Demote"
+msgstr ""
+
+msgid "Role"
+msgstr "කාර්යභාරය"
+
+#, fuzzy
+#| msgid "Add members"
+msgid "Add new members"
+msgstr "සාමාජිකයන් එකතු කරන්න"
+
+#, fuzzy
+#| msgid "Manage Group Members"
+msgid "Add Group Members"
+msgstr "කණ්ඩායම් සාමාජික කළමනාකරණය"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove the group: %(group_title)s?\n"
+"        "
+msgstr ""
+"\n"
+"ඔබ කණ්ඩායම ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාසද  %(group_title)s? \n"
+"\n"
+" "
+
+msgid "Remove Maps/Data from Group"
+msgstr "සමූහ සිතියම් / දත්ත ඉවත් කරන්න"
+
+msgid "Remove selected maps/data"
+msgstr "තෝරාගත් සිතියම් / දත්ත ඉවත් කරන්න"
+
+#, fuzzy
+#| msgid "Edit Group Details"
+msgid "Edit Group Category Details"
+msgstr "සංස්කරණය කරන්න කණ්ඩායම් තොරතුරු"
+
+msgid "Groups"
+msgstr "කණ්ඩායම්"
+
+#, fuzzy
+#| msgid "Create Group"
+msgid "Create Group Category"
+msgstr "සමූහ නිර්මාණය"
+
+#, fuzzy
+#| msgid "Create a Group"
+msgid "Create a Group Category"
+msgstr "පිරිසක් බිහි"
+
+#, fuzzy
+#| msgid "Create Group"
+msgid "Edit Group Category"
+msgstr "සමූහ නිර්මාණය"
+
+msgid "Save"
+msgstr "සුරකින්න"
+
+msgid "ready"
+msgstr ""
+
+msgid "updating-harvestable-resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "harvesting-resources"
+msgstr "සම්පත්"
+
+msgid "checking-availability"
+msgstr ""
+
+#, fuzzy
+#| msgid "Harvested"
+msgid "Harvester name"
+msgstr "Harvested"
+
+msgid "Base URL of the remote service that is to be harvested"
+msgstr ""
+
+msgid ""
+"Whether to periodically schedule this harvester to look for resources on the "
+"remote service"
+msgstr ""
+
+msgid ""
+"How often (in minutes) should new harvesting sessions be automatically "
+"scheduled? Setting this value to zero has the same effect as setting "
+"`scheduling_enabled` to False "
+msgstr ""
+
+msgid "Whether the remote service is known to be available or not"
+msgstr ""
+
+msgid ""
+"How often (in minutes) should the remote service be checked for availability?"
+msgstr ""
+
+msgid "Last time the remote server was checked for availability"
+msgstr ""
+
+msgid "Last time the remote server was checked for harvestable resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "version of the cited resource"
+msgid "Default owner of harvested resources"
+msgstr "උපුටාගත් මූලාශ්‍රය කී වෙනි සංස්කරණයද යන වග"
+
+#, fuzzy
+#| msgid "Set permissions on selected resources"
+msgid "Default access permissions of harvested resources"
+msgstr "තෝරාගත් සම්පත් තබා අවසර"
+
+msgid ""
+"Should new resources be harvested automatically without explicit selection?"
+msgstr ""
+
+msgid ""
+"Orphan resources are those that have previously been created by means of a "
+"harvesting operation but that GeoNode can no longer find on the remote "
+"service being harvested. Should these resources be deleted from GeoNode "
+"automatically? This also applies to when a harvester configuration is "
+"deleted, in which case all of the resources that originated from that "
+"harvester are now considered to be orphan."
+msgstr ""
+
+msgid "Date of last update to the harvester configuration."
+msgstr ""
+
+msgid ""
+"Harvester class used to perform harvesting sessions. New harvester types can "
+"be added by an admin by changing the main GeoNode `settings.py` file"
+msgstr ""
+
+msgid ""
+"Configuration specific to each harvester type. Please consult GeoNode "
+"documentation on harvesting for more info. This field is mandatory, so at "
+"the very least an empty object (i.e. {}) must be supplied."
+msgstr ""
+
+msgid "Periodic task used to configure harvest scheduling"
+msgstr ""
+
+msgid "Periodic task used to check availability of the remote"
+msgstr ""
+
+#, python-brace-format
+msgid "Check availability of {self.name}"
+msgstr ""
+
+msgid "updating-harvestable-resource"
+msgstr ""
+
+msgid "harvesting-resource"
+msgstr ""
+
+msgid ""
+"Identifier that allows referencing the resource on its remote service in a "
+"unique fashion. This is usually automatically filled by the harvester "
+"worker. The harvester worker needs to know how to either read or generate "
+"this from each remote resource in order to be able to compare the "
+"availability of resources between consecutive harvesting sessions."
+msgstr ""
+
+msgid ""
+"Type of the resource in the remote service. Each harvester worker knows how "
+"to fill this field, in accordance with the resources for which harvesting is "
+"supported"
+msgstr ""
+
+#, python-brace-format
+msgid "The e-mail address '{email}' has already been invited."
+msgstr ""
+
+#, python-brace-format
+msgid "The e-mail address '{email}' has already accepted an invite."
+msgstr ""
+
+#, python-brace-format
+msgid "An active user is already using the e-mail address '{email}'"
+msgstr ""
+
+#, fuzzy
+#| msgid "Email"
+msgid "E-mail"
+msgstr "Email"
+
+#, python-format
+msgid "Invitations successfully sent to '%(email)s'"
+msgstr ""
+
+#, python-format
+msgid ""
+"Sorry, it was not possible to invite '%(email)s' due to the following isse: "
+"%(error)s (%(type)s)"
+msgstr ""
+
+msgid "Layer Created"
+msgstr "තට්ටුවක් නිර්මානය"
+
+msgid "A Layer was created"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+msgid "Layer Updated"
+msgstr "ස්ථරය යාවත්කාලීන කිරීම"
+
+msgid "A Layer was updated"
+msgstr "A Layer was updated"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Layer Approved"
+msgstr "සපයනු නොලැබේ"
+
+#, fuzzy
+#| msgid "A Layer was created"
+msgid "A Layer was approved by a Manager"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Layer Published"
+msgstr "ප්රකාශයට පත්"
+
+#, fuzzy
+#| msgid "A Layer was updated"
+msgid "A Layer was published"
+msgstr "A Layer was updated"
+
+msgid "Layer Deleted"
+msgstr "ස්ථරය වන සංස්කරණයන්"
+
+msgid "A Layer was deleted"
+msgstr "තට්ටුවක් මකා"
+
+msgid "YYYYMMDD"
+msgstr ""
+
+msgid "YYYYMMDD'T'hhmmss"
+msgstr ""
+
+msgid "YYYYMMDD'T'hhmmss'Z'"
+msgstr ""
+
+msgid "style name"
+msgstr "ශෛලයේ නම"
+
+msgid "sld text"
+msgstr "sld පෙළ"
+
+msgid "sld version"
+msgstr "sld අනුවාදය"
+
+msgid "sld url"
+msgstr "sld url එක"
+
+msgid "Workspace"
+msgstr ""
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Store"
+msgstr "අංගය"
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Storetype"
+msgstr "අංගය"
+
+#, fuzzy
+#| msgid "CSW typename"
+msgid "Typename"
+msgstr "CSW වර්ග නාමය"
+
+msgid "Is mosaic?"
+msgstr ""
+
+msgid "Has time?"
+msgstr ""
+
+msgid "Has elevation?"
+msgstr ""
+
+msgid "Time regex"
+msgstr ""
+
+msgid "Elevation regex"
+msgstr ""
+
+msgid "use featureinfo custom template?"
+msgstr ""
+
+msgid "specifies wether or not use a custom GetFeatureInfo template."
+msgstr ""
+
+msgid "featureinfo custom template"
+msgstr ""
+
+msgid "the custom GetFeatureInfo template HTML contents."
+msgstr ""
+
+msgid "File cannot be opened, maybe check the encoding"
+msgstr "ගොනුව විවෘත කල නොහැක ,maybe check the encoding"
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "attribute name"
+msgstr "ගුණාංග නාමය"
+
+msgid "name of attribute as stored in shapefile/spatial database"
+msgstr ".shp ගොනුව/ අවකාශීය දත්ත ගබඩාව තුල ගබඩා කර ඇති පරිදි ගුණාංගයේ නම"
+
+#, fuzzy
+#| msgid "distribution description"
+msgid "attribute description"
+msgstr "distribution description"
+
+msgid "description of attribute to be used in metadata"
+msgstr "පාරදත්ත භාවිතා කළ වර්ණනා පිළිබඳ විස්තරය"
+
+msgid "attribute label"
+msgstr "ගුණාංගයේ ලේබලය"
+
+msgid "title of attribute as displayed in GeoNode"
+msgstr "GeoNode හි දිස්වන ආකාරයට ගුණාංගයේ මාතෘකාව"
+
+msgid "attribute type"
+msgstr "ගුණාංග වර්ගය"
+
+msgid "the data type of the attribute (integer, string, geometry, etc)"
+msgstr "ගුණාංගයේ දත්ත වර්ගය (පූර්ණ සංඛ්‍යා,තන්තු, ජ්‍යාමිතික යනාදී වශයෙන්)"
+
+msgid "visible?"
+msgstr "දිස්වේද?"
+
+msgid "specifies if the attribute should be displayed in identify results"
+msgstr "ප්‍රතිඵල හඳුනාගන්න තුල ගුණාංගය දිස්විය යුතු පිළිවෙල විශේෂීකරණය කරයි"
+
+msgid "display order"
+msgstr "දිස්වන පිළිවෙල"
+
+msgid ""
+"specifies the order in which attribute should be displayed in identify "
+"results"
+msgstr "ප්‍රතිඵල හඳුනාගන්න තුල ගුණාංගය දිස්විය යුතු පිළිවෙල විශේෂීකරණය කරයි"
+
+msgid "Label"
+msgstr "ලේබලය"
+
+msgid "Image"
+msgstr ""
+
+msgid "Video (mp4)"
+msgstr ""
+
+msgid "Video (ogg)"
+msgstr ""
+
+msgid "Video (webm)"
+msgstr ""
+
+msgid "Video (3gp)"
+msgstr ""
+
+msgid "Video (flv)"
+msgstr ""
+
+msgid "Video (YouTube/VIMEO - embedded)"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "IFRAME"
+msgstr ""
+
+#, fuzzy
+#| msgid "feature type"
+msgid "featureinfo type"
+msgstr "අංගය"
+
+#, fuzzy
+#| msgid "specifies if the attribute should be displayed in identify results"
+msgid ""
+"specifies if the attribute should be rendered with an HTML widget on "
+"GetFeatureInfo template."
+msgstr "ප්‍රතිඵල හඳුනාගන්න තුල ගුණාංගය දිස්විය යුතු පිළිවෙල විශේෂීකරණය කරයි"
+
+#, fuzzy
+#| msgid "count"
+msgid "count"
+msgstr "ගණන"
+
+msgid "count value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා අගය ගණනය කරන්න"
+
+msgid "min"
+msgstr "අවමය"
+
+msgid "minimum value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන අවම අගය"
+
+msgid "max"
+msgstr "උපරිමය"
+
+msgid "maximum value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන උපරිම අගය"
+
+msgid "average"
+msgstr "සාමාන්‍යය"
+
+msgid "average value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන සාමාන්‍ය අගය"
+
+msgid "median"
+msgstr "මධ්‍යස්ථය"
+
+msgid "median value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා මධ්‍යස්ථ අගය"
+
+msgid "standard deviation"
+msgstr "සම්මත අපගමනය"
+
+msgid "standard deviation for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන සම්මත අපගමනය"
+
+msgid "sum"
+msgstr "ඓක්‍යය"
+
+msgid "sum value for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන ඓක්‍යය"
+
+msgid "unique values for this field"
+msgstr "මෙම ක්ෂේත්‍රය සඳහා වන අනන්‍ය අගයන්"
+
+#, fuzzy
+#| msgid "last modified"
+msgid "last modified"
+msgstr "අවසාන වරට වෙනස්කම් සිදු කලේ"
+
+msgid "date when attribute statistics were last updated"
+msgstr "ගුණාංගයේ සංඛ්‍යාලේඛන අවසන් වරට යාවත්කලීන කල දිනය"
+
+#, fuzzy
+#| msgid "Return to Layer"
+msgid "Append to Dataset"
+msgstr "ස්ථරය වෙත ආපසු යන්න"
+
+#, fuzzy
+#| msgid "Return to Layer"
+msgid "Return to Dataset"
+msgstr "ස්ථරය වෙත ආපසු යන්න"
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Preserve Metadata XML"
+msgstr "සංස්කරණය කරන්න සේවා පාරදත්ත"
+
+msgid "Select the charset or leave default"
+msgstr "අක්ෂර කට්ටලය තෝරන්න එසේත් නැතනම් .."
+
+msgid "Home"
+msgstr "මුල් පිටුව"
+
+msgid "Change point of contact"
+msgstr "ලිපිනය වෙනස් කිරීම"
+
+msgid "Assign a new point of contact to the layers below:"
+msgstr "පහත ස්ථර සබඳතා නව ස්ථානය ලබා සදනන :"
+
+msgid "Dataset WMS GetCapabilities document"
+msgstr ""
+
+msgid "Filter Granules"
+msgstr ""
+
+msgid "Active Filter:"
+msgstr ""
+
+msgid "Granule ID"
+msgstr ""
+
+msgid "Bounding Box"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+#, fuzzy
+#| msgid "Preview"
+msgid "Granule Preview"
+msgstr "පූර්වදර්ශනය"
+
+#, fuzzy
+#| msgid "Remove"
+msgid "Granule Remove"
+msgstr "ඉවත් කරන්න"
+
+msgid "Dimension"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Regex"
+msgstr ""
+
+msgid "TIME"
+msgstr ""
+
+msgid "ELEVATION"
+msgstr ""
+
+msgid "Attribute Name"
+msgstr "ගුණාංගයේ නම"
+
+msgid "Range"
+msgstr "පරාසය"
+
+msgid "Average"
+msgstr "සාමාන්‍යය"
+
+msgid "Median"
+msgstr "මධ්‍යනය"
+
+msgid "Standard Deviation"
+msgstr "සම්මත අපගමනය"
+
+#, fuzzy
+#| msgid "Rate this layer"
+msgid "Rate this dataset"
+msgstr "මෙම ස්ථරය ප්‍රමාණනය කරන්න"
+
+msgid "Analyze with"
+msgstr ""
+
+#, fuzzy
+#| msgid "Download"
+msgid "Download Dataset"
+msgstr "බාගත කරන්න"
+
+msgid "Images"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Unable to delete layer"
+msgid "Click to filter the layer"
+msgstr "ස්ථරය ඉවත් කිරීමට නොහැකි විය"
+
+#, fuzzy
+#| msgid "Are you sure you want to log out?"
+msgid "Do you want to filter it?"
+msgstr "ඔබ ඉවත් විමට අවශ්ය බව ඔබට විශ්වාස ද?"
+
+msgid "Loading..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Filter by attributes"
+msgstr "ගුණාංගයක් තෝරා ගන්න"
+
+msgid "Match"
+msgstr ""
+
+#, fuzzy
+#| msgid "All"
+msgid "all"
+msgstr "සියල්ල"
+
+msgid "any"
+msgstr ""
+
+#, fuzzy
+#| msgid "the following map"
+msgid "of the following:"
+msgstr "පහත සඳහන් සිතියම"
+
+msgid "Attribute"
+msgstr "ගුණාංග"
+
+msgid "Operator"
+msgstr ""
+
+#, fuzzy
+#| msgid "Featured"
+msgid "Feature limit"
+msgstr "විශේෂාංග"
+
+msgid "Pick your download format:"
+msgstr ""
+
+msgid ""
+"No data available for this resource. Please contact a system administrator "
+"or a manager."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Edit Layer"
+msgstr "ස්ථරය සංස්කරණය කරන්න"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Metadata"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+msgid "Styles"
+msgstr "ශෛලීයන්"
+
+msgid "Manage"
+msgstr "කළමනාකරණය"
+
+msgid "Layer"
+msgid_plural "Layers"
+msgstr[0] "ස්ථරය"
+msgstr[1] "ලේයර්"
+
+msgid "Append Data"
+msgstr ""
+
+msgid "Edit data"
+msgstr "සංස්කරණය කරන්න දත්ත"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "View Dataset"
+msgstr "මෙටා දත්ත සංස්කරණය කරන්න"
+
+#, fuzzy
+#| msgid "Information of Layer"
+msgid "Attribute Information"
+msgstr "ස්ථරය තුළ දත්ත තොරතුරු"
+
+msgid "ISO Feature Catalogue"
+msgstr ""
+
+msgid "Legend"
+msgstr "විස්තර පාඨය"
+
+#, fuzzy
+#| msgid "Maps using this layer"
+msgid "Maps using this dataset"
+msgstr "මෙම ස්ථරය භාවිතා කරන සිතියම්"
+
+#, fuzzy
+#| msgid "List of maps using this layer:"
+msgid "List of maps using this dataset:"
+msgstr "මෙම ස්ථරය භවිතා කරන සිතියම් ලැයිස්තුව:"
+
+#, fuzzy
+#| msgid "This layer is not currently used in any maps."
+msgid "This dataset is not currently used in any maps."
+msgstr "මෙම ස්ථරය දැනට කිසිම සිතියමක භාවිතා නොවේ"
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Create a map using this dataset"
+msgstr "මෙම ස්ථරය භාවිතා කර සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Click the button below to generate a new map based on this layer."
+msgid "Click the button below to generate a new map based on this dataset."
+msgstr "මෙම ස්ථරය මත පදනම්ව නව සිතියමක් නිර්මාණය කිරීමට පහත බොත්තම ක්ලික් කරන්න"
+
+msgid "Add the dataset to an existing map"
+msgstr ""
+
+#, fuzzy
+#| msgid "Click the button below to change the permissions of this layer."
+msgid "Click the button below to add the dataset to the selected map."
+msgstr "මෙම ස්ථරය සඳහා අවසරය වෙනස් කිරීමට පහත බොත්තම ක්ලික් කරන්න"
+
+#, fuzzy
+#| msgid "Edit Map"
+msgid "Add to Map"
+msgstr "සිතියම සංස්කරණය කරන්න"
+
+msgid "Documents related to this layer"
+msgstr "මෙම ස්ථරයට සම්බන්ධ ලේඛන"
+
+msgid "List of documents related to this layer:"
+msgstr "මෙම ස්ථරයට සම්බන්ධ ලේඛන ලැයිස්තුව"
+
+msgid ""
+"The following styles are associated with this layer. Choose a style to view "
+"it in the preview map."
+msgstr ""
+"පහත ශෛලීයන් මෙම ස්ථරය හා සම්බන්ධය. පූර්වදර්ශනය කරන සිතියමේ බැලීම සඳහා ශෛලියක් තෝරා ගන්න."
+
+#, fuzzy
+#| msgid "Layer Default Style"
+msgid "(default style)"
+msgstr "ස්ථරය පෙරනිමි ස්ටයිල්"
+
+msgid "No styles associated with this layer"
+msgstr "මෙම ස්ථරය හා සම්බන්ධ ශෛලීයන් නොමැත"
+
+msgid "External service layer"
+msgstr "බාහිර service layer"
+
+msgid "Source"
+msgstr "මූලාශ්රය"
+
+msgid "Refresh Attributes and Statistics of this layer"
+msgstr ""
+
+msgid ""
+"Click the button below to allow GeoNode refreshing the list of available "
+"Dataset Attributes. If the option 'WPS_ENABLED' has been also set on the "
+"backend, it will recalculate their statistics too."
+msgstr ""
+
+msgid "Refresh Attributes and Statistics"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Clear the Server Cache of this layer"
+msgstr "මෙම ස්ථරය භාවිතා කර සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Click the button below to change the permissions of this layer."
+msgid "Click the button below to wipe the tile-cache of this layer."
+msgstr "මෙම ස්ථරය සඳහා අවසරය වෙනස් කිරීමට පහත බොත්තම ක්ලික් කරන්න"
+
+msgid "Empty Tiled-Dataset Cache"
+msgstr ""
+
+msgid "Click the button below to change the permissions of this layer."
+msgstr "මෙම ස්ථරය සඳහා අවසරය වෙනස් කිරීමට පහත බොත්තම ක්ලික් කරන්න"
+
+#, fuzzy
+#| msgid "Change Layer Permissions"
+msgid "Change Dataset Permissions"
+msgstr "මෙම සිතියම සඳහා අවසරය වෙනස් කරන්න"
+
+msgid "Remove Mosaic Granules"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove Granule %(granule_id)s of the "
+"Mosaic <a href=\"%(layer.get_absolute_url)s\">%(layer_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "This action affects the following maps:"
+msgstr "මෙම ක්‍රියාව පහත සිතියම් වලට බලපානු ඇත"
+
+msgid "No maps are using this layer"
+msgstr "කිසිම සිතියමක් මෙම ස්ථරය භාවිතා නොකරයි"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Datasets"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+#, python-format
+msgid "for %(layer_title)s"
+msgstr ""
+
+msgid ""
+"Note: this layer's orginal metadata was populated and preserved by importing "
+"a metadata XML file.\n"
+"          This metadata cannot be edited."
+msgstr ""
+"සටහන: මෙම ස්ථරය මුල් පාර-දත්ත සඳහා පාර-දත්ත XML . ආනයනය විසින් ජනාකීර්ණ, කල් තබා ගන්නා "
+"ලදී\n"
+"මෙම පාරදත්ත සංස්කරණය කල නොහැක."
+
+msgid ""
+"Note: this layer's orginal metadata was populated by importing a metadata "
+"XML file.\n"
+"          GeoNode's metadata import supports a subset of ISO, FGDC, and "
+"Dublin Core metadata elements.\n"
+"          Some of your original metadata may have been lost."
+msgstr ""
+"සටහන: මෙම ස්ථරය විසින් අවශ්ය් පාරදත්ත වූ පාරදත්ත XML යක file.\n"
+" ආනයනය ජනාවාසී වූ\n"
+"GeoNode පාර-දත්ත ආනයනය තිබෙන ISO, FGDC , සහ ඩබ්ලින් මූලික පාරදත්ත elements.\n"
+"උප ඒකකයකි සහය\n"
+"ඔබේ මුල් පාරදත්ත සමහර අහිමි වන්නට ඇත."
+
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(layer_title)s\n"
+"      "
+msgstr ""
+"\n"
+" %(layer_title)s වල සංස්කරණ තොරතුරු"
+
+msgid "Use a custom template?"
+msgstr ""
+
+msgid "Display Order"
+msgstr "දිස්වන පිළිවල"
+
+#, fuzzy
+#| msgid "Display Order"
+msgid "Display Type"
+msgstr "දිස්වන පිළිවල"
+
+#, fuzzy
+#| msgid "visible?"
+msgid "Visible"
+msgstr "දිස්වේද?"
+
+msgid "ERROR"
+msgstr ""
+
+msgid "Following items are required:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Layer"
+msgid "Upload Dataset Metadata"
+msgstr "ස්ථරය උඩුගත කරන්න"
+
+msgid "(XML - ISO, FGDC, ebRIM, Dublin Core)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Remove Layers"
+msgid "Remove Datasets"
+msgstr "ලේයර් ඉවත් කරන්න"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(layer.get_absolute_url)s\">%(layer_title)s</a>?\n"
+"        "
+msgstr ""
+"\n"
+"ඔබ ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද<a href=\"%(layer.get_absolute_url)s\">"
+"%(layer_title)s"
+
+#, fuzzy
+#| msgid "Replace Layer"
+msgid "Replace Dataset"
+msgstr " ස්ථරය ප්‍රතිස්ථාපනය කරන්න"
+
+msgid "Manage Styles"
+msgstr "ශෛලීයන් කළමනාකරණය කරන්න"
+
+#, python-format
+msgid ""
+"\n"
+"      Manage Available Styles for <a href=\"{{ layer_url }}\">"
+"%(layer_title)s</a>\n"
+"    "
+msgstr ""
+"\n"
+" <a href=\"{{ layer_url }}\">%(layer_title)s</a> සඳහා පවතින ශෛලීයන්  "
+"කළමනාකරණය කරන්න"
+
+#, fuzzy
+#| msgid "Layer Default Style"
+msgid "Dataset Default Style"
+msgstr "ස්ථරය පෙරනිමි ස්ටයිල්"
+
+msgid "Available styles"
+msgstr "දැනට පවතින ශෛලියන්"
+
+msgid ""
+"Click on an available style in the upper box to assign it to this layer. "
+"Selected styles appear in the lower box."
+msgstr ""
+"ඉහලින් ඇති කොටුවේ තිබෙන ශෛලියක් මත ක්ලික් කර එය මෙම ස්ථරයට පවරන්න. තෝරා ගන්නා ලද ශෛලියන් "
+"පහලින් ඇති කොටුවෙහි පෙන්නුම් කරනු ඇත"
+
+msgid "Update Available Styles"
+msgstr "දැනට පවතින ශෛලයන් යාවත්කාලීන කරන්න"
+
+msgid "Return to Layer"
+msgstr "ස්ථරය වෙත ආපසු යන්න"
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Style"
+msgstr "ස්ථරය උඩුගත කිරීම පියවර 2"
+
+msgid "(SLD - Style Layer Descriptor 1.0, 1.1)"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "This will most probably overwrite the current default style!"
+msgstr ""
+
+msgid "Preview"
+msgstr "පූර්වදර්ශනය"
+
+#, fuzzy
+#| msgid "Attributes"
+msgid "Dataset Attributes"
+msgstr "ගුණාංග"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Dataset"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload status"
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+msgid ""
+"This file needs additional configuration to complete the upload process. "
+"Please click on the button to fill the required configuration"
+msgstr ""
+
+msgid "Delete"
+msgstr "මකා දමන්න"
+
+#, fuzzy
+#| msgid "Upload Document"
+msgid "Upload process completed"
+msgstr "ලේඛනය උඩුගත කරන්න"
+
+msgid ""
+"The upload process cannot be completed because the original file is no more "
+"available"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create"
+msgid "Created"
+msgstr "නිර්මාණය කරන්න"
+
+msgid "Progress"
+msgstr ""
+
+msgid "page"
+msgstr "පිටුව"
+
+msgid "of"
+msgstr "පිළිබඳ"
+
+#, fuzzy
+#| msgid "Incomplete Uploads"
+msgid "Delete incomplete upload"
+msgstr "අසම්පූර්ණ උඩුගත කිරීම්"
+
+#, fuzzy
+#| msgid "Are you sure you want to delete this upload?"
+msgid "Are you sure you want to remove this incomplete upload?"
+msgstr "මෙම උඩුගත කිරීම මකා දැමිය යුතු යයි ඔබට විශ්වාසද?"
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: Set SRS"
+msgstr "ස්ථරය උඩුගත කිරීම පියවර 2"
+
+msgid "Provide CRS for "
+msgstr "සඳහා CRS සපයන්න"
+
+msgid "Coordinate Reference System"
+msgstr "විමර්ශන ඛණ්ඩාංක පද්ධතිය"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "        A coordinate reference system for this layer could not be "
+#| "determined.\n"
+#| "        Locate or enter the appropriate ESPG code for this layer below.\n"
+#| "        One way to do this is do visit:\n"
+#| "        <a href=\"http://prj2epsg.org/search\" target=\"_\">prj2epsg</a>\n"
+#| "        and enter the following:\n"
+#| "    "
+msgid ""
+"\n"
+"                A coordinate reference system for this dataset could not be "
+"determined.\n"
+"                Locate or enter the appropriate ESPG code for this dataset "
+"below.\n"
+"                One way to do this is do visit:\n"
+"                <a href=\"http://prj2epsg.org/search\" target=\"_"
+"\">prj2epsg</a>\n"
+"                and enter the following:\n"
+"            "
+msgstr ""
+"\n"
+"ඒ සඳහා මෙම සමාජ ස්තරය ෙයොමු පද්ධතියක් determined.\n"
+"කළ නොහැකි සම්බන්ධීකරණය\n"
+"මෙම ස්ථරය සඳහා සුදුසු ESPG කේතය පිහිටි තැන හෝ ඇතුල් below.\n"
+"මෙය කිරීමට එක් ක්රමයක් වෙත කරන්න ය: \n"
+"<a href=\"http://prj2epsg.org/search\" target=\"_\"> prj2epsg </a> \n"
+"පහත සඳහන් ඇතුල් කරන්න:"
+
+msgid "Native CRS could not be found!"
+msgstr ""
+
+msgid "Provide EPSG code for Source SRS"
+msgstr ""
+
+msgid "EPSG Code (Source SRS)"
+msgstr ""
+
+msgid "Select a Source SRS"
+msgstr ""
+
+msgid ""
+"Source SRS EPSG Code is mandatory and represents the native data Spatial "
+"Reference System.\n"
+"                    <br><br>\n"
+"                    This must be coherent with the Geometry values (lon/lat "
+"coordinates as an instance) stored on the geospatial dataset.\n"
+"                    <br><br>\n"
+"                    If not specified on the geospatial data itself, it must "
+"be manually declared by the operator.\n"
+"                    <br><br>\n"
+"                    More information is provided at the bottom of the page "
+"in the \"Additional Help\" sections.\n"
+"                    "
+msgstr ""
+
+msgid "Next"
+msgstr "මීළඟ"
+
+#, fuzzy
+#| msgid "Time Options"
+msgid "Advanced Options"
+msgstr "කාල විකල්පයන්"
+
+msgid "Target SRS"
+msgstr ""
+
+msgid "EPSG Code (Target SRS)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Select a Target SRS"
+msgstr "ගුණාංගයක් තෝරා ගන්න"
+
+msgid "leave it empty to use only Source SRS"
+msgstr ""
+
+msgid "Additional Help"
+msgstr ""
+
+#, fuzzy
+#| msgid "Coordinate Reference System"
+msgid "Spatial Reference System"
+msgstr "විමර්ශන ඛණ්ඩාංක පද්ධතිය"
+
+msgid ""
+"A spatial reference system (SRS) or coordinate reference system (CRS) is a "
+"coordinate-based local,\n"
+"                            regional or global system used to locate "
+"geographical entities. A spatial reference system defines a specific map\n"
+"                            projection, as well as transformations between "
+"different spatial reference systems. Spatial reference systems are\n"
+"                            defined by the OGC's Simple feature access using "
+"well-known text, and support has been implemented by several\n"
+"                            standards-based geographic information systems. "
+"Spatial reference systems can be referred to using a SRID integer,\n"
+"                            including EPSG codes defined by the "
+"International Association of Oil and Gas Producers.\n"
+"                            It is specified in ISO 19111:2007 Geographic "
+"information—Spatial referencing by coordinates, also published as\n"
+"                            OGC Abstract Specification, Topic 2: Spatial "
+"referencing by coordinate."
+msgstr ""
+
+#, fuzzy
+#| msgid "Identification"
+msgid "Identifiers"
+msgstr "හදුනා ගැනීම"
+
+msgid ""
+"\n"
+"                        A Spatial Reference System Identifier (SRID) is a "
+"unique value used to unambiguously identify projected, unprojected,\n"
+"                        and local spatial coordinate system definitions. "
+"These coordinate systems form the heart of all GIS applications.\n"
+"\n"
+"                        Virtually all major spatial vendors have created "
+"their own SRID implementation or refer to those of an authority,\n"
+"                        such as the European Petroleum Survey Group (EPSG).\n"
+"                        "
+msgstr ""
+
+msgid ""
+"NOTE: As of 2005 the EPSG SRID values are now maintained by the "
+"International\n"
+"                            Association of Oil & Gas Producers (OGP) "
+"Surveying & Positioning Committee"
+msgstr ""
+
+msgid ""
+"\n"
+"                        SRIDs are the primary key for the Open Geospatial "
+"Consortium (OGC) spatial_ref_sys metadata table for the Simple\n"
+"                        Features for SQL Specification, Versions 1.1 and "
+"1.2, which is defined as follows:\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        In spatially enabled databases (such as IBM DB2, IBM "
+"Informix, Microsoft SQL Server, MySQL, Oracle RDBMS, Teradata, PostGIS and\n"
+"                        SQL Anywhere), SRIDs are used to uniquely identify "
+"the coordinate systems used to define columns of spatial data or individual\n"
+"                        spatial objects in a spatial column (depending on "
+"the spatial implementation). SRIDs are typically associated with a well "
+"known\n"
+"                        text (WKT) string definition of the coordinate "
+"system (SRTEXT, above). From the Well Known Text Wikipedia page\n"
+"                        "
+msgstr ""
+
+msgid ""
+"“A WKT string for a spatial reference system describes the datum, geoid, "
+"coordinate system,\n"
+"                            and map projection of the spatial objects”."
+msgstr ""
+
+msgid ""
+"\n"
+"                        Here are two common coordinate systems with their "
+"EPSG SRID value followed by their well known text:\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        UTM, Zone 17N, NAD27 — SRID 2029\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        WGS84 — SRID 4326\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        SRID values associated with spatial data can be used "
+"to constrain spatial operations — for instance, spatial operations cannot be "
+"performed\n"
+"                        between spatial objects with differing SRIDs in some "
+"systems, or trigger coordinate system transformations between spatial "
+"objects in others.\n"
+"                        "
+msgstr ""
+
+msgid ""
+"Source SRS EPSG Code is mandatory and represents the native data Spatial "
+"Reference System. This must be coherent with the\n"
+"                            Geometry values (lon/lat coordinates as an "
+"instance) stored on the geospatial dataset. If not specified on the "
+"geospatial data itself, it\n"
+"                            must be manually declared by the operator."
+msgstr ""
+
+msgid ""
+"Target SRS EPSG Code is optional. This must be used only if we need to re-"
+"project the coordinates from Source SRS to another one.\n"
+"                        "
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: CSV Field Mapping"
+msgstr "ස්ථරය උඩුගත කිරීම පියවර 2"
+
+msgid "Geospatial Data"
+msgstr "භුමිය පිලිබඳ දත්ත"
+
+msgid ""
+"Please indicate which attributes contain the latitude and longitude "
+"coordinates in the CSV data."
+msgstr ""
+"දත්ත වල අක්ෂාංශ  සහ දේශාංශ කණ්ඩාංක අඩංගු වන්නේ කුමන ගුණාංගයේද යන වග කරුණාකර සඳහන් කරන්න"
+
+#, fuzzy
+#| msgid ""
+#| "With this data, GeoNode was able to guess which attributes contain the\n"
+#| "latitude and longitude coordinates, but please confirm that the correct\n"
+#| "attributes are selected below."
+msgid ""
+"With this data, GeoNode was able to guess which attributes contain the\n"
+"                latitude and longitude coordinates, but please confirm that "
+"the correct\n"
+"                attributes are selected below."
+msgstr ""
+"මෙම දත්ත ආශ්‍රයෙන් කුමන ගුණාංගයේ අක්ෂාංශය හෝ දේශාංශය අඩංගු වේදැයි GeoNode ට \n"
+"අනුමාන කිරීමට හැකි විය. නමුත් නිවැරදි ගුණාංගය පහත තෝරාගෙන ඇත්දැයි කරුණාකර සහතික වන්න"
+
+msgid "Select an attribute"
+msgstr "ගුණාංගයක් තෝරා ගන්න"
+
+#, fuzzy
+#| msgid ""
+#| "We did not detect columns that could be used for the latitude and "
+#| "longitude.\n"
+#| "Please verify that you have two columns in your csv file that can be used "
+#| "for\n"
+#| "the latitude and longitude."
+msgid ""
+"We did not detect columns that could be used for the latitude and "
+"longitude.\n"
+"        Please verify that you have two columns in your csv file that can be "
+"used for\n"
+"        the latitude and longitude."
+msgstr ""
+"අක්ෂාංශය හෝ දේශාංශය සඳහා යොදා ගත හැකි තීරු අපට සොයා ගත නොහැකි විය.\n"
+"කරුණාකර ඔබගේ csv ගොනුවේ අක්ෂාංශය සහ දේශාංශය ලෙස භාවිත කල හැකි තීරු දෙකක් තිබේදැයි තහවුරු "
+"කරන්න"
+
+msgid "Your upload is either complete or you haven't resumed an earlier one."
+msgstr ""
+"ඔබගේ උඩුගත කිරීම සම්පූර්ණ වී තිබේ, එසේත් නැති නම් පසුගිය උඩුගත කිරීම ඔබ නැවත ආරම්භ කර නොමැත"
+
+msgid "Return to"
+msgstr "වෙත ආපසු"
+
+msgid "Upload Form"
+msgstr " ආකෘතිය උඩුගත කරන්න"
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: Time"
+msgstr "ස්ථරය උඩුගත කිරීම පියවර 2"
+
+msgid "Inspect data for "
+msgstr ""
+
+msgid "Configure as Time-Series"
+msgstr ""
+
+msgid ""
+"Toggling this selector allows you to configure (or not) this data as a time "
+"series; in this case you will also have to select an attribute\n"
+"                      to drive the time dimension.\n"
+"                      <br><br>\n"
+"                      If GeoNode is not able to parse any of the values for "
+"the selected attribute red markers will appear to highlight the problems.\n"
+"                      <br><br>\n"
+"                      More information is provided at the bottom of the page "
+"in the \"Additional Help\" sections.\n"
+"                      "
+msgstr ""
+
+msgid "No"
+msgstr "නැත"
+
+msgid "Use an existing timestamp attribute in the data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Existing Time Attribute"
+msgid "Yes: with an existing Time-Attribute"
+msgstr "දැනට පවතින කාල ගුණාංගය"
+
+msgid ""
+"Yes: by converting data to a timestamp using standard date/time "
+"representation"
+msgstr ""
+
+#, fuzzy
+#| msgid "Convert Number (As Year)"
+msgid "Convert a number field into a year"
+msgstr "අංකය පරිවර්තනය කරන්න (වර්ෂය ලෙස)"
+
+#, fuzzy
+#| msgid "Convert Number (As Year)"
+msgid "Yes: by converting a number as Year"
+msgstr "අංකය පරිවර්තනය කරන්න (වර්ෂය ලෙස)"
+
+msgid ""
+"Convert data to a timestamp using standard date/time representation or a "
+"custom format"
+msgstr ""
+
+msgid "Start Importer"
+msgstr ""
+
+msgid "Date Format"
+msgstr "දින ආකෘතිය"
+
+#, fuzzy
+#| msgid "Attribute Name"
+msgid "Text Attribute Date Format"
+msgstr "ගුණාංගයේ නම"
+
+msgid "Best Guess"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+#, fuzzy
+#| msgid "Choose optional end time attribute"
+msgid "Optional End-Time attribute"
+msgstr "විකල්ප අවසන් කිරීමේ කාල ගුණාංගයක් තෝරාගන්න"
+
+msgid "Existing Time Attribute"
+msgstr "දැනට පවතින කාල ගුණාංගය"
+
+msgid "Convert Text Attribute"
+msgstr "පාඨ ගුණාංගය පරිවර්තනය කරන්න"
+
+msgid "Convert Number (As Year)"
+msgstr "අංකය පරිවර්තනය කරන්න (වර්ෂය ලෙස)"
+
+#, fuzzy
+#| msgid "attribute description"
+msgid "Time attribute Presentation"
+msgstr "ගුණාංගයේ විස්තරය"
+
+msgid "List"
+msgstr "ලැයිස්තුව"
+
+msgid "of all the distinct time values"
+msgstr "සියළුම අනන්‍ය කාල අගයන්ගෙන්"
+
+msgid "Intervals"
+msgstr "කාල ප්‍රාන්තර"
+
+msgid "defined by the resolution"
+msgstr "යෝජනාව මගින් අර්ථ දක්වා ඇති"
+
+msgid "Continuous Intervals"
+msgstr "අඛණ්ඩ කාල ප්‍රාන්තර"
+
+msgid ""
+"for data that is frequently updated, resolution describes the frequency of "
+"updates"
+msgstr "නිරන්තර නවීකරණයන්ගෙන් යාවත්කාලීන වූ බව දත්ත සඳහා , යෝජනාව යාවත්කාලීන සංඛ්යාත විස්තර"
+
+msgid "Resolution of time attribute"
+msgstr "කාලය නාලවල යෝජනාව"
+
+msgid "Enabling Time"
+msgstr "කාලය බල ගැන්වීම"
+
+#, fuzzy
+#| msgid ""
+#| "A feature can currently support one or two time attributes. If a single\n"
+#| "    attribute is used, the feature is considered relevant at that single "
+#| "point in time. If two\n"
+#| "    attributes are used, the second attribute represents the end of a "
+#| "valid period for the\n"
+#| "    feature."
+msgid ""
+"A dataset can support one or two time attributes. If a single\n"
+"                        attribute is used, the dataset is considered to "
+"contain data that is valid at single points in time. If two\n"
+"                        attributes are used, the second attribute represents "
+"the end of a valid period  hence the dataset is considered\n"
+"                        to contain data that is valid at certain periods in "
+"time."
+msgstr ""
+"ඒ ලක්ෂණය දැනට එකක් හෝ දෙකක් කාලය ගුණාංග උපකාර කළ හැකිය. එය single\n"
+" විශේෂණය භාවිතා කරනු ලැබුවේ නම්, එම පහසුකම කාලයේදී තනි අවස්ථාවක දී අදාළ ලෙස සැලකේ. "
+"Two\n"
+" ගුණාංග භාවිතා කරන්නේ නම්, දෙවන ගුණාංගය \n"
+"the ලක්ෂණය සඳහා වලංගු කාලය අවසන් නියෝජනය කරයි.\n"
+"390"
+
+msgid "Selecting an Attribute"
+msgstr "ගුණාංගයක් තෝරා ගැනීම"
+
+#, fuzzy
+#| msgid "A time attribute can be one of"
+msgid "A time attribute can be"
+msgstr "කාල ගුණාංගය එක් විය හැකි"
+
+msgid "An existing date"
+msgstr "පවතින දිනයක්"
+
+msgid "Text that can be converted to a timestamp"
+msgstr "කාල මුද්රාව බවට පරිවර්තනය කළ හැකි බව පෙළ"
+
+msgid "A number representing a year"
+msgstr "වසරක් නියෝජනය කරන අංකයක්"
+
+msgid ""
+"\n"
+"                        For text attributes, one can specify a custom format "
+"(as part of the \"Advanced Options\") or use the 'best guess' approach which "
+"will try to\n"
+"                        automatically translate well-known recognized "
+"patterns into valid times.\n"
+"                        "
+msgstr ""
+
+msgid "The 'best guess' will handle date and optional time variants of"
+msgstr "හොඳම අනුමානය ' දිනය හා විකල්ප කාලය ප්රභේද්යයන් කරනව"
+
+msgid "In terms of the formatting flags noted above, these are"
+msgstr "ඉහත සඳහන් වූ ෆෝමැට් කොඩි අනුව , මෙම"
+
+msgid "Modal Header"
+msgstr ""
+
+msgid "Some text in the modal"
+msgstr ""
+
+msgid " does NOT match any valid ISO-8601 Date-Time string!"
+msgstr ""
+
+msgid "Valid ISO-8601 for"
+msgstr ""
+
+msgid "matches a valid ISO-8601 Date-Time string!"
+msgstr ""
+
+msgid "Not Valid ISO-8601 for"
+msgstr ""
+
+msgid "does NOT match any valid ISO-8601 Date-Time string!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Your selections"
+msgid "Wrong Selection"
+msgstr "Your selections"
+
+msgid "Please, select one Time Attribute to test!"
+msgstr ""
+
+msgid ""
+"Returning to the upload starting page in <span id=\"cnt\">5</span>seconds "
+msgstr "උඩුගත කිරීම ආරම්භ වීම පිටුවට තත්පර <span id=\"cnt\">5</span>කින් ප්‍රත්‍යාගමනය වේ"
+
+msgid " Or just go "
+msgstr "එසේත් නැත්නම් යන්න"
+
+msgid "now"
+msgstr "දැන්"
+
+#, fuzzy, python-brace-format
+#| msgid "You are attempting to replace a vector layer with a raster."
+msgid "You are attempting to {action_type} a vector dataset with a raster."
+msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a vector layer with a raster."
+
+#, fuzzy, python-brace-format
+#| msgid "You are attempting to replace a raster layer with a vector."
+msgid "You are attempting to {action_type} a raster dataset with a vector."
+msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a raster layer with a vector."
+
+#, fuzzy, python-brace-format
+#| msgid "You are attempting to replace a vector layer with a raster."
+msgid ""
+"You are attempting to {action_type} a vector dataset with an unknown format."
+msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a vector layer with a raster."
+
+#, python-brace-format
+msgid ""
+"Please ensure the name is consistent with the file you are trying to "
+"{action_type}."
+msgstr ""
+
+msgid "Local GeoNode dataset has no geometry type."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Please ensure there is at least one geometry "
+"type                             that is consistent with the file you are "
+"trying to {action_type}."
+msgstr ""
+
+msgid "The selected Dataset does not exists in the catalog."
+msgstr ""
+
+msgid "Please ensure that the dataset structure is consistent "
+msgstr ""
+
+msgid ""
+"Some error occurred while trying to access the uploaded schema: {str(e)}"
+msgstr ""
+
+msgid ""
+"There was an error while attempting to upload your data. Please try again, "
+"or contact and administrator if the problem continues."
+msgstr ""
+"ඔබේ දත්ත උඩුගත කිරීමේදී යම් දෝෂයක් මතු විය. කරුණාකර නැවත උත්සාහ කරන්න. ගැටළුව තවදුරටත් පවතී "
+"නම් පාලක වෙත දැනුම් දෙන්න"
+
+#, fuzzy
+#| msgid ""
+#| "Note: this layer's orginal metadata was populated and preserved by "
+#| "importing a metadata XML file. This metadata cannot be edited."
+msgid ""
+"Note: this dataset's orginal metadata was populated and preserved by "
+"importing a metadata XML file. This metadata cannot be edited."
+msgstr ""
+"සටහන: මෙම ස්ථරය මුල් පාර-දත්ත සඳහා පාර-දත්ත XML ගොනුව ආනයනය විසින් ජනාකීර්ණ, කල් තබා "
+"ගන්නා ලදී. මෙම පාරදත්ත සංස්කරණය කල නොහැක."
+
+#, fuzzy
+#| msgid "You are not permitted to delete this layer"
+msgid "You are not permitted to delete this dataset"
+msgstr "මෙම ස්ථරය මකා දැමීමට ඔබට අවසර නොමැත"
+
+#, fuzzy
+#| msgid "You do not have permissions for this layer."
+msgid "You do not have permissions for this dataset."
+msgstr "මෙම ස්ථරය සඳහා ඔබට අවසර නැත."
+
+#, fuzzy
+#| msgid "You are not permitted to modify this layer"
+msgid "You are not permitted to modify this dataset"
+msgstr "මෙම ස්ථරය වෙනස් කිරීමට ඔබට අවසර නැත"
+
+#, fuzzy
+#| msgid "You are not permitted to modify this layer's metadata"
+msgid "You are not permitted to modify this dataset's metadata"
+msgstr "මෙම ස්ථරයේ මෙටා දත්ත වෙනස් කිරීමට ඔබට අවසර නැත"
+
+#, fuzzy
+#| msgid "You are not permitted to view this layer"
+msgid "You are not permitted to view this dataset"
+msgstr "මෙම ස්ථරය බැලීමට ඔබට අවසර නොමැත"
+
+#, fuzzy
+#| msgid ""
+#| "This layer is a member of a layer group, you must remove the layer from "
+#| "the group before deleting."
+msgid ""
+"This dataset is a member of a layer group, you must remove the dataset from "
+"the group before deleting."
+msgstr ""
+"මෙම ස්ථරය තට්ටුවක් කණ්ඩායමේ සාමාජිකයකු වන , ඔබ මකාදැමීමට පෙර කණ්ඩායමේ ස්තරය ඉවත් කළ යුතුයි."
+
+#, fuzzy, python-format
+#| msgid "Remote Thumbnail"
+msgid "couldn't generate thumbnail: %s"
+msgstr "Remote Thumbnail"
+
+msgid "Map Created"
+msgstr "සිතියම නිර්මාණය කරන ලදී."
+
+#, fuzzy
+#| msgid "A Layer was created"
+msgid "A Map was created"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+msgid "Map Updated"
+msgstr "සිතියම යාවත්කාලීන කිරීම"
+
+#, fuzzy
+#| msgid "A Layer was updated"
+msgid "A Map was updated"
+msgstr "A Layer was updated"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Map Approved"
+msgstr "සපයනු නොලැබේ"
+
+#, fuzzy
+#| msgid "A Layer was created"
+msgid "A Map was approved by a Manager"
+msgstr "තට්ටුවක් නිර්මිතය"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Map Published"
+msgstr "ප්රකාශයට පත්"
+
+#, fuzzy
+#| msgid "A Map was deleted"
+msgid "A Map was published"
+msgstr "සිතියමක් මකා"
+
+msgid "Map Deleted"
+msgstr "සිතියම මකාදැමුවා"
+
+msgid "A Map was deleted"
+msgstr "සිතියමක් මකා"
+
+msgid "Comment on Map"
+msgstr "සිතියම පිළිබඳ අදහස් දක්වන්න"
+
+msgid "A map was commented on"
+msgstr "සිතියමක් පිළිබඳ අදහසක් දක්වන ලදී"
+
+msgid "Rating for Map"
+msgstr "සිතියම සඳහා ප්‍රමාණනයන්"
+
+msgid "A rating was given to a map"
+msgstr "සිතියමක් සඳහා ප්‍රමාණනයක් දෙන ලදී"
+
+msgid "Featured Map URL"
+msgstr "විශේෂාංග සිතියම URL එක"
+
+msgid "stack order"
+msgstr "අඩුක් කරන පිළිවෙල"
+
+#, fuzzy
+#| msgid "format"
+msgid "format"
+msgstr "හැඩහුරුව"
+
+msgid "name"
+msgstr "නම"
+
+msgid "store"
+msgstr ""
+
+msgid "opacity"
+msgstr "පාරාන්ධතාවය"
+
+msgid "styles"
+msgstr "ශෛලීයන්"
+
+msgid "transparent"
+msgstr "විනිවිද පෙනෙන සුළු"
+
+msgid "fixed"
+msgstr "ස්ථාපිත"
+
+#, fuzzy
+#| msgid "group"
+msgid "group"
+msgstr "කණ්ඩායම"
+
+msgid "visibility"
+msgstr "දෘශ්‍යතාවය"
+
+msgid "ows URL"
+msgstr "ows URL"
+
+msgid "layer params"
+msgstr "ස්ථර පරාමිති"
+
+msgid "source params"
+msgstr "ප්‍රභව පරාමිති"
+
+msgid "Map layers WMS GetCapabilities document"
+msgstr ""
+
+msgid "Rate this Map"
+msgstr "සිතියම ප්‍රමාණනය කරන්න"
+
+msgid "Download Map"
+msgstr "සිතියම බාගත කරන්න"
+
+msgid "Map"
+msgid_plural "Maps"
+msgstr[0] "සිතියම"
+msgstr[1] "සිතියම"
+
+msgid "Map Layers"
+msgstr "සිතියම් ස්ථර"
+
+msgid "This map uses the following layers:"
+msgstr "මෙම සිතියමේ පහත ස්ථර භාවිතා වේ:"
+
+msgid "Documents related to this map"
+msgstr "මෙම සිතියමට සම්බන්ධ ලේඛන"
+
+msgid "List of documents related to this map:"
+msgstr "මෙම සිතියමට සම්බන්ධ ලේඛන ලැයිස්තුව"
+
+msgid "Change Permissions of this Map"
+msgstr "මෙම සිතියම සඳහා අවසරය වෙනස් කරන්න"
+
+msgid "Copy this map"
+msgstr "මෙම සිතියම පිටපත් කරන්න"
+
+msgid "Duplicate this map and modify it for your own purposes"
+msgstr "මෙම සිතියමේ අනුපිටපතක් ගෙන එය ඔබේ අරමුණු අනුව වෙනස් කරන්න"
+
+msgid "Create a New Map"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+msgid ""
+"\n"
+"      Here you can download all the layers of this map that\n"
+"      are hosted on this GeoNode.\n"
+"    "
+msgstr ""
+"\n"
+"මෙහිදී ඔබට මෙම සිතියම සියලු ස්ථර බාගත කරගත හැක that\n"
+"මෙම GeoNode.හොස්ට් ඇත."
+
+msgid ""
+"\n"
+"      <div class=\"alert alert-warning\">Could not find downloadable layers "
+"for this map. You can go back to  \n"
+"      "
+msgstr ""
+"\n"
+"<div class=\"alert alert-warning\"> මෙම සිතියම සඳහා බාගත කලහැකි ස්ථර සොයාගැනීමට "
+"නොහැකි විය....."
+
+msgid ""
+"\n"
+"        Additionally, the map contains these layers which will not be "
+"downloaded\n"
+"        due to security restrictions:\n"
+"      "
+msgstr ""
+"\n"
+"මීට අමතරව, ආරක්ෂක හේතූන් මත,\n"
+"සිතියමේ අඩංගු මෙම ස්ථරය බාගත කරනු නොලැබේ"
+
+msgid ""
+"\n"
+"        Finally, the map contains these layers which will not be downloaded\n"
+"        because they are not available directly from this GeoNode:\n"
+"      "
+msgstr ""
+"\n"
+"අවසාන වශයෙන්, GeoNode හරහා සෘජුව ලබා ගත නොහැකි නිසා\n"
+"සිතියමේ අඩංගු මෙම ස්ථරය බාගත කරනු නොලැබේ"
+
+msgid "Downloading"
+msgstr "බාගත වීම"
+
+msgid "Retry"
+msgstr "නැවත උත්සාහ කරන්න"
+
+msgid "Start downloading this map"
+msgstr "මෙම සිතියම බාගත කිරීම ආරම්භ කරන්න"
+
+msgid "Download Complete"
+msgstr "භාගත වීම සම්පූර්ණයි"
+
+msgid "Download Failed"
+msgstr "භාගත වීම අසාර්ථකයි"
+
+msgid "Edit Map"
+msgstr "සිතියම සංස්කරණය කරන්න"
+
+msgid "Explore Maps"
+msgstr "සිතියම් සොයන්න"
+
+msgid ""
+"Note: this map's orginal metadata was populated by importing a metadata XML "
+"file.\n"
+"        GeoNode's metadata import supports a subset of ISO, FGDC, and Dublin "
+"Core metadata elements.\n"
+"        Some of your original metadata may have been lost."
+msgstr ""
+"සටහන: මෙම සිතියමේ අවශ්ය් පාරදත්ත වූ පාරදත්ත XML යක file.\n"
+"ආනයනය ජනාවාසී වූ\n"
+"GeoNode පාර-දත්ත ආනයනය තිබෙන ISO, FGDC , සහ ඩබ්ලින් මූලික පාරදත්ත elements.\n"
+" උප ඒකකයකි සහය\n"
+"ඔබේ මුල් පාරදත්ත සමහර අහිමි වන්නට ඇත."
+
+#, fuzzy
+#| msgid "Return to"
+msgid "Return to Map"
+msgstr "වෙත ආපසු"
+
+msgid "Remove Map"
+msgstr "සිතියම ඉවත් කරන්න"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href=\"%(map.get_absolute_url)s"
+"\">%(map_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "You are not permitted to delete this map."
+msgstr "මෙම සිතියම මකා දැමීමට ඔබට අවසර නැත"
+
+msgid "You do not have permissions for this map."
+msgstr "මෙම සිතියම සඳහා ඔබට අවරස නැත."
+
+msgid "You must be logged in to save this map"
+msgstr "මෙම සිතියම save කිරීමට ඔබ ලොග් විය යුතුය"
+
+msgid "You are not permitted to save or edit this map."
+msgstr "ඔබ මෙම සිතියම බේරා හෝ සංස්කරණය කිරීමට අවසර නැත."
+
+msgid "You are not allowed to modify this map's metadata."
+msgstr "මෙම සිතියමේ මෙටා දත්ත වෙනස් කිරීමට ඔබට අවසර නොමැත"
+
+msgid "You are not allowed to view this map."
+msgstr "මෙම සිතියම බැලීමට ඔබට අවසර නැත"
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "error saving thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+#| msgid "Message User"
+msgid "Message received"
+msgstr "පණිවුඩය පරිශීලක"
+
+msgid "New message received in one of your threads"
+msgstr ""
+
+msgid "Monitoring alert"
+msgstr ""
+
+msgid "Alert situation reported by monitoring"
+msgstr ""
+
+msgid "GeoNode Monitoring on {base_ctx['host']} "
+msgstr ""
+
+#, fuzzy
+#| msgid "Confirm your email address"
+msgid "Enter valid email addresses."
+msgstr "ඔබේ විද්යුත් තැපැල් ලිපිනය තහවුරු කරන්න"
+
+msgid "Show list of services"
+msgstr ""
+
+msgid ""
+"Process data since specific timestamp (YYYY-MM-DD HH:MM:SS format). If not "
+"provided, last sync will be used."
+msgstr ""
+
+msgid ""
+"Process data until specific timestamp (YYYY-MM-DD HH:MM:SS format). If not "
+"provided, now will be used."
+msgstr ""
+
+msgid "Force check"
+msgstr ""
+
+msgid "Format of audit log (xml, json)"
+msgstr ""
+
+msgid ""
+"Should old data be preserved (default: no, data older than settings."
+"MONITORING_DATA_TTL will be removed)"
+msgstr ""
+
+msgid "Should stop on first error occured (default: no)"
+msgstr ""
+
+msgid "Should process and send notifications as well (default: no)"
+msgstr ""
+
+msgid "Collect data from this service only"
+msgstr ""
+
+msgid "Show list of metrics"
+msgstr ""
+
+msgid "Show list of labels for metric"
+msgstr ""
+
+#, fuzzy
+#| msgid "List of resources using this document:"
+msgid "Show list of resources for metric"
+msgstr "මෙම ලේඛනය භාවිතා කරන සම්පත් ලැයිස්තුව"
+
+msgid "Data aggregation interval in seconds (default: 60)"
+msgstr ""
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "Metric name"
+msgstr "ගුණාංග නාමය"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific resource in resource_type=resource_name format"
+msgstr "උපුටාගත් මූලාශ්‍රය පරිශීලනය කල දිනය"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific resource"
+msgstr "උපුටාගත් මූලාශ්‍රය පරිශීලනය කල දිනය"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific label"
+msgstr "උපුටාගත් මූලාශ්‍රය පරිශීලනය කල දිනය"
+
+#, python-brace-format
+msgid "Write result to file, default GEOIP_PATH: {settings.GEOIP_PATH}"
+msgstr ""
+
+msgid ""
+"Fetch database from specific url. If nothing provided, default {} will be "
+"used"
+msgstr ""
+
+msgid "Overwrite file if exists"
+msgstr ""
+
+msgid "GeoNode"
+msgstr "GeoNode"
+
+msgid "GeoServer"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "GeoServer"
+msgid "Host (GeoServer)"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "About GeoNode"
+msgid "Host (GeoNode)"
+msgstr "GeoNode ගැන"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "No resource"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource base"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "Styles"
+msgid "Style"
+msgstr "ශෛලීයන්"
+
+msgid "Admin"
+msgstr "පාලක"
+
+msgid "Other"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+#, fuzzy
+#| msgid "count"
+msgid "Count"
+msgstr "ගණන"
+
+msgid "Value"
+msgstr ""
+
+msgid "Value numeric"
+msgstr ""
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Kilobytes"
+msgstr ""
+
+msgid "Megabytes"
+msgstr ""
+
+msgid "Gigabytes"
+msgstr ""
+
+msgid "Bytes per second"
+msgstr ""
+
+msgid "Kilobytes per second"
+msgstr ""
+
+msgid "Megabytes per second"
+msgstr ""
+
+msgid "Gigabytes per second"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+#, fuzzy
+#| msgid "local OWS"
+msgid "Not OWS"
+msgstr "දේශීය OWS"
+
+msgid "Any OWS"
+msgstr ""
+
+msgid "Change"
+msgstr "වෙනස් කරන්න"
+
+#, fuzzy
+#| msgid "Metadata"
+msgid "Change Metadata"
+msgstr "පාරදත්ත"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "View Metadata"
+msgstr "මෙටා දත්ත සංස්කරණය කරන්න"
+
+#, fuzzy
+#| msgid "Published"
+msgid "Publish"
+msgstr "ප්රකාශයට පත්"
+
+#, fuzzy
+#| msgid "GeoServer"
+msgid "Geoserver event"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "List of resources using this document:"
+msgid "List of resources affected"
+msgstr "මෙම ලේඛනය භාවිතා කරන සම්පත් ලැයිස්තුව"
+
+#, fuzzy
+#| msgid "Resource using this document"
+msgid "Response processing time in ms"
+msgstr "මෙම ලේඛනය භාවිතා කරන සම්පත"
+
+msgid "1 minute"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Fatal"
+msgstr ""
+
+msgid "Expected min/max values for user configuration"
+msgstr ""
+
+msgid "Marker of last delivery"
+msgstr ""
+
+msgid "Minimum time between subsequent notifications"
+msgstr ""
+
+msgid "How severe would be error from this notification"
+msgstr ""
+
+msgid "Is it active"
+msgstr ""
+
+#, python-brace-format
+msgid "{self.severity}: {self.name}"
+msgstr ""
+
+msgid "Value must be above"
+msgstr ""
+
+msgid "Value must be below"
+msgstr ""
+
+msgid "Last update must not be older than"
+msgstr ""
+
+msgid "Max timeout for given metric before error should be raised"
+msgstr ""
+
+msgid "Monitoring & Analytics"
+msgstr ""
+
+msgid "Only superusers can monitor performance"
+msgstr ""
+
+msgid "Hi,"
+msgstr ""
+
+msgid "Monitoring on"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following groups:"
+msgid "has detected following problems :"
+msgstr "පහත දැක්වෙන කණ්ඩායම් :"
+
+msgid "spotted"
+msgstr ""
+
+msgid "ago"
+msgstr "පෙර"
+
+msgid "emerged"
+msgstr ""
+
+msgid "User following you"
+msgstr "ඔබ පහත සඳහන් පරිශීලක"
+
+msgid "Another user has started following you"
+msgstr "තවත් පරිශීලක ඔබ ආරම්භ කර ඇති පහත සඳහන්"
+
+msgid "User requested access"
+msgstr "පරිශීලක ප්රවේශ ඉල්ලා"
+
+msgid "A new user has requested access to the site"
+msgstr "නව පරිශීලක වෙබ් අඩවිය වෙත ප්රවේශ ඉල්ලීමක් කර තිබේ"
+
+#, fuzzy
+#| msgid "Account activated"
+msgid "Account activated"
+msgstr "ගිණුම සක්රිය"
+
+msgid "This account is now active and can log in the site"
+msgstr "මෙම ගිණුම දැන් සක්රීය වන අතර, එම වෙබ් අඩවිය පිවිසිය හැකි"
+
+msgid "Personal info"
+msgstr "පෞද්ගලික තොරතුරු"
+
+msgid "Important dates"
+msgstr "වැදගත් දින"
+
+#, fuzzy
+#| msgid "Edit profile"
+msgid "Extended profile"
+msgstr "සංස්කරණය කරන්න  Profile"
+
+msgid "Password changed successfully."
+msgstr "Password සාර්ථකව වෙනස් විය."
+
+#, python-format
+msgid "Change password: %s"
+msgstr "වෙනස් password: %s"
+
+msgid "party who authored the resource"
+msgstr "මූලාශ්‍රයේ  කර්තෲ පාර්ශවය"
+
+msgid ""
+"party who has processed the data in a manner such that the resource has been "
+"modified"
+msgstr "මූලාශ්‍රය වෙනස් කිරීමකට භාජනය වන පරිදි දත්ත ක්‍රියායනය කල පාර්ශවය"
+
+msgid "party who published the resource"
+msgstr "සම්පත ප්‍රකාශනයට පත් කල පාර්ශවය"
+
+msgid ""
+"party that accepts accountability and responsibility for the data and "
+"ensures         appropriate care and maintenance of the resource"
+msgstr "දත්ත සඳහා වගවීම සහ වගකීම භාර හා සම්පත් සුදුසු පහසුකම් හා නඩත්තු සහතික බව පක්ෂ"
+
+msgid ""
+"party who can be contacted for acquiring knowledge about or acquisition of "
+"the resource"
+msgstr "සම්පත ලබා ගැනීමට හෝ ඒ පිළිබඳ විස්තර ලබා ගැනීමට යොමුවිය යුතු පාර්ශවය"
+
+msgid "party who distributes the resource"
+msgstr "සම්පත බෙදාහරින පාර්ශවය"
+
+msgid "party who uses the resource"
+msgstr "සම්පත භාවිතා කරන පාර්ශවය"
+
+msgid "party that supplies the resource"
+msgstr "සම්පත සපයා දෙන පාර්ශවය"
+
+msgid "party who created the resource"
+msgstr "සම්පත නිර්මාණය කල පාර්ශවය"
+
+msgid "party that owns the resource"
+msgstr "සම්පත අයිති පාර්ශවය"
+
+msgid "key party responsible for gathering information and conducting research"
+msgstr "තොරතුරු රැස් කිරීම සහ සමීක්ෂණ පැවැත්වීම පිළිබඳ වගකිවයුතු ප්‍රධාන පාර්ශවය"
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Email Address"
+msgstr "විද්‍යුත්-තැපැල් ලිපිනය"
+
+msgid "Organization Name"
+msgstr "ආයතනයේ නම"
+
+msgid "name of the responsible organization"
+msgstr "වගකිවයුතු සංවිධානයේ නම"
+
+msgid "Profile"
+msgstr "පැතිකඩ"
+
+msgid "introduce yourself"
+msgstr "ඔබව හදුන්වාදෙන්න"
+
+msgid "Position Name"
+msgstr "තනතුර"
+
+msgid "role or position of the responsible person"
+msgstr "වගකිවයුතු පුද්ගලයාගේ භූමිකාව හෝ තත්ත්වය"
+
+msgid "Voice"
+msgstr "දුරකතන අංකය"
+
+msgid ""
+"telephone number by which individuals can speak to the responsible "
+"organization or individual"
+msgstr "වගකිවයුතු පුද්ගලයා හෝ සංවිධානය ඇමතිය හැකි දුරකතන අංකය"
+
+msgid "Facsimile"
+msgstr "ෆැක්ස් අංකය"
+
+msgid ""
+"telephone number of a facsimile machine for the responsible organization or "
+"individual"
+msgstr "වගකිවයුතු පුද්ගලයා හෝ සංවිධානය ඇමතිය හැකි වෙනත් දුරකතන අංක"
+
+msgid "Delivery Point"
+msgstr "ලිපිනය"
+
+msgid ""
+"physical and email address at which the organization or individual may be "
+"contacted"
+msgstr "අදාල සංවිධානය හෝ පුද්ගලයා වෙත යොමු විය හැකි ලිපිනය හෝ විද්‍යුත්-තැපැල් ලිපිනය "
+
+msgid "City"
+msgstr "නගරය"
+
+msgid "city of the location"
+msgstr "අදාල ස්ථානය පිහිටි නගරය"
+
+msgid "Administrative Area"
+msgstr "පළාත"
+
+msgid "state, province of the location"
+msgstr "අදාල ස්ථානය පිහිටි පළාත"
+
+msgid "Postal Code"
+msgstr "තැපැල් කේතය"
+
+msgid "ZIP or other postal code"
+msgstr "ZIP කේතය හෝ තැපැල් කේතය"
+
+#, fuzzy
+#| msgid "count"
+msgid "Country"
+msgstr "ගණන"
+
+msgid "country of the physical address"
+msgstr "ලිපිනයට අදාල රට"
+
+msgid ""
+"commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+"the subject             (space or comma-separated"
+msgstr ""
+"පොදුවේ භාවිතා වචනය (න් ) හෝ විධිමත් වචනය (න් ) හෝ වාක්ය ඛණ්ඩයක් (ව) විෂය (අවකාශය හෝ "
+"කොමා - වෙන් විස්තර කිරීමට භාවිතා"
+
+msgid "Timezone"
+msgstr ""
+
+msgid "No Group"
+msgstr "කණ්ඩායමක් නැත"
+
+msgid "All contents"
+msgstr "සියළුම අන්තර්ගතයන්"
+
+#, fuzzy
+#| msgid "Organization"
+msgid "No Organization Info"
+msgstr "සංවිධානය"
+
+msgid "Forgot Username"
+msgstr "පරිශීලක නාමය අමතක වී ඇත"
+
+msgid ""
+"Enter your email address and click the submit button. <br />Your username "
+"will be sent to you."
+msgstr ""
+"ඔබගේ ඊ-තැපැල් ලිපිනය ඇතුලත් කරන්න සහ ඉදිරිපත් බොත්තම ක්ලික් කරන්න. ඔබගේ පරිශීලක නාමය /> <br "
+"ඔබ වෙත යවනු ඇත."
+
+msgid "Create Profile"
+msgstr "පැතිකඩක් නිර්මාණය කරන්න"
+
+msgid "Profile of "
+msgstr "ගේ පැතිකඩ"
+
+msgid "Not provided."
+msgstr "සපයා නැත."
+
+msgid "Position"
+msgstr "තත්ත්වය ."
+
+msgid "Organization"
+msgstr "සංවිධානය"
+
+msgid "Not provided"
+msgstr "සපයනු නොලැබේ"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "User layers WMS GetCapabilities document"
+msgstr ""
+
+msgid "Message User"
+msgstr "පණිවුඩය පරිශීලක"
+
+msgid "Edit profile"
+msgstr "සංස්කරණය කරන්න  Profile"
+
+msgid "Connected social accounts"
+msgstr ""
+
+msgid "Associated e-mails"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "Set/Change password"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "Upload new layers"
+msgstr "නව ස්ථරයන් උඩුගත කරන්න"
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new layer"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Upload Document"
+msgid "Upload new document"
+msgstr "ලේඛනය උඩුගත කරන්න"
+
+msgid "Create a new map"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+msgid "My Activities"
+msgstr "මගේ ක්‍රියාකාරකම්"
+
+msgid "Notifications"
+msgstr "නිවේදන"
+
+msgid "Announcements"
+msgstr "නිවේදන"
+
+#, fuzzy
+#| msgid "Invite User"
+msgid "Invite Users"
+msgstr "පරිශීලක ආරාධනා කරන්න"
+
+msgid "User Activities"
+msgstr "පරිශීලක ක්රියාකාරකම්"
+
+msgid "Resources"
+msgstr "සම්පත්"
+
+msgid "Edit Your Profile"
+msgstr "ඔබේ පැතිකඩ සංස්කරණය කරන්න"
+
+msgid "Edit Profile for"
+msgstr ""
+
+msgid "Change your avatar"
+msgstr "ඔබගේ ඡායාරූපය වෙනස් කරන්න"
+
+msgid "Update profile"
+msgstr "පැතිකඩ යාවත්කාලීන කරන්න"
+
+msgid "Explore People"
+msgstr "මිනිසුන් සොයන්න"
+
+#, fuzzy, python-brace-format
+#| msgid "Your username for "
+msgid "Your username for {site.name}"
+msgstr "ඔබගේ පරිශීලක නාමය සඳහා"
+
+msgid "Your username has been emailed to you."
+msgstr "ඔබගේ පරිශීලක නාමය ඔබට ඊමේල් කරන ලදී."
+
+msgid "No user could be found with that email address."
+msgstr "එවන් විද්‍යුත්-තැපැල් ලිපිනයක් සහිත පරිශීලකයෙකු නොමැත."
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You are not permitted to save or edit this resource."
+msgstr "ඔබ මෙම සිතියම බේරා හෝ සංස්කරණය කිරීමට අවසර නැත."
+
+#, fuzzy
+#| msgid "requested you to download this resource"
+msgid "You are not authorized to download this resource."
+msgstr "මෙම සම්පත් බාගත කිරීම සඳහා ඔබ විසින් ඉල්ලා"
+
+msgid ""
+"No files have been found for this resource. Please, contact a system "
+"administrator."
+msgstr ""
+
+#, fuzzy
+#| msgid "Documents"
+msgid "No files found."
+msgstr "ලේඛන"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Not Authorized"
+msgstr "සපයනු නොලැබේ"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Resource Processing Library"
+msgstr "GeoNode සහය"
+
+msgid "Disabling this Task will make the Processing Workflow to skip it."
+msgstr ""
+
+msgid "Processing Workflow Tasks"
+msgstr ""
+
+msgid "Session is Expired. Please login again!"
+msgstr ""
+
+msgid "Permissions successfully updated!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Permissions"
+msgid "Error updating permissions :("
+msgstr "අවසර"
+
+#, fuzzy
+#| msgid "You do not have permissions for this layer."
+msgid "You are not allowed to change permissions for this resource"
+msgstr "මෙම ස්ථරය සඳහා ඔබට අවසර නැත."
+
+msgid "Security Rules Cache Refreshed!"
+msgstr ""
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You cannot modify this resource!"
+msgstr "ඔබ මෙම සිතියම බේරා හෝ සංස්කරණය කිරීමට අවසර නැත."
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Attributes/Stats Refreshed Successfully!"
+msgstr "Password සාර්ථකව වෙනස් විය."
+
+msgid "GeoWebCache Tiled Layer Emptied!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Wrong permissions specification"
+msgstr "කට්ටලයක් අවසර"
+
+#, fuzzy
+#| msgid "Identification"
+msgid "error delivering notification"
+msgstr "හදුනා ගැනීම"
+
+msgid "Auto-detect"
+msgstr "වාහන - හඳුනා"
+
+msgid "Paired WMS/WFS/WCS"
+msgstr "නීපාරක්ෂක WMS / WFS / WCS"
+
+msgid "Web Map Service"
+msgstr "වෙබ් සිතියම සේවා"
+
+msgid "Catalogue Service"
+msgstr "කැටලොග් සේවා"
+
+#, fuzzy
+#| msgid "ArcGIS REST Service"
+msgid "ArcGIS REST MapServer"
+msgstr "ArcGIS REST  සේවා"
+
+#, fuzzy
+#| msgid "ArcGIS REST Service"
+msgid "ArcGIS REST ImageServer"
+msgstr "ArcGIS REST  සේවා"
+
+msgid "OpenGeoPortal"
+msgstr "OpenGeoPortal"
+
+msgid "Harvard Geospatial Library"
+msgstr "Harvard Geospatial Library"
+
+#, fuzzy
+#| msgid "GeoNode's Web Services"
+msgid "GeoNode (Web Map Service)"
+msgstr "GeoNode හි වෙබ් සේවා"
+
+#, fuzzy
+#| msgid "Catalogue Service"
+msgid "GeoNode (Catalogue Service)"
+msgstr "කැටලොග් සේවා"
+
+msgid "Service URL"
+msgstr "සේවා URL එක"
+
+msgid "Service Type"
+msgstr "සේවා වර්ගය"
+
+#, fuzzy, python-format
+#| msgid "service interfaces"
+msgid "Service %(url)s is already registered"
+msgstr "සේවා අතුරුමුහුණත්"
+
+#, python-format
+msgid "Could not connect to the service at %(url)s"
+msgstr ""
+
+#, python-format
+msgid "Could not find importable resources for the service at %(url)s"
+msgstr ""
+
+#, python-format
+msgid "Found service of type %(found_type)s instead of %(service_type)s"
+msgstr ""
+
+msgid "Local"
+msgstr "දේශීය"
+
+msgid "Cascaded"
+msgstr "Cascaded"
+
+msgid "Harvested"
+msgstr "Harvested"
+
+msgid "Indexed"
+msgstr "Indexed"
+
+msgid "Live"
+msgstr "Live"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource is queued"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Remote service unavailable"
+msgstr "දුරස්ථ සේවා"
+
+#, fuzzy
+#| msgid "Service name"
+msgid "Service unavailable"
+msgstr "සේවා නාමය"
+
+#, fuzzy
+#| msgid "Point of Contact"
+msgid "Could not contact"
+msgstr "විමසීමි"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Contact"
+msgstr "අමතන්න:"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Service Resources"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "A resource's download has been requested"
+msgid "No resources have been imported yet."
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+#, fuzzy
+#| msgid "Retry"
+msgid "Retry job"
+msgstr "නැවත උත්සාහ කරන්න"
+
+msgid "previous"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Connecting to service..."
+msgstr ""
+
+msgid "Edit Service Metadata"
+msgstr "සංස්කරණය කරන්න සේවා පාරදත්ත"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Import Service Resources"
+msgstr "දුරස්ථ සේවා"
+
+msgid "Remove Service"
+msgstr "සේවා ඉවත් කරන්න"
+
+msgid "Edit Service"
+msgstr "සංස්කරණය කරන්න සේවා"
+
+msgid "Services"
+msgstr "සේවා"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Add Remote Service"
+msgstr "දුරස්ථ සේවා"
+
+msgid "Remote Services"
+msgstr "දුරස්ථ සේවා"
+
+#, fuzzy
+#| msgid "service interfaces"
+msgid "No services registered"
+msgstr "සේවා අතුරුමුහුණත්"
+
+#, fuzzy
+#| msgid "Register New Service"
+msgid "Register Service"
+msgstr "නව සේවා ලියාපදිංචි"
+
+msgid "Register New Service"
+msgstr "නව සේවා ලියාපදිංචි"
+
+msgid "Service has been created:"
+msgstr "සේවා නිර්මාණය කර ඇත :"
+
+msgid "The following layers will be imported"
+msgstr "පහත දැක්වෙන ස්ථර ද ආනයනය කෙරේ"
+
+msgid "Remove Remote Service"
+msgstr "දුරස්ථ සේවා ඉවත් කරන්න"
+
+msgid "Are you sure you want to remove"
+msgstr "ඔබ ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද"
+
+msgid "Deleting service and its associated resources..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Import resources"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "now"
+msgid "no"
+msgstr "දැන්"
+
+msgid "resources can be imported"
+msgstr ""
+
+msgid "- These will be cascaded through your local geoserver instance"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear all filters"
+msgid "Clear Filter"
+msgstr "Clear all filters"
+
+msgid "Back to service details"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Import Resources"
+msgstr "සම්පත්"
+
+#, fuzzy
+#| msgid "Preview"
+msgid "Previous"
+msgstr "පූර්වදර්ශනය"
+
+#, fuzzy
+#| msgid "A resource's download has been requested"
+msgid "All resources have already been imported"
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+msgid "Harvesting resources..."
+msgstr ""
+
+msgid "Re-scan Service for new Resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "service interfaces"
+msgid "Service registered successfully"
+msgstr "සේවා අතුරුමුහුණත්"
+
+#, fuzzy
+#| msgid "A resource's download has been requested"
+msgid "The selected resources are being imported"
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+#, fuzzy
+#| msgid "A resource's download has been requested"
+msgid "The selected resources have been imported"
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+#, fuzzy
+#| msgid "A resource's download has been requested"
+msgid "Resource is already being processed"
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+#, fuzzy, python-brace-format
+#| msgid "A resource's download has been requested"
+msgid "Resource {resource_id} is being processed"
+msgstr "ඒ සම්පත් ගේ බාගත ඉල්ලා තිබෙනවා"
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Service rescanned successfully"
+msgstr "Password සාර්ථකව වෙනස් විය."
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You dont have enougth rigths to see the resource detail"
+msgstr "ඔබ මෙම සිතියම බේරා හෝ සංස්කරණය කිරීමට අවසර නැත."
+
+#, fuzzy
+#| msgid "You are not permitted to remove this service."
+msgid "You are not permitted to change this service."
+msgstr "ඔබ මෙම සේවාව ඉවත් කිරීමට අවසර නැත."
+
+msgid "You are not permitted to remove this service."
+msgstr "ඔබ මෙම සේවාව ඉවත් කිරීමට අවසර නැත."
+
+#, fuzzy, python-brace-format
+#| msgid "Service has been created:"
+msgid "Service {service.name} has been deleted"
+msgstr "සේවා නිර්මාණය කර ඇත :"
+
+msgid "created"
+msgstr "නිර්මාණය කරන ලද්දේ"
+
+msgid "deleted"
+msgstr "මකා දමන ලද්දේ"
+
+msgid "updated"
+msgstr "යාවත්කාලීන කරන ලද්දේ"
+
+msgid "added a comment"
+msgstr "අදහසක් දක්වන ලද්දේ"
+
+msgid "updated a comment"
+msgstr "අදහසක් යාවත්කාලීන කරන ලද්දේ"
+
+msgid "uploaded"
+msgstr "උඩුගත කරන ලද්දේ"
+
+msgid "Recent activity"
+msgstr "මෑතකදී සිදුකරන ලද ක්‍රියාකාරකම්"
+
+msgid "to"
+msgstr "වෙත"
+
+msgid "on"
+msgstr "මත"
+
+msgid "Not Permitted"
+msgstr "අවසර නැත"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "          You are not allowed to perform this operation.  \n"
+#| "      "
+msgid ""
+"\n"
+"          You are not allowed to perform this operation.\n"
+"      "
+msgstr ""
+"\n"
+"මෙම ක්‍රියාව කිරීමට ඔබට අවසර නොමැත"
+
+msgid "Please verify that you are logged in as the correct user."
+msgstr "නිවැරදි පරිශීලකයා ලෙස ඔබ ඇතුලු වී ඇත්දැයි කරුණාකර පරීක්ෂා කර බලන්න"
+
+msgid "Please login or register and retry."
+msgstr "කරුණාකර නැවත ඇතුලු වන්න. එසේත් නැත්නම් ලියපදිංචි වී නැවත උත්සාහ කරන්න"
+
+msgid "Page Not Found"
+msgstr "පිටුව සොයා ගත නොහැක"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "      The page you requested does not exist.  Perhaps you are using an "
+#| "outdated bookmark?\n"
+#| "  "
+msgid ""
+"\n"
+"          The page you requested does not exist.  Perhaps you are using an "
+"outdated bookmark?\n"
+"      "
+msgstr ""
+"\n"
+"ඔබ ඉල්ලු පිටුව නොපවතියි. සමහරවිට ඔබ යල් පැන ගිය Bookmark භාවිතා කරන්නේ ? "
+
+msgid "Toggle navigation"
+msgstr ""
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Datasets"
+msgstr "දත්ත කට්ටලය"
+
+msgid "People"
+msgstr "පුද්ගලයන්"
+
+msgid "Search"
+msgstr "සොයන්න"
+
+msgid "Register"
+msgstr "ලියාපදිංචි වන්න"
+
+msgid "Sign in"
+msgstr "අලුත් ගිණුමක් තනන්න"
+
+msgid "You are using an outdated browser that is not supported by GeoNode."
+msgstr ""
+
+msgid ""
+"Please use a <strong>modern browser</strong> like Mozilla Firefox, Google "
+"Chrome or Safari."
+msgstr ""
+
+msgid "There was a problem loading this page"
+msgstr "මෙම පිටුව ප්‍රවේශනය කිරීමේදී දෝශයක් මතු විය"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "            Please contact your GeoNode administrator (he may have "
+#| "received an email automatically if he configured it properly).\n"
+#| "            If you are the site administrator, enable debug mode to see "
+#| "the actual error and fix it or file an issue in <a href=\"http://github."
+#| "com/GeoNode/geonode/issues\">GeoNode's issue tracker</a>\n"
+#| "            "
+msgid ""
+"\n"
+"            Please contact your GeoNode administrator (they may have "
+"received an email automatically if they configured it properly).\n"
+"            If you are the site administrator, enable debug mode to see the "
+"actual error and fix it or file an issue in <a href=\"http://github.com/"
+"GeoNode/geonode/issues\">GeoNode's issue tracker</a>\n"
+"            "
+msgstr ""
+"\n"
+"(ඔහු එය නිසියාකාරව මානකරනු නම් ඔහු ස්වයංක්රීයව ඊමේල් ලැබී ඇත) ඔබගේ GeoNode පරිපාලක "
+"අමතන්න .\n"
+"\n"
+"ඔබට වෙබ් අඩවිය පරිපාලක නම්, සැබෑ දෝෂයක් දැක විසින් අදාල කරුණ නිවැරදි හෝ <a href="
+"\"http://github.com/GeoNode/geonode/issues\"> GeoNode ගේ ප්රශ්නය ට්රැකර් </a> දී "
+"ප්රශ්නය ගොනු කිරීමට දෝශනිරාකරණ වාර්ථා මාදිලිය සක්රීය "
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new dataset"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "Create Map"
+msgstr "සිතියමක් නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "Add layers"
+msgid "Add User"
+msgstr "ස්ථර එක් කරන්න"
+
+msgid "Powered by"
+msgstr "බලය ලත්"
+
+msgid "version"
+msgstr "අනුවාදය"
+
+msgid "Developers"
+msgstr "සංවර්ධකයන්"
+
+msgid "Username"
+msgstr "පරිශීලක නාමය"
+
+msgid "Password"
+msgstr "මුරපදය:"
+
+msgid "Remember Me"
+msgstr "මාව මතක තබා ගන්න"
+
+msgid "Menu"
+msgstr "මෙනුව"
+
+msgid "Recent Activity"
+msgstr "මෑතකදී සිදුකරන ලද ක්‍රියාකාරකම්"
+
+msgid "Inbox"
+msgstr "Inbox"
+
+msgid "Help"
+msgstr "සහය"
+
+msgid "Log out"
+msgstr "පිට වන්න"
+
+msgid "Info"
+msgstr "තොරතුරු"
+
+msgid "Granules"
+msgstr ""
+
+msgid "Share"
+msgstr "හවුල් කරන්න"
+
+msgid "Ratings"
+msgstr "ප්‍රමාණන"
+
+msgid "Exif"
+msgstr ""
+
+msgid "Set permissions on selected resources"
+msgstr "තෝරාගත් සම්පත් තබා අවසර"
+
+msgid "Apply Changes"
+msgstr "වෙනස්කම් යොදවන්න"
+
+msgid "total"
+msgstr ""
+
+msgid "Add Comment"
+msgstr "විවරණ එක් කරන්න"
+
+msgid "Log in to add a comment"
+msgstr "අදහස් දැක්වීම සඳහා ..."
+
+msgid "By"
+msgstr "විසින්"
+
+msgid "Submit Comment"
+msgstr "පරිකථනය ඉදිරිපත්"
+
+msgid "Who can view it?"
+msgstr "කවුද එය නැරඹීමට හැක ;"
+
+msgid "Anyone"
+msgstr "ඕනෑම කෙනෙකුට"
+
+msgid "The following users:"
+msgstr "පහත දැක්වෙන පරිශීලකයන්:"
+
+msgid "The following groups:"
+msgstr "පහත දැක්වෙන කණ්ඩායම් :"
+
+msgid "Who can download it?"
+msgstr "කවුද ඒක බාගත කළ හැක්කේ කෙසේද?"
+
+msgid "Who can change metadata for it?"
+msgstr "කවුද ඒ සඳහා පාරදත්ත වෙනස් කළ හැක්කේ කෙසේද?"
+
+#, fuzzy
+#| msgid "Who can edit data for this layer?"
+msgid "Who can edit data for this dataset?"
+msgstr "කවුද මේ ස්ථරය සඳහා දත්ත සංස්කරණය කළ හැක්කේ කෙසේද?"
+
+#, fuzzy
+#| msgid "Who can edit styles for this layer?"
+msgid "Who can edit styles for this dataset?"
+msgstr "කවුද මේ ස්ථරය සඳහා ශෛලීන් සංස්කරණය කළ හැක්කේ කෙසේද?"
+
+msgid ""
+"Who can manage it? (update, delete, change permissions, publish/unpublish it)"
+msgstr ""
+"කවුද ඒක කළමනාකරණය කළ හැක්කේ කෙසේද? ( යාවත්කාලීන කිරීම, මකා දැමීම, වෙනස් අවසර , "
+"ප්රකාශයට පත් කරනු ලබයි / එය කාශනය )"
+
+msgid "Set permissions for this resource"
+msgstr "මෙම සම්පත් සඳහා වූ අවසරයන්"
+
+#, fuzzy
+#| msgid "Explore Groups"
+msgid "People and Groups"
+msgstr "කණ්ඩායම් ගවේෂණය"
+
+msgid "Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "User"
+#| msgid_plural "Users"
+msgid "Users"
+msgstr "පරිශීලක"
+
+msgid "Show Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Upload Geo Limits"
+msgstr "ලේඛන උඩුගත කරන්න"
+
+msgid "Save Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete from Favorites"
+msgid "Delete Geo Limits"
+msgstr "ප්‍රියතමදෑ මැකීම "
+
+#, fuzzy
+#| msgid "Message Inbox"
+msgid "Message box"
+msgstr "පණිවුඩය එන ලිපි"
+
+msgid "OK"
+msgstr ""
+
+msgid "Mandatory files : SHP , DBF"
+msgstr ""
+
+msgid ""
+"Upload a ZIP file containing an ESRI Shapefile. If the ZIP provides also a ."
+"prj file, you don't have to specify the EPSG SRID"
+msgstr ""
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose"
+msgstr "පරිශීලකයන් තෝරන්න ..."
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose a file..."
+msgstr "පරිශීලකයන් තෝරන්න ..."
+
+msgid "Reset"
+msgstr ""
+
+msgid "Only the SRID number without the 'EPSG:' prefix!"
+msgstr ""
+
+msgid "Default : 4326"
+msgstr ""
+
+msgid "Set your desired encoding UTF-8, Big5, Big5-HKSCS ..."
+msgstr ""
+
+msgid "Load SHP-ZIP"
+msgstr ""
+
+msgid ""
+"<p>This will remove the Geo Limits currently drawn on the map.</p><p>In "
+"order to store the Geo Limits you will need to <strong>save</strong> them "
+"anyway.</p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid ""
+"<p>This will override the current stored Geo Limits on the DB.</p><p>To "
+"apply them you will need to click on <strong>Apply Changes</strong> button "
+"anyway.</p><p><strong>WARNING:</strong> This operation cannot be reverted!</"
+"p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid "Save Geo Limit"
+msgstr ""
+
+msgid ""
+"<p>Geometry <strong>successfully</strong> saved!</p><p>To apply them you "
+"will need to click on <strong>Apply Changes</strong> button.</p>"
+msgstr ""
+
+msgid "<p><strong>Error</strong> while trying to save the Geometry!</p>"
+msgstr ""
+
+msgid "Load Geo Limits"
+msgstr ""
+
+msgid "Load Geo Limit"
+msgstr ""
+
+msgid "<p><strong>No Geometry</strong> found!</p>"
+msgstr ""
+
+msgid ""
+"<p>This will <strong>permanently</strong> remove the Geo Limits from the DB."
+"</p><p>To apply them you will need to click on <strong>Apply Changes</"
+"strong> button.</p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid "Delete Geo Limit"
+msgstr ""
+
+msgid "<p><strong>Geo Limitsy</strong> successfully deleted!</p>"
+msgstr ""
+
+msgid ""
+"<p><strong>Error</strong> occurred while trying to delete Geo Limits:</p>"
+msgstr ""
+
+msgid "Choose users..."
+msgstr "පරිශීලකයන් තෝරන්න ..."
+
+msgid "Choose groups..."
+msgstr "කණ්ඩායම් තෝරාගන්න ..."
+
+msgid "Placeholder for status-message"
+msgstr ""
+
+msgid "Placeholder for status-message-body"
+msgstr ""
+
+msgid "About GeoNode"
+msgstr "GeoNode ගැන"
+
+msgid ""
+"GeoNode is a geospatial content management system, a platform for the "
+"management and publication of geospatial data. It brings together mature and "
+"stable open-source software projects under a consistent and easy-to-use "
+"interface allowing non-specialized users to share data and create "
+"interactive maps."
+msgstr ""
+
+msgid ""
+"Data management tools built into GeoNode allow for integrated creation of "
+"data, metadata, and map visualizations. Each dataset in the system can be "
+"shared publicly or restricted to allow access to only specific users. Social "
+"features like user profiles and commenting and rating systems allow for the "
+"development of communities around each platform to facilitate the use, "
+"management, and quality control of the data the GeoNode instance contains."
+msgstr ""
+
+msgid ""
+"It is also designed to be a flexible platform that software developers can "
+"extend, modify or integrate against to meet requirements in their own "
+"applications."
+msgstr ""
+
+#, fuzzy
+#| msgid "Account activated"
+msgid "Account Inactive"
+msgstr "ගිණුම සක්රිය"
+
+#, fuzzy
+#| msgid "Your account is now active"
+msgid "This account is inactive."
+msgstr "ඔබගේ ගිණුම දැන් සක්රීය"
+
+msgid "Account Pending Approval"
+msgstr "ගිණුම Pending අනුමැතිය"
+
+#, python-format
+msgid ""
+"We have sent the administrators a notice to approve your account associated "
+"with <b>%(email)s</b>. If the account is approved, you will receive a "
+"confirmation notice."
+msgstr ""
+".අපි පරිපාලකයන් ඔබේ ගිණුම අනුමත කිරීමට දැනුම්දීමක් යවා ඇ. <b>%(email)s</b>. ගිණුම් අනුමත කරයි "
+"නම්, ඔබ ඒ බව සනාථ කරන දැනුම් ලැබෙනු ඇත."
+
+#, fuzzy
+#| msgid "count"
+msgid "Account"
+msgstr "ගණන"
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "E-mail Addresses"
+msgstr "විද්‍යුත්-තැපැල් ලිපිනය"
+
+msgid "The following e-mail addresses are associated with your account:"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Unverified"
+msgstr ""
+
+#, fuzzy
+#| msgid "Primary email"
+msgid "Primary"
+msgstr "Primary email"
+
+msgid "Make Primary"
+msgstr ""
+
+#, fuzzy
+#| msgid "Identification"
+msgid "Re-send Verification"
+msgstr "හදුනා ගැනීම"
+
+msgid "Warning:"
+msgstr ""
+
+msgid ""
+"You currently do not have any e-mail address set up. You should really add "
+"an e-mail address so you can receive notifications, reset your password, etc."
+msgstr ""
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Add E-mail Address"
+msgstr "විද්‍යුත්-තැපැල් ලිපිනය"
+
+#, fuzzy
+#| msgid "Email"
+msgid "Add E-mail"
+msgstr "Email"
+
+msgid "Do you really want to remove the selected e-mail address?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello from %(site_name)s!\n"
+"\n"
+"You're receiving this e-mail because user %(user_display)s has given yours "
+"as an e-mail address to connect their account.\n"
+"\n"
+"To confirm this is correct, go to %(activate_url)s\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"Thank you from %(site_name)s!\n"
+"%(site_domain)s"
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Confirm email address for %(site_name)s"
+msgid "Please confirm email address for %(site_name)s"
+msgstr "ඊතැපැල් ලිපිනය තහවුරු කරන්න  %(site_name)s"
+
+#, python-format
+msgid "You have been invited to sign up at %(site_name)s."
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Confirm email address for %(site_name)s"
+msgid "Create an account on %(site_name)s"
+msgstr "ඊතැපැල් ලිපිනය තහවුරු කරන්න  %(site_name)s"
+
+msgid ""
+"This is the email notification to confirm your password has been changed on"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password: %s"
+msgid "Change password email notification"
+msgstr "වෙනස් password: %s"
+
+#, fuzzy, python-format
+#| msgid ""
+#| "You're receiving this email because you or someone else has requested a "
+#| "password for your user account at %(site_name)s.\n"
+#| "It can be safely ignored if you did not request a password reset. Click "
+#| "the link below to reset your password.\n"
+#| "\n"
+#| "%(password_reset_url)s\n"
+msgid ""
+"Hello from %(site_name)s!\n"
+"\n"
+"You're receiving this e-mail because you or someone else has requested a "
+"password for your user account.\n"
+"It can be safely ignored if you did not request a password reset. Click the "
+"link below to reset your password."
+msgstr ""
+"ඔබ හෝ වෙන කෙනෙක් ඔබගේ පරිශීලක ගිණුම සඳහා මුරපදයක් ඉල්ලා ඇත නිසා ඔබට මෙම විද්යුත් තැපැල් "
+"ලබමින් කරනවා   %(site_name)s\n"
+"ඔබ මුරපද යළි ඉල්ලා නෑ නම් එය ආරක්ෂිතව නොසලකා හැරිය හැක . ඔබේ මුරවචනය නැවත සකස් කිරීම "
+"සඳහා පහත ලින්ක් එක ක්ලික් කරන්න .\n"
+"%(password_reset_url)s\n"
+
+#, python-format
+msgid "In case you forgot, your username is %(username)s."
+msgstr ""
+
+#, python-format
+msgid ""
+"Thank you for using %(site_name)s!\n"
+"%(site_domain)s"
+msgstr ""
+
+#, python-format
+msgid "[%(site_name)s] Password reset"
+msgstr "[%(site_name)s]   Password yaḷai"
+
+#, fuzzy
+#| msgid "Confirm your email address"
+msgid "Confirm E-mail Address"
+msgstr "ඔබේ විද්යුත් තැපැල් ලිපිනය තහවුරු කරන්න"
+
+#, python-format
+msgid ""
+"Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
+"address for user %(user_display)s."
+msgstr ""
+
+msgid "Confirm"
+msgstr "සහතික කිරීම"
+
+#, python-format
+msgid ""
+"This e-mail confirmation link expired or is invalid. Please <a href="
+"\"%(email_url)s\">issue a new e-mail confirmation request</a>."
+msgstr ""
+
+msgid "Log in"
+msgstr "Log in "
+
+msgid "Log in to an existing account"
+msgstr "Log in to an දැනට පවතින ගිණුම"
+
+#, python-format
+msgid ""
+"Please sign in with one\n"
+"      of your existing third party accounts. Or, <a href=\"%(signup_url)s"
+"\">sign up</a>\n"
+"      for a %(site_name)s account and sign in below:"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+#, python-format
+msgid ""
+"If you have not created an account yet, then please\n"
+"      <a href=\"%(signup_url)s\">sign up</a> first."
+msgstr ""
+
+#, fuzzy
+#| msgid "Forgot your password?"
+msgid "Forgot Password?"
+msgstr "ඔබගේ මුරපදය අමතකද?"
+
+#, fuzzy
+#| msgid "Sign in"
+msgid "Sign In"
+msgstr "අලුත් ගිණුමක් තනන්න"
+
+msgid "Are you sure you want to log out?"
+msgstr "ඔබ ඉවත් විමට අවශ්ය බව ඔබට විශ්වාස ද?"
+
+msgid "Password change"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "Password Change"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "Change your password here"
+msgstr "ඔබගේ මුර පදය මෙහි වෙනස් කරන්න"
+
+msgid "Change my password"
+msgstr "මගේ මුරපදය වෙනස් කරන්න "
+
+msgid "Password reset"
+msgstr "Password නැවත සකසන්න"
+
+msgid "Password Reset"
+msgstr "Password නැවත සකසන්න"
+
+msgid "Forgotten your password?"
+msgstr "ඔබගේ password අමතක වී ඇත්ද?"
+
+msgid ""
+"Enter your email address below, and we'll send you an email allowing you to "
+"reset it."
+msgstr ""
+"ඔබගේ ඊ-තැපැල් ලිපිනය ඇතුලත් කරන්න පහත , අප ඔබ එය නැවත සකස් කිරීමට ඉඩ ඊ-තැපෑලක් එවන්නෙමු ."
+
+msgid "Reset my password"
+msgstr "මගේ මුරපදය යලි පිහිටුවන්න"
+
+#, python-format
+msgid ""
+"If you have any trouble resetting your password, contact us at <a href="
+"\"mailto:%(THEME_ACCOUNT_CONTACT_EMAIL)s\">%(THEME_ACCOUNT_CONTACT_EMAIL)s</"
+"a>."
+msgstr ""
+"ඔබගේ මුරපදය යලි පිහිටුවීමේදී යම් ගැටළුවක් මතු වේ නම් <a href=\"mailto:"
+"%(THEME_ACCOUNT_CONTACT_EMAIL)s\">%(THEME_ACCOUNT_CONTACT_EMAIL)s</a> හරහා "
+"අප වෙත යොමු වන්න"
+
+msgid ""
+"We have sent you an e-mail. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "Change Password"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+msgid "Bad Token"
+msgstr ""
+
+#, python-format
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
+"a>."
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "change password"
+msgstr "මුරපදය වෙනස් කරන්න"
+
+#, fuzzy
+#| msgid "Password change"
+msgid "Your password is now changed."
+msgstr "මුරපදය වෙනස් කරන්න"
+
+#, fuzzy
+#| msgid "Password"
+msgid "Set Password"
+msgstr "මුරපදය:"
+
+#, fuzzy
+#| msgid "Password reset"
+msgid "Password Set"
+msgstr "Password නැවත සකසන්න"
+
+#, fuzzy
+#| msgid "Change your password here"
+msgid "Set your password here"
+msgstr "ඔබගේ මුර පදය මෙහි වෙනස් කරන්න"
+
+#, fuzzy
+#| msgid "Reset my password"
+msgid "Set password"
+msgstr "මගේ මුරපදය යලි පිහිටුවන්න"
+
+msgid "Sign up"
+msgstr "Sign up"
+
+msgid ""
+"Sign up with one\n"
+"              of your existing third party accounts"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new local account"
+msgstr "නව සිතියමක් නිර්මාණය කරන්න"
+
+msgid "Sign Up Closed"
+msgstr ""
+
+msgid "We are sorry, but the sign up is currently closed."
+msgstr ""
+
+msgid "Note"
+msgstr "Note"
+
+#, python-format
+msgid "you are already logged in as %(user_display)s."
+msgstr ""
+
+#, fuzzy
+#| msgid "Confirm your email address"
+msgid "Verify your email address"
+msgstr "ඔබේ විද්යුත් තැපැල් ලිපිනය තහවුරු කරන්න"
+
+#, fuzzy
+#| msgid ""
+#| "We have sent you an email to <b>%(email)s</b> for verification. Follow "
+#| "the link provided to finalize the signup process."
+msgid ""
+"We have sent an email to you for verification. Follow the\n"
+"    link provided to finalize the signup process. Please contact us if you "
+"do\n"
+"    not receive it within a few minutes"
+msgstr ""
+"අපි සත්යාපනය  <b>%(email)s</b> සඳහා ඔබ ඊ- යවා ඇත.මෙම ලියාපදිංචි වීමේ ක්රියාවලිය අවසන් "
+"කිරීම සඳහා ලබා දී ඇති ලින්ක් එක අනුගමනය කරන්න."
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Verify Your E-mail Address"
+msgstr "විද්‍යුත්-තැපැල් ලිපිනය"
+
+msgid ""
+"This part of the site requires us to verify that\n"
+"you are who you claim to be. For this purpose, we require that you\n"
+"verify ownership of your e-mail address. "
+msgstr ""
+
+msgid ""
+"We have sent an e-mail to you for\n"
+"verification. Please click on the link inside this e-mail. Please\n"
+"contact us if you do not receive it within a few minutes."
+msgstr ""
+
+#, python-format
+msgid ""
+"<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-"
+"mail address</a>."
+msgstr ""
+
+msgid "My Activity feed"
+msgstr "මගේ ක්රියාකාරකම් පෝෂණය"
+
+msgid "Activity Feed"
+msgstr "ක්රියාකාරකම් සංග්රහය"
+
+#, fuzzy
+#| msgid "Are you sure you want to remove"
+msgid "Are you sure you want to run the selected"
+msgstr "ඔබ ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද"
+
+#, fuzzy
+#| msgid "Yes, I am sure"
+msgid "Yes, I'm sure"
+msgstr "ඔව්, මට සහතිකයි"
+
+msgid "GeoNode site admin"
+msgstr "GeoNode අඩවිය පරිපාලක"
+
+msgid "GeoNode administration"
+msgstr "GeoNode පරිපාලනය"
+
+msgid "Delete Announcement?"
+msgstr "නිවේදනය මකන්නද?"
+
+msgid "Are you sure you want to delete this announcement?"
+msgstr "ඔබ මෙම නිවේදනය ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද?"
+
+msgid "Edit Announcement"
+msgstr "නිවේදන සංස්කරණය කරන්න"
+
+msgid "Create Announcement"
+msgstr "නිවේදන නිර්මාණය කරන්න"
+
+msgid "New Announcement"
+msgstr "නව නිවේදනය"
+
+msgid "Level"
+msgstr "පෙළ"
+
+msgid "Announcement"
+msgstr "නිවේදනය"
+
+msgid "Published From"
+msgstr "ප්‍රකාශනයට පත් කරන ලද්දේ"
+
+#, python-format
+msgid ""
+"\n"
+"          Published from <b>%(publish_start)s</b> to <b>%(publish_end)s</"
+"b>.\n"
+"          "
+msgstr ""
+"\n"
+"සිට Published <b>%(publish_start)s</b>  \n"
+"\n"
+"<b>%(publish_end)s</b> ලෙස"
+
+#, python-format
+msgid "Announcements : %(announcement)s"
+msgstr "ප්‍රකාශන: %(announcement)s"
+
+msgid "Back to edit your profile information"
+msgstr "නැවතත් ඔබේ පැතිකඩ තොරතුරු සංස්කරණය කිරීමට"
+
+msgid "Your current avatar: "
+msgstr "ඔබේ දැනට පවතින ඡායාරූපය"
+
+msgid "You haven't uploaded an avatar yet. Please upload one now."
+msgstr "ඔබ තවමත් ඡායාරූපයක් උඩුගත කර නැත. කරුණාකර එකක් උඩුගත කරන්න "
+
+msgid "Upload New Image"
+msgstr "නව සේයාරුවක් උඩුගත කරන්න"
+
+msgid "Choose new Default"
+msgstr "නව පෙරනිමි තෝරන්න"
+
+msgid "Delete Your Avatar"
+msgstr "ඔබේ Avatar  Delete"
+
+msgid "Please select the avatars that you would like to delete."
+msgstr "කරුණාකර මකාදැමීමට අවශ්‍ය ඡායාරූප තෝරන්න"
+
+#, python-format
+msgid ""
+"You have no avatars to delete. Please <a href=\"%(avatar_change_url)s"
+"\">upload one</a> now."
+msgstr ""
+"මකා දැමීමට ඡායාරූප නොමැත. කරුණාකර  <a href=\"%(avatar_change_url)s\"> එකක් දැන් "
+"උඩුගත කරන්න."
+
+msgid "Delete These"
+msgstr "මේවා මකාදමන්න"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Search"
+msgstr "GeoNode සහය"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Contact Us"
+msgstr "අමතන්න:"
+
+msgid "Tel"
+msgstr ""
+
+#, fuzzy
+#| msgid "uploaded"
+msgid "Uploading..."
+msgstr "උඩුගත කරන ලද්දේ"
+
+#, fuzzy
+#| msgid "Upload files"
+msgid "Upload in progress..."
+msgstr "ගොනු උඩුගත කරන්න"
+
+msgid "Processing..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Updating Thumbnail..."
+msgstr "Thumbnail"
+
+#, fuzzy
+#| msgid "Are you sure you want to remove"
+msgid "Message. Do you want to proceed?"
+msgstr "ඔබ ඉවත් කිරීමට අවශ්ය බව ඔබට විශ්වාස ද"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Processing Resource..."
+msgstr "සම්පත්"
+
+msgid "Information for Developers"
+msgstr "සංවර්ධකයන් සඳහා තොරතුරු"
+
+msgid "Useful information for developers interested in GeoNode."
+msgstr "GeoNode කෙරෙහි උනන්දුවක් දක්වන සංවර්ධකයන් සඳහා තොරතුරු"
+
+#, python-format
+msgid ""
+"\n"
+"    <p><a href=\"http://geonode.org/\">GeoNode</a> is an open service built "
+"on open source software. We encourage you to build new applications using "
+"the components and resources it provides. This page is a starting point for "
+"developers interesting in taking full advantage of GeoNode. It also includes "
+"links to the project's source code so anyone can build and customize their "
+"own GeoNode. </p>\n"
+"\n"
+"    <h3>GeoNode Software</h3>\n"
+"\n"
+"    <p>All the code that runs GeoNode is open source. The code is available "
+"at <a href=\"http://github.com/GeoNode/geonode\">http://github.com/GeoNode/"
+"geonode/</a>. The issue tracker for the project is at <a href=\"http://"
+"github.com/GeoNode/geonode/issues\">http://github.com/GeoNode/geonode/"
+"issues</a>.</p>\n"
+"\n"
+"    <p>GeoNode is built using several open source projects, each with its "
+"own community. If you are interested in contributing new features to the "
+"GeoNode, we encourage you to do so by contributing to one of the projects on "
+"which it is built:</p>\n"
+"    <ul>\n"
+"      <li><a href=\"http://geoserver.org\">GeoServer</a> - Standards based "
+"server for geospatial information</li>\n"
+"      <li><a href=\"http://geowebcache.org\">GeoWebCache</a> - Cache engine "
+"for WMS Tiles</li><li><a href=\"http://openlayers.org\">OpenLayers</a> - "
+"Pure JavaScript library powering the maps of GeoExt</li>\n"
+"      <li><a href=\"http://pycsw.org\">pycsw</a> - CSW, OpenSearch and OAI-"
+"PMH metadata catalogue server</li>\n"
+"    </ul>\n"
+"\n"
+"    <h3>What are OGC Services?</h3>\n"
+"    <p>The data in this application is served using open standards endorsed "
+"by ISO and the <a href=\"http://opengeospatial.org/\">Open Geospatial "
+"Consortium</a>; in particular, WMS (Web Map Service) is used for accessing "
+"maps, WFS (Web Feature Service) is used for accessing vector data, and WCS "
+"(Web Coverage Service) is used for accessing raster data.  WMC (Web Map "
+"Context Documents) is used for sharing maps. You can use these services in "
+"your own applications using libraries such as OpenLayers, GeoTools, and OGR "
+"(all of which are open-source software and available at zero cost). "
+"Additionally, CSW (Catalog Service for the Web) supports access to "
+"collections of descriptive information (metadata) about data and services.</"
+"p>\n"
+"\n"
+"    <h3>What is GeoWebCache?</h3>\n"
+"    <p>GeoWebCache provides mapping tiles that are compatible with a number "
+"of mapping engines, including Google Maps, Bing Maps and OpenLayers. All the "
+"data hosted by GeoNode is also available through GeoWebCache. GeoWebCache "
+"improves on WMS by caching data and providing more responsive maps.</p>\n"
+"\n"
+"    <h3>CSW Example Code</h3>\n"
+"    <p>To interact with GeoNode's CSW you can use any CSW client (QGIS "
+"MetaSearch, GRASS, etc.).  The following example illustrates a simple "
+"invocation using the OWSLib Python package:</p>\n"
+"    <p><code>from owslib.csw import CatalogueServiceWeb</code></p>\n"
+"    <p><code>from owslib.fes import PropertyIsLike</code></p>\n"
+"    <p><code>csw = CatalogueServiceWeb('%(CATALOGUE_BASE_URL)s')</code></p>\n"
+"    <p><code>anytext = PropertyIsLike('csw:AnyText', 'birds')')</code></p>\n"
+"    <p><code>csw.getrecords2(constraints=[anytext])</code></p>\n"
+"    <p><code>print csw.results</code></p>\n"
+"    <p><code>print csw.records</code></p>\n"
+"\n"
+"    <h3>OpenLayers Example Code</h3>\n"
+"\n"
+"    <p>To include a GeoNode map layer in an OpenLayers map, first find the "
+"name for that layer. This is found in the layer's <code>name</code> field "
+"(not <code>title</code>) of the layer list. For this example, we will use "
+"the Nicaraguan political boundaries background layer, whose name is "
+"<code>risk:nicaragua_admin</code>. Then, create an instance of OpenLayers."
+"Layer.WMS:</p>\n"
+"    <p><code>var geonodeLayer = new OpenLayers.Layer.WMS(\"GeoNode Risk Data"
+"\", \"http://demo.geonode.org/geoserver/wms\",{ layers: \"risk:"
+"nicaragua_admin\" });</code></p>\n"
+"\n"
+"    <h3>Google Maps Example Code</h3>\n"
+"    <p>To include a GeoNode map layer in a Google Map, include the dataset "
+"name in the URL template.</p>\n"
+"    <p><code>var tilelayer =  new GTileLayer(null, null, null, "
+"{tileUrlTemplate: 'http://demo.geonode.org/geoserver/gwc/service/gmaps?"
+"layers=risk:nicaragua_admin&#38;zoom={Z}&#38;x={X}&#38;y={Y}', isPng:true, "
+"opacity:0.5 } );</code></p>\n"
+"\n"
+"    <h3>Shapefile/GeoJSON/GML Output</h3>\n"
+"    <p>To get data from the GeoNode web services use the WFS protocol. For "
+"example, to get the full Nicaraguan admin boundaries use:</p>\n"
+"    <p><code>http://demo.geonode.org/geoserver/wfs?request=GetFeature&#38;"
+"typeName=risk:nicaragua_admin&#38;outputformat=SHAPE-ZIP</code></p>\n"
+"    <p>Changing output format to <code>json</code>, <code>GML2</code>, "
+"<code>GML3</code>, or <code>csv</code> will get data in those formats. The "
+"WFS protocol also can handle more precise queries, specifying a bounding box "
+"or various spatial and non-spatial filters based on the attributes of the "
+"data.</p>\n"
+"\n"
+"    <h3>GeoTools Example Code</h3>\n"
+"    <p>Create a DataStore and extract a FeatureType from it, then run a "
+"Query. It is all documented on the wiki at <code>http://geotools.org/</code>."
+"</p>\n"
+"    "
+msgstr ""
+
+msgid "GeoNode's Web Services"
+msgstr "GeoNode හි වෙබ් සේවා"
+
+msgid "GeoNode's Web Services are available from the following URLs:"
+msgstr "පහත URL හරහා GeoNode හි වෙබ් සේවා ලබා ගත හැක"
+
+msgid "Dynamic tiles via WMS:"
+msgstr "WMS හරහා ඩයිනමික් උළු :"
+
+msgid "Vector data via WFS:"
+msgstr "WFS හරහා vector දත්ත"
+
+msgid "Raster data via WCS:"
+msgstr "WCS හරහා Raster දත්ත :"
+
+msgid "Metadata search via CSW:"
+msgstr "CSW හරහා මෙටාදත්ත සෙවුම් "
+
+msgid "Metadata search via OpenSearch:"
+msgstr ""
+
+msgid "Metadata search via OAI-PMH:"
+msgstr ""
+
+msgid "Cached tiles via WMTS:"
+msgstr "WMTS හරහා හැඹිලිගත උළු :"
+
+msgid "User Guide"
+msgstr "පරිශීලක අත්පොත"
+
+msgid "GeoNode Help"
+msgstr "GeoNode සහය"
+
+msgid ""
+"This page provides helpful information about how to use the GeoNode. You can "
+"use the sidebar links to navigate to what you want to know."
+msgstr ""
+"GeoNode භාවිතා කරන ආකාරය පිළිබඳ වැදගත් තොරතුරු මෙම පිටුවේ ඇතුලත් වේ. ඔබට දැන ගැන්මට අවශ්‍"
+"ය දෙය සොයා ගැනීමට පැති තීරුවේ තිබෙන links භාවිතා කරන්න"
+
+msgid ""
+"\n"
+"    <p>The GeoNode provides access to data sets and a map editing "
+"application allows users to browse existing maps and contribute their own.</"
+"p>\n"
+"\n"
+"    <h4 id=\"browsing-data\">Browsing Layers</h4>\n"
+"    <p>The <a href=\"{{ url_layer_browse }}\">Layers</a> tab allows you to browse data "
+"uploaded to this GeoNode.</p>\n"
+"    <p>All data can be downloaded in a variety of formats, for use in other "
+"applications.</p>\n"
+"\n"
+"    <h4 id=\"developer-access\">Developer Access</h4>\n"
+"    <p>The <a href=\"{{ url_developer }}\"> Developer</a> page is the place for "
+"developers to get started building applications against the GeoNode. It "
+"includes instructions on using the web services, links to the source code of "
+"the GeoNode, and information about the open source projects used to create "
+"it.</p>\n"
+"\n"
+"    <h4 id=\"browsing-maps\">Browsing Maps</h4>\n"
+"    <p>The GeoNode allows users to create and share maps with one another.</"
+"p>\n"
+"    <p>The <a href=\"{{ url_maps_browse }}\">Maps</a> tab is a gateway to map exploration on "
+"GeoNode.  From here you can <strong>search for a map</strong> or "
+"<strong>create a map</strong>, which will open the <a href=\"{{ url_maps_new }}\">Map "
+"Composer</a>.</p>\n"
+"    <h5>Google Earth Mode</h5>\n"
+"    <p>Any map viewed in the interactive map editor can be seen in 3D mode "
+"with the Google Earth plugin. To switch to 3D mode select the Google Earth "
+"globe logo, the rightmost button on top toolbar. If you do not have the "
+"Google Earth plugin installed you will be prompted to install it.</p>\n"
+"\n"
+"    <h4 id=\"creating-a-map\">Creating a Map</h4>\n"
+"    <p>To create a new map go to the <a href=\"{{ url_maps_browse }}\">Contributed Maps</a> "
+"tab and click the <a href=\"{{ url_maps_new }}\">create your own map</a> link.</p>\n"
+"    <p>This will take you to the <a href=\"{{ url_maps_new }}\">Map Composer</a> with "
+"a base layer loaded.</p>\n"
+"    <p>To add data layers from the GeoNode click on the green plus button "
+"located below the layers tab on the left hand side of the screen. This will "
+"open a dialog listing all the layers available on the GeoNode.</p>\n"
+"    <p>To add layers to your map select them and hit the <strong>Add Layers</"
+"strong> button. When finished you may hit <strong>Done</strong> to close the "
+"dialog and go back to the map.</p>\n"
+"\n"
+"    <h5>Reordering and Removing Layers</h5>\n"
+"    <p>Change the display order of the layers listed in the data tab by "
+"simply dragging and dropping their names. The order in the map will be "
+"updated to reflect that. To turn a layer's visibility off simply uncheck it, "
+"and to remove it entirely select it and hit the red minus button.</p>\n"
+"\n"
+"    <h5>Saving your map</h5>\n"
+"    <p>Once a suitable set of layers and zoom level has been found it's time "
+"to save it so others can see it.  Click the Save button--the left most icon "
+"on the top toolbar, an image of a map with a disk--on the top menu and fill "
+"out the title and abstract of the map.</p>\n"
+"\n"
+"    <h4 id=\"exporting-a-map\">Publishing a Map</h4>\n"
+"    <p>Any map from the GeoNode can be embedded for use in another site or "
+"blog. To publish a map:</p>\n"
+"    <ol>\n"
+"      <li>Select the from the list of maps on the community or map page and "
+"then hit the 'Publish map' button.</li>\n"
+"      <li>Choose your desired height and width for the widget in the wizard."
+"</li>\n"
+"      <li>Copy the HTML snippet provided in the wizard to any HTML page or "
+"iFrame-supporting blog post.</li>\n"
+"    </ol>\n"
+"    <p>This will put an interactive widget showing you map in your web page "
+"or blog post.</p>\n"
+"    <p>Note that the <a href=\"{{ url_maps_new }}\">Map Composer</a> also has a "
+"button to publish the map. Just be sure to save the map before publishing if "
+"there are changes that you want others to see. It publishes the last saved "
+"version, not the last viewed version.</p>\n"
+"\n"
+"    <h4 id=\"remixing-a-map\">Remixing a Map</h4>\n"
+"    <p>Any map available can serve as a starting point for a new map.</p>\n"
+"    <ol>\n"
+"      <li>Open the map in the Map Composer.</li>\n"
+"      <li>Add and remove layers as you like.</li>\n"
+"      <li>Pan and zoom to highlight the area of interest.</li>\n"
+"      <li><strong>IMPORTANT:</strong> Update the title, abstract, contact "
+"info and tags to reflect the new map.</li>\n"
+"      <li>Save the map.</li>\n"
+"    </ol>\n"
+"    <p>You will be able to see your new map when you search for it from the "
+"<a href=\"{{ url_maps_browse }}\">Maps</a> tab.</p>\n"
+"    "
+msgstr ""
+
+msgid "Sections"
+msgstr "අංශ"
+
+msgid "Browsing Layers"
+msgstr "ස්ථර විපරම්  කිරීම"
+
+msgid "Developer Access"
+msgstr "සංවර්ධක ප්‍රවිශ්ඨය"
+
+msgid "Browsing Maps"
+msgstr "සිතියම් බ්‍රවුස් කිරීම"
+
+msgid "Creating a Map"
+msgstr "සිතියමක් නිර්මාණය කිරීම"
+
+msgid "Exporting a Map"
+msgstr "සිතියමක් export කිරීම"
+
+msgid "Remixing a Map"
+msgstr "සිතියම් නැවත සංකලනය කිරීම"
+
+msgid "Welcome!"
+msgstr "ආයුබෝවන්!"
+
+#, fuzzy
+#| msgid "Getting Started"
+msgid "Get Started &raquo;"
+msgstr "ඇරඹේ"
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search for Data."
+msgstr "සොයන්න"
+
+msgid "Advanced Search"
+msgstr ""
+
+msgid ""
+"Click to search for geospatial data published by other users, organizations "
+"and public sources. Download data in standard formats."
+msgstr ""
+"වෙනත් භාවිතා කරන්නන් , සංවිධාන හා රාජ්ය ආරංචි මාර්ග විසින් ප්රකාශයට පත් කර භුමිය පිලිබඳ දත්ත "
+"සඳහා ගවේශනය කිරීම ක්ලික් කරන්න. සම්මත ආකෘති දත්ත බාගත කරන්න"
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Add datasets"
+msgstr "දත්ත කට්ටලය"
+
+#, fuzzy
+#| msgid "Explore Layers"
+msgid "Explore datasetss"
+msgstr "ස්ථර සොයන්න"
+
+#, fuzzy
+#| msgid ""
+#| "Data is available for browsing, aggregating and styling to generate maps "
+#| "which can be shared publicly or restricted to specific users only."
+msgid ""
+"Data is available for browsing, aggregating and styling to generate maps "
+"which can be saved, downloaded, shared publicly or restricted to specify "
+"users only."
+msgstr ""
+"දත්ත aggregating ප්රසිද්ධියේ හවුල් හෝ පමණක් විශේෂිත පරිශීලකයන් පමණක් සීමා කළ හැකි සිතියම් "
+"නිර්මාණය හැඩගැන්වීම්, කෑම සඳහා ලබා ගත හැක."
+
+msgid "Create maps"
+msgstr "සිතියම් නිර්මාණය කරන්න ."
+
+msgid "Explore maps"
+msgstr "සිතියම් ගවේෂණය"
+
+msgid ""
+"As for the layers and maps GeoNode allows to publish tabular and text data, "
+"manage their metadata and associated documents."
+msgstr ""
+
+#, fuzzy
+#| msgid "Add Comment"
+msgid "Add documents"
+msgstr "විවරණ එක් කරන්න"
+
+#, fuzzy
+#| msgid "Explore Documents"
+msgid "Explore documents"
+msgstr "ලේඛන සොයන්න"
+
+#, fuzzy
+#| msgid ""
+#| "GeoNode allows registered users to easily upload geospatial data in "
+#| "several formats including shapefile and GeoTiff."
+msgid ""
+"Geonode allows registered users to easily upload geospatial data and various "
+"documents in several formats."
+msgstr ""
+"GeoNode ලියාපදිංචි පහසුවෙන් shapefile හා GeoTiff ඇතුළු ආකෘති දී භුමිය පිලිබඳ දත්ත උඩුගත "
+"කිරීමට ඉඩ ලබා දේ."
+
+msgid "See users"
+msgstr "පරිශීලකයන් බලන්න"
+
+#, fuzzy
+#| msgid "Featured"
+msgid "Featured Datasets"
+msgstr "විශේෂාංග"
+
+#, fuzzy
+#| msgid "Accepted"
+msgid "Accept"
+msgstr "පිළිගත්"
+
+#, fuzzy
+#| msgid "Subject"
+msgid "Reject"
+msgstr "මාතෘකාව"
+
+msgid "Leave"
+msgstr ""
+
+msgid "Dear Sir/Madam,"
+msgstr ""
+
+#, python-format
+msgid "is inviting you to join (%(site_name)s)."
+msgstr ""
+
+#, python-format
+msgid ""
+"To do so, please register at <a href=\"%(invite_url)s\">%(site_name)s "
+"Registration</a>."
+msgstr ""
+
+msgid ""
+"Once you receive the confirmation that your account is activated, you can "
+"notify"
+msgstr ""
+
+msgid "that you wish to join her/his group(s) through"
+msgstr ""
+
+msgid "this link"
+msgstr ""
+
+#, python-format
+msgid ""
+"<strong>%(inviter_name)s</strong> is a member of the following group(s):"
+msgstr ""
+
+msgid "We look forward to seeing you on the platform,"
+msgstr ""
+
+#, fuzzy
+#| msgid "GeoNode site admin"
+msgid "The GeoNode team."
+msgstr "GeoNode අඩවිය පරිපාලක"
+
+msgid "is inviting you to join"
+msgstr ""
+
+msgid "To do so, please register at"
+msgstr ""
+
+msgid "that you wish to join her/his group(s) through this link"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following groups:"
+msgid "is a member of the following group(s)"
+msgstr "පහත දැක්වෙන කණ්ඩායම් :"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Updating Metadata..."
+msgstr "මෙටාදත්ත බාගත කරන්න"
+
+msgid "Topic Category is mandatory and cannot be empty!"
+msgstr ""
+
+msgid "Group is mandatory and cannot be empty!"
+msgstr ""
+
+msgid "Identification"
+msgstr "හදුනා ගැනීම"
+
+msgid "Yes"
+msgstr "ඔව්"
+
+msgid "Published"
+msgstr "ප්රකාශයට පත්"
+
+msgid "email"
+msgstr "email"
+
+#, fuzzy
+#| msgid "Information of Layer"
+msgid "Information"
+msgstr "ස්ථරය තුළ දත්ත තොරතුරු"
+
+msgid "Identification Image"
+msgstr ""
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Spatial Extent"
+msgstr "ලෞකික ෙහ"
+
+#, fuzzy
+#| msgid "Projetion System"
+msgid "Projection System"
+msgstr "ප්රක්ෂේපනය පද්ධතිය"
+
+msgid "Extension x0"
+msgstr ""
+
+msgid "Extension x1"
+msgstr ""
+
+msgid "Extension y0"
+msgstr ""
+
+msgid "Extension y1"
+msgstr ""
+
+msgid "Features"
+msgstr "විශේෂාංග"
+
+msgid "Contact Points"
+msgstr ""
+
+msgid "References"
+msgstr "ආශ්රිත"
+
+msgid "Link Online"
+msgstr ""
+
+msgid "Metadata Page"
+msgstr "පාරදත්ත පිටුව"
+
+msgid "Online Link"
+msgstr ""
+
+msgid "* Field declared Mandatory by the Metadata Schema"
+msgstr ""
+
+msgid "Please, fill the following items before clicking on preview:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Request perission"
+msgstr "කට්ටලයක් අවසර"
+
+#, fuzzy
+#| msgid "Request to download a resource"
+msgid "Request editing for resource: "
+msgstr "resource බාගත කිරීම සඳහා ඉල්ලුම් කිරීම"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Back to resource"
+msgstr "සම්පත්"
+
+msgid "Send request"
+msgstr ""
+
+msgid "Your account has been approved and is now active."
+msgstr "ඔබගේ ගිණුම අනුමත හා දැන් සක්රීය කර ඇත."
+
+msgid "You can use the login form at"
+msgstr "ඔබ ට ලොගින් පෝරම භාවිතා කළ හැක"
+
+#, fuzzy
+#| msgid "Welcome"
+msgid "Welcome at"
+msgstr "ආයුබෝවන්"
+
+#, fuzzy
+#| msgid "Your account is now active"
+msgid "Your account is now active"
+msgstr "ඔබගේ ගිණුම දැන් සක්රීය"
+
+msgid "has requested access to the site."
+msgstr "එම වෙබ් අඩවිය වෙත ප්රවේශ ඉල්ලීමක් කර තිබේ."
+
+msgid ""
+"You can enable access by setting the user as active on the admin section"
+msgstr "ඔබ පරිපාලක කොටස සක්රීය ලෙස පරිශීලක සැකසීමෙන් ප්රවේශ සක්රීය කල හැක"
+
+msgid "A user has requested access to the site"
+msgstr "පරිශීලකයෙක් වෙබ් අඩවිය වෙත ප්රවේශ ඉල්ලීමක් කර තිබේ"
+
+#, fuzzy
+#| msgid "The following document was updated"
+msgid "The following document was approved"
+msgstr "පහත දැක්වෙන ලේඛනය යාවත්කාලීන කර"
+
+msgid "owned by"
+msgstr "අයත්"
+
+msgid "You can visit the document's detail page here"
+msgstr "ඔබ මෙතනයි ලේඛනයේ විස්තර පිටුව වෙත හැකි"
+
+#, fuzzy
+#| msgid "A document has been rated"
+msgid "A document has been approved"
+msgstr "කරන ලද ලියවිල්ලක් ශ්රේණිගත කර ඇත"
+
+msgid "A comment has been posted for the document"
+msgstr "A comment දත්තගොනුව සඳහා පල කර නැත"
+
+msgid "by the user"
+msgstr "පරිශීලක විසින්"
+
+msgid "A comment has been posted for a document"
+msgstr "A comment ලියවිල්ලක් සඳහා පල කර නැත"
+
+#, fuzzy
+#| msgid "The user"
+msgid "The user"
+msgstr "පරිශීලකයා"
+
+msgid "uploaded the following document"
+msgstr "පහත සඳහන් ලේඛන උඩුගත"
+
+msgid "A document has been uploaded"
+msgstr "කරන ලද ලියවිල්ලක් උඩුගත කර ඇත"
+
+msgid "The following document was deleted"
+msgstr "පහත දැක්වෙන ලේඛනය මකා"
+
+msgid "A document has been deleted"
+msgstr "කරන ලද ලියවිල්ලක් මකාදමා ඇත"
+
+#, fuzzy
+#| msgid "The following document was deleted"
+msgid "The following document was published"
+msgstr "පහත දැක්වෙන ලේඛනය මකා"
+
+#, fuzzy
+#| msgid "A document has been uploaded"
+msgid "A document has been published"
+msgstr "කරන ලද ලියවිල්ලක් උඩුගත කර ඇත"
+
+msgid "rated"
+msgstr "ණය ශ්රේණියක්"
+
+msgid "the following document"
+msgstr "පහත සඳහන් ලේඛන"
+
+msgid "You can visit the layer's detail page here"
+msgstr "ඔබ මෙතනයි ස්තරයෙහි විස්තර පිටුව වෙත හැකි"
+
+msgid "A document has been rated"
+msgstr "කරන ලද ලියවිල්ලක් ශ්රේණිගත කර ඇත"
+
+msgid "The following document was updated"
+msgstr "පහත දැක්වෙන ලේඛනය යාවත්කාලීන කර"
+
+msgid "A document has been updated"
+msgstr "කරන ලද ලියවිල්ලක් යාවත්කාලීන කර ඇත"
+
+#, fuzzy
+#| msgid "You have the following incomplete uploads"
+msgid "You have received the following notice from"
+msgstr "පහත අසම්පූර්ණ උඩුගත කිරීම් ඔබට තිබේ"
+
+msgid "To change how you receive notifications, please go to "
+msgstr ""
+
+#, python-format
+msgid "[%(current_site)s] %(message)s"
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Notices"
+msgid "%(notice)s"
+msgstr "Notices"
+
+#, fuzzy
+#| msgid "The following layer was updated"
+msgid "The following layer was approved"
+msgstr "පහත දැක්වෙන ස්තරය යාවත්කාලීන කර"
+
+#, fuzzy
+#| msgid "A layer has been rated"
+msgid "A layer has been approved"
+msgstr "තට්ටුවක් ශ්රේණිගත කර ඇත"
+
+msgid "A comment has been posted for the layer"
+msgstr "A comment ස්තරය සඳහා පල කර නැත"
+
+msgid "A comment has been posted for a layer"
+msgstr "A comment තට්ටුවක් සඳහා පල කර නැත"
+
+msgid "uploaded the following layer"
+msgstr "පහත සඳහන් ස්ථරය උඩුගත"
+
+msgid "A new layer has been uploaded"
+msgstr "නව ස්ථරය උඩුගත කර ඇත"
+
+msgid "The following layer was deleted"
+msgstr "පහත දැක්වෙන ස්තරය මකා"
+
+msgid "A layer has been deleted"
+msgstr "තට්ටුවක් මකාදමා ඇත"
+
+#, fuzzy
+#| msgid "The following layer was deleted"
+msgid "The following layer was published"
+msgstr "පහත දැක්වෙන ස්තරය මකා"
+
+#, fuzzy
+#| msgid "A layer has been deleted"
+msgid "A layer has been published"
+msgstr "තට්ටුවක් මකාදමා ඇත"
+
+msgid "the following layer"
+msgstr "පහත සඳහන් ස්ථරය"
+
+msgid "A layer has been rated"
+msgstr "තට්ටුවක් ශ්රේණිගත කර ඇත"
+
+msgid "The following layer was updated"
+msgstr "පහත දැක්වෙන ස්තරය යාවත්කාලීන කර"
+
+msgid "A layer has been updated"
+msgstr "තට්ටුවක් යාවත්කාලීන කර ඇත"
+
+#, fuzzy
+#| msgid "The following map was updated"
+msgid "The following map was approved"
+msgstr "පහත දැක්වෙන සිතියම යාවත්කාලීන කර"
+
+msgid "You can visit the map's detail page here"
+msgstr "ඔබ මෙතනයි සිතියමේ විස්තර පිටුව වෙත හැකි"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A map has been approved"
+msgstr "සිතියමක් ශ්රේණිගත කර ඇත"
+
+msgid "A comment has been posted for the map"
+msgstr "A comment සිතියම සඳහා පල කර නැත"
+
+msgid "A comment has been posted for a map"
+msgstr "A comment සිතියමක් සඳහා පල කර නැත"
+
+msgid "created the following map"
+msgstr "පහත සඳහන් සිතියම නිර්මාණය"
+
+msgid "A map has been created"
+msgstr "සිතියමක් නිර්මාණය කර ඇත"
+
+msgid "The following map was deleted"
+msgstr "පහත දැක්වෙන සිතියම මකා"
+
+msgid "A map has been deleted"
+msgstr "සිතියමක් මකාදමා ඇත"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following map was published"
+msgstr "පහත දැක්වෙන සිතියම මකා"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A map has been published"
+msgstr "සිතියමක් මකාදමා ඇත"
+
+#, fuzzy
+#| msgid "the following layer"
+msgid "the following map"
+msgstr "පහත සඳහන් ස්ථරය"
+
+msgid "A map has been rated"
+msgstr "සිතියමක් ශ්රේණිගත කර ඇත"
+
+msgid "The following map was updated"
+msgstr "පහත දැක්වෙන සිතියම යාවත්කාලීන කර"
+
+msgid "A map has been updated"
+msgstr "සිතියමක් යාවත්කාලීන කර ඇත"
+
+msgid "Notification Settings"
+msgstr "Notification සැකසුම්"
+
+#, python-format
+msgid ""
+"\n"
+"        <p class=\"alert alert-warning\">\n"
+"            <span class=\"warning\">Note</span>:\n"
+"            You do not have a verified email address to which notices can be "
+"sent. <a href=\"%(email_url)s\">Add one</a> now.\n"
+"        </p>\n"
+"        "
+msgstr ""
+"\n"
+"<p class=\"alert alert-warning\">\n"
+"<span class=\"warning\">Note</span>:\n"
+"\n"
+"ඔබ නිවේදන දැන් යොමු කළ හැකි සඳහා සත්යාපනය ඊ-තැපැල් ලිපිනයක් නැහැ.<a href="
+"\"%(email_url)s\">Add one</a>.now"
+
+msgid "Notification Type"
+msgstr "නිවේදන වර්ගය"
+
+msgid "requested you to download this resource"
+msgstr "මෙම සම්පත් බාගත කිරීම සඳහා ඔබ විසින් ඉල්ලා"
+
+msgid ""
+"Please go to resource page and assign the download permissions if you wish"
+msgstr "ඔබ කැමති නම්, පිටුව සම්පත් හා බාගත අවසර ලබා දිය යන්න කරුණාකර"
+
+#, fuzzy
+#| msgid "A document has been deleted"
+msgid "A resource's download has been requested"
+msgstr "කරන ලද ලියවිල්ලක් මකාදමා ඇත"
+
+msgid "Privacy &#038; Cookies Policy"
+msgstr ""
+
+msgid "Privacy &#038; Cookies Policy."
+msgstr ""
+
+msgid "Following"
+msgstr "අනුගමනය කරන්නන්"
+
+msgid "This user is not following anyone"
+msgstr "මෙම පරිශීලකයා කිරිසිවෙකු අනුගමනය නොකරයි"
+
+msgid "Followers"
+msgstr "අනුගමනය කරන්නන්"
+
+msgid "No one is following this user"
+msgstr "කිසිවෙකු මෙම පරිශීලකයාව අනුගමනය නොකරයි"
+
+msgid "Manage Connections"
+msgstr "සම්බන්ධතා කළමනාකරණය කරන්න"
+
+msgid "Blocking"
+msgstr "අවහිර කිරීම"
+
+msgid "Unfollow"
+msgstr "අනුගමනය කිරීම නවත්වන්න"
+
+msgid "Follow"
+msgstr "අනුගමනය කරන්න"
+
+msgid "Unblock"
+msgstr "අවහිර කිරීම නවත්වන්න"
+
+msgid "Block"
+msgstr "අවහිර කරන්න"
+
+msgid "No longer"
+msgstr "තවදුරටත් නැත"
+
+#, python-format
+msgid "You're not %(status_slug)s anyone!"
+msgstr "ඔබ%(status_slug)s ඕනෑම නෑ!"
+
+msgid "Success"
+msgstr "සාර්ථකයි"
+
+msgid "You are "
+msgstr "ඔබ"
+
+msgid "no longer"
+msgstr "තවදුරටත් නැත"
+
+#, python-format
+msgid "%(to_user_username)s's profile"
+msgstr "%(to_user_username)sගේ පැතිකඩ"
+
+msgid "Responsibles"
+msgstr ""
+
+msgid "Date begins after:"
+msgstr "දිනය පසු ආරම්භ :"
+
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+msgid "Date ends before:"
+msgstr "දිනට පෙර අවසන් :"
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search by region"
+msgstr "සොයන්න"
+
+#, fuzzy
+#| msgid "Sections"
+msgid "Selection"
+msgstr "අංශ"
+
+msgid "No list items selected. Use the selection fields to add."
+msgstr ""
+
+msgid "Filters"
+msgstr "පෙරහන්"
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Datasets found"
+msgstr "ස්ථර"
+
+msgid "Maps found"
+msgstr ""
+
+#, fuzzy
+#| msgid "Documents"
+msgid "Documents found"
+msgstr "ලේඛන"
+
+msgid "found"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search by name"
+msgstr "සොයන්න"
+
+msgid "Total"
+msgstr ""
+
+msgid "Most recent"
+msgstr "වඩාත්ම මෑතකදී සිදු වූ"
+
+msgid "Less recent"
+msgstr "අඩු මෑත"
+
+msgid "A - Z"
+msgstr "A - Z"
+
+msgid "Z - A"
+msgstr "Z - A"
+
+msgid "Most popular"
+msgstr "වඩාත්ම ප්‍රසිද්ධ"
+
+msgid "Text"
+msgstr "පෙළ"
+
+#, fuzzy
+#| msgid "Featured"
+msgid "Share This Dataset"
+msgstr "විශේෂාංග"
+
+msgid "Share This"
+msgstr ""
+
+msgid "Social Network Login Failure"
+msgstr ""
+
+msgid ""
+"An error occurred while attempting to login via your social network account."
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sections"
+msgid "Exception"
+msgstr "අංශ"
+
+#, fuzzy
+#| msgid "Manage Connections"
+msgid "Account Connections"
+msgstr "සම්බන්ධතා කළමනාකරණය කරන්න"
+
+msgid ""
+"You can sign in to your account using any of the following already connected "
+"third party accounts:"
+msgstr ""
+
+msgid ""
+"You currently have no social network accounts connected to this account."
+msgstr ""
+
+msgid "Add a 3rd Party Account"
+msgstr ""
+
+msgid "Login Cancelled"
+msgstr ""
+
+#, python-format
+msgid ""
+"You decided to cancel logging in to our site using one of your existing "
+"accounts. If this was a mistake, please proceed to <a href=\"%(login_url)s"
+"\">sign in</a>."
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Signup"
+msgstr "Sign up"
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Sign Up"
+msgstr "Sign up"
+
+#, python-format
+msgid ""
+"You are about to use your %(provider_name)s account to login to\n"
+"%(site_name)s. As a final step, please complete the following form:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign in"
+msgid "Sign in with"
+msgstr "අලුත් ගිණුමක් තනන්න"
+
+msgid "Connect with"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Sign up with"
+msgstr "Sign up"
+
+msgid "Message Inbox"
+msgstr "පණිවුඩය එන ලිපි"
+
+msgid "Messages"
+msgstr "පණිවිඩ"
+
+msgid "Mark selected as read"
+msgstr ""
+
+msgid "Mark selected as unread"
+msgstr ""
+
+msgid "Create Message"
+msgstr "පණිවුඩය නිර්මාණය කරන්න"
+
+#, fuzzy
+#| msgid "The user"
+msgid "To users"
+msgstr "පරිශීලකයා"
+
+#, fuzzy
+#| msgid "group"
+msgid "To groups"
+msgstr "කණ්ඩායම"
+
+msgid "Subject"
+msgstr "මාතෘකාව"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Content"
+msgstr "අමතන්න:"
+
+msgid "Send message"
+msgstr "පිළිතුරු යවන්න"
+
+msgid "Back to Inbox"
+msgstr "නැවතත් Inbox"
+
+msgid "Sent to"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+#, fuzzy
+#| msgid "Send message"
+msgid "You have no messages"
+msgstr "පිළිතුරු යවන්න"
+
+msgid "Send Reply"
+msgstr "පිළිතුරු යවන්න"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Themes Library"
+msgstr "GeoNode සහය"
+
+msgid "Fill in this section with markdown"
+msgstr ""
+
+msgid "Check this if the jumbotron background image already contains text"
+msgstr ""
+
+msgid "Disabling this slide will hide it from the slide show"
+msgstr ""
+
+msgid "Choose between using jumbotron background and slide show"
+msgstr ""
+
+#, fuzzy
+#| msgid "All contents"
+msgid "Empty content"
+msgstr "සියළුම අන්තර්ගතයන්"
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not access to uploaded data."
+msgstr "  compatible projection. තුල ඕනෑම ස්ථර මම සොයා ගැනීමට නොහැක "
+
+msgid ""
+"One or more XML files was provided, but no matching files were found for "
+"them."
+msgstr ""
+
+msgid ""
+"One or more SLD files was provided, but no matching files were found for "
+"them."
+msgstr ""
+
+#, fuzzy
+#| msgid "Layer Created"
+msgid "Layer already exists"
+msgstr "තට්ටුවක් නිර්මානය"
+
+msgid "Name already in use and overwrite is False"
+msgstr ""
+
+msgid "Error configuring time:"
+msgstr ""
+
+msgid "The GeoServer Import Session is no more available"
+msgstr ""
+
+#, python-brace-format
+msgid "Expected to find layer named '{name}' in geoserver"
+msgstr ""
+
+msgid "Exception occurred while parsing the provided Metadata file."
+msgstr ""
+
+msgid ""
+"The UUID identifier from the XML Metadata is already in use in this system."
+msgstr ""
+
+msgid "Error configuring Layer"
+msgstr ""
+
+msgid "Invalid zip file detected"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any valid spatial file inside the uploaded zip"
+msgstr "  compatible projection. තුල ඕනෑම ස්ථර මම සොයා ගැනීමට නොහැක "
+
+msgid "Invalid kmz file detected"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any kml files inside the uploaded kmz"
+msgstr "  compatible projection. තුල ඕනෑම ස්ථර මම සොයා ගැනීමට නොහැක "
+
+msgid "Only one shapefile per zip is allowed"
+msgstr ""
+
+msgid "kml files with more than one GroundOverlay are not supported"
+msgstr ""
+
+msgid "Ground overlay image declared in kml file cannot be found"
+msgstr ""
+
+msgid "Only one kml file per ZIP is allowed"
+msgstr ""
+
+msgid "Only one kml file per kmz is allowed"
+msgstr ""
+
+msgid ""
+"You are trying to upload multiple GeoTIFFs without a valid 'indexer."
+"properties' file."
+msgstr ""
+
+msgid "Only one raster file per ZIP is allowed"
+msgstr ""
+
+msgid "No multiple rasters allowed"
+msgstr ""
+
+msgid ""
+"To support the time step, you must enable the OGC_SERVER DATASTORE option"
+msgstr ""
+
+#, python-brace-format
+msgid "Unsupported file type: {e.message}"
+msgstr ""
+
+#, python-brace-format
+msgid "File does not exist: {absolute_base_file}"
+msgstr ""
+
+#, python-brace-format
+msgid "unknown item state: {task.state}"
+msgstr ""
+
+msgid "error during import: {progress.get('message')}"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any valid Time Regex for the Mosaic files."
+msgstr "  compatible projection. තුල ඕනෑම ස්ථර මම සොයා ගැනීමට නොහැක "
+
+msgid "Unsupported DataBase for Mosaics!"
+msgstr ""
+
+msgid "Upload Session invalid or no more accessible!"
+msgstr ""
+
+msgid "Invalid permission level."
+msgstr "වලංගු නොවන අවසර මට්ටම"
+
+msgid "Permission Denied"
+msgstr "අවසර ලබා දෙනු නොලැබේ"
+
+#, fuzzy
+#~| msgid "Layer Name"
+#~ msgid "Layer name"
+#~ msgstr "ස්ථරය නම"
+
+#, fuzzy
+#~| msgid "Layer Title"
+#~ msgid "Layer title"
+#~ msgstr "ස්ථරය සිරැසිය"
+
+#, fuzzy
+#~| msgid "Create a Map"
+#~ msgid "Create Layer"
+#~ msgstr "සිතියමක් නිර්මාණය කරන්න"
+
+#~ msgid "Download Layer"
+#~ msgstr "ස්ථරය බාගත කරන්න"
+
+#, fuzzy
+#~| msgid "Edit Layer"
+#~ msgid "View Layer"
+#~ msgstr "ස්ථරය සංස්කරණය කරන්න"
+
+#, fuzzy
+#~| msgid "Permissions"
+#~ msgid "Updating Permissions..."
+#~ msgstr "අවසර"
+
+#~ msgid "Upload Layers"
+#~ msgstr "ස්ථරයන් උඩුගත කරන්න"
+
+#~ msgid "Upload Layer"
+#~ msgstr "ස්ථරය උඩුගත කරන්න"
+
+#, fuzzy
+#~| msgid "You are attempting to replace a vector layer with a raster."
+#~ msgid "You are attempting to replace a vector layer with an unknown format."
+#~ msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a vector layer with a raster."
+
+#, fuzzy
+#~| msgid "Files to be uploaded"
+#~ msgid "Failed to upload the layer"
+#~ msgstr "උඩුගත කිරීමට ඇති ගොනු"
+
+#~ msgid "You are attempting to replace a vector layer with a raster."
+#~ msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a vector layer with a raster."
+
+#~ msgid "You are attempting to replace a raster layer with a vector."
+#~ msgstr "ඔබ වෙනුවට උත්සාහ කරන්නේ a raster layer with a vector."
+
+#~ msgid "Register a new Service"
+#~ msgstr "නව සේවා ලියාපදිංචි"
+
+#~ msgid "Add layers"
+#~ msgstr "ස්ථර එක් කරන්න"
+
+#~ msgid "Explore layers"
+#~ msgstr "ස්ථර ගවේෂණය"
+
+#, fuzzy
+#~| msgid "Set permissions"
+#~ msgid "set permissions"
+#~ msgstr "කට්ටලයක් අවසර"
+
+#, fuzzy
+#~| msgid "Documents"
+#~ msgid "documents"
+#~ msgstr "ලේඛන"
+
+#, fuzzy
+#~| msgid "dataset"
+#~ msgid "data"
+#~ msgstr "දත්ත කට්ටලය"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "apps explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "Categories"
+#~ msgid "groups explore"
+#~ msgstr "වර්ග"
+
+#, fuzzy
+#~| msgid "A Map was created"
+#~ msgid "groups create"
+#~ msgstr "සිතියමක් නිර්මාණය කරන ලදී"
+
+#, fuzzy
+#~| msgid "group"
+#~ msgid "groups"
+#~ msgstr "කණ්ඩායම"
+
+#, fuzzy
+#~| msgid "A Map was updated"
+#~ msgid "groups update"
+#~ msgstr "සිතියමක් යාවත්කාලීන කර"
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers append"
+#~ msgstr "එක් ස්ථරයක් උඩුගත කලා."
+
+#, fuzzy
+#~| msgid "Layers"
+#~ msgid "layers"
+#~ msgstr "ස්ථර"
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers explore"
+#~ msgstr "එක් ස්ථරයක් උඩුගත කලා."
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers upload"
+#~ msgstr "එක් ස්ථරයක් උඩුගත කලා."
+
+#~ msgid "Incomplete Uploads"
+#~ msgstr "අසම්පූර්ණ උඩුගත කිරීම්"
+
+#~ msgid "You have the following incomplete uploads"
+#~ msgstr "පහත අසම්පූර්ණ උඩුගත කිරීම් ඔබට තිබේ"
+
+#~ msgid "Resume"
+#~ msgstr "නැවත ආරම්භ කරන්න"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "maps explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "people explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "Invite people"
+#~ msgid "edit people"
+#~ msgstr "ජනතාවට ආරාධනා කරනවා"
+
+#~ msgid "last updated on"
+#~ msgstr "අවසන් වරට යාවත්කාලීන කරන ලද්දේ"
+
+#~ msgid "Delete, and don't ask me again."
+#~ msgstr "මකා දමන්න, නැවත මෙය මගෙන් නොවිමසන්න"
+
+#, fuzzy
+#~| msgid "Available styles"
+#~ msgid "Available layers"
+#~ msgstr "දැනට පවතින ශෛලියන්"
+
+#, fuzzy
+#~| msgid "Remove Map"
+#~ msgid "Save Map"
+#~ msgstr "සිතියම ඉවත් කරන්න"
+
+#, fuzzy
+#~| msgid "User Activities"
+#~ msgid "Utilities"
+#~ msgstr "පරිශීලක ක්රියාකාරකම්"
+
+#, fuzzy
+#~| msgid "Unable to delete layer"
+#~ msgid "Unable to delete layer"
+#~ msgstr "ස්ථරය ඉවත් කිරීමට නොහැකි විය"
+
+#, fuzzy
+#~| msgid "Thumbnail"
+#~ msgid "Thumbnail saved"
+#~ msgstr "Thumbnail"

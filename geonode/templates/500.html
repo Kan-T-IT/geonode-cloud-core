@@ -1,0 +1,12 @@
+{% extends "geonode_base.html" %}
+{% load i18n %}
+
+{% block body %}
+  <div id="description">
+      <h3><strong>{% trans "There was a problem loading this page" %}</strong></h3>
+  </div>
+  {% blocktrans %}
+  Please contact your GeoNode administrator (they may have received an email automatically if they configured it properly).
+  If you are the site administrator, enable debug mode to see the actual error and fix it or file an issue in <a href="http://github.com/GeoNode/geonode/issues">GeoNode's issue tracker</a>
+  {% endblocktrans %}
+{% endblock %}

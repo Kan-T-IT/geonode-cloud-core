@@ -1,0 +1,6925 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Andres Alfonso Lemon Gomez <lemon.andres@gmail.com>, 2014
+# Machaku <bmachaku@gmail.com>, 2014-2015
+# Erick Omwandho <e.omwandho@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: GeoNode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-08 09:02+0300\n"
+"PO-Revision-Date: 2016-08-23 13:57+0000\n"
+"Last-Translator: Julien Collaer <julien.collaer@opengeode.be>\n"
+"Language-Team: Swahili (http://www.transifex.com/geonode/geonode/language/"
+"sw/)\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+#| msgid "party that owns the resource"
+msgid "Request to download a resource"
+msgstr "upande unaomiliki rasilimali"
+
+#, fuzzy
+#| msgid "party that owns the resource"
+msgid "A request for downloading a resource was sent"
+msgstr "upande unaomiliki rasilimali"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Request resource change"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Set permissions for this resource"
+msgid "Owner has requested permissions to modify a resource"
+msgstr "Seti ruhusa kwa rasilimali hii"
+
+msgid "series"
+msgstr "mfululizo"
+
+msgid "computer program or routine"
+msgstr "Programu ya kompyuta au mchakato"
+
+#, fuzzy
+#| msgid "date type"
+msgid "feature type"
+msgstr "aina ya tarehe"
+
+msgid "copy or imitation of an existing or hypothetical object"
+msgstr "nakala au kuiga ya zilizopo au kubuni kitu"
+
+msgid "collection hardware"
+msgstr "vifaa vya ukusanyaji"
+
+msgid "collection session"
+msgstr "Kipindi cha ukusanyaji"
+
+msgid "non-geographic data"
+msgstr "data zisizo za kijiografia"
+
+msgid "property type"
+msgstr "aina ya uga"
+
+#, fuzzy
+#| msgid "sld version"
+msgid "field session"
+msgstr "toleo la sld"
+
+#, fuzzy
+#| msgid "dataset"
+msgid "dataset"
+msgstr "kanzidata"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "service interfaces"
+msgstr "Rasilimali"
+
+msgid "attribute class"
+msgstr "daraja la sifa"
+
+msgid "characteristic of a feature"
+msgstr "tabia ya sura"
+
+msgid "tile or spatial subset of geographic data"
+msgstr "tile au nafasi subset ya data ya kijiografia"
+
+msgid "feature"
+msgstr "sura"
+
+msgid "dimension group"
+msgstr "kundi la vipimo"
+
+msgid "frequency of maintenance for the data is not known"
+msgstr "Wastani wa muda anaupita hadi data kusasishwa haujulikani"
+
+msgid "data is repeatedly and frequently updated"
+msgstr "data husasishwa mara kwa mara"
+
+msgid "there are no plans to update the data"
+msgstr "hakuna mipango wa kusasisha data"
+
+msgid "data is updated each day"
+msgstr "data husasishwa kila siku"
+
+msgid "data is updated every year"
+msgstr "data husasishwa kila mwaka"
+
+msgid "data is updated as deemed necessary"
+msgstr "data husasishwa kadiri ya umuhimu unaoonekana"
+
+msgid "data is updated each month"
+msgstr "data husasishwa kila mwezi"
+
+msgid "data is updated every two weeks"
+msgstr "data husasishwa ndani ya kila wiki mbili"
+
+msgid "data is updated in intervals that are uneven in duration"
+msgstr "data husasishwa katika muda wa vipindi vinavyotofautiana"
+
+msgid "data is updated on a weekly basis"
+msgstr "data husasishwa kwa wiki"
+
+msgid "data is updated twice each year"
+msgstr "data husasishwa mara mbili kwa kila mwaka"
+
+msgid "data is updated every three months"
+msgstr "data husasishwa kila baada ya miezi mitatu"
+
+msgid "No information provided"
+msgstr "Hakuna taarifa zilizotolewa"
+
+msgid "Category is required."
+msgstr "Kundi linahitajika"
+
+msgid "Keywords from Thesaurus"
+msgstr ""
+
+msgid "List of keywords from Thesaurus"
+msgstr ""
+
+msgid "Abstract"
+msgstr "Muhtasari"
+
+msgid "Purpose"
+msgstr "Kusudi"
+
+#, fuzzy
+#| msgid "Notice settings"
+msgid "Other constraints"
+msgstr "Notice settings"
+
+#, fuzzy
+#| msgid "supplemental information"
+msgid "Supplemental information"
+msgstr "maelezo ya ziada"
+
+#, fuzzy
+#| msgid "data quality statement"
+msgid "Data quality statement"
+msgstr "Taarifa ya ubora wa data"
+
+msgid "Owner"
+msgstr "Mmiliki"
+
+msgid "Date"
+msgstr "Tarehe"
+
+#, fuzzy
+#| msgid "temporal extent end"
+msgid "temporal extent start"
+msgstr "temporal extent end"
+
+msgid "temporal extent end"
+msgstr "temporal extent end"
+
+msgid "Person outside GeoNode (fill form)"
+msgstr ""
+
+msgid "Point of Contact"
+msgstr "Mawasiliano"
+
+msgid "Metadata Author"
+msgstr "Mwandishi wa Metadata"
+
+#, fuzzy
+#| msgid "Keywords"
+msgid "Free-text Keywords"
+msgstr "Maneno muhimu"
+
+#, fuzzy
+#| msgid "A space or comma-separated list of keywords"
+msgid ""
+"A space or comma-separated list of keywords. Use the widget to select from "
+"Hierarchical tree."
+msgstr "Orodha ya maneno muhimu yalionganishwa kwa nafasi au koma "
+
+msgid "Regions"
+msgstr "Maeneo"
+
+#, fuzzy
+#| msgid "Groups"
+msgid "Group"
+msgstr "Makundi"
+
+msgid "Category"
+msgstr "Kundi"
+
+msgid "License"
+msgstr "Leseni"
+
+msgid "Language"
+msgstr "Lugha"
+
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "Mtumiaji"
+msgstr[1] "Watumiaji"
+
+#, fuzzy
+#| msgid "Permissions"
+msgid "Permission Type"
+msgstr "Vibali"
+
+msgid "Mode"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource"
+msgstr "Rasilimali"
+
+msgid "Reason"
+msgstr ""
+
+msgid "Short reasoning behind the request"
+msgstr ""
+
+msgid "function performed by the responsible party"
+msgstr "kazi iliyofanywa na chama kuwajibika"
+
+msgid "brief narrative summary of the content of the resource(s)"
+msgstr "kifupi maelezo muhtasari wa maudhui ya rasilimali (s)"
+
+msgid "reference date for the cited resource"
+msgstr "tarehe rejea kwa ajili ya rasilimali alitoa"
+
+msgid "identification of when a given event occurred"
+msgstr "utambulisho wa wakati tukio kupewa ilitokea"
+
+msgid "version of the cited resource"
+msgstr "toleo la rasilimali alitoa"
+
+msgid ""
+"authority or function assigned, as to a ruler, legislative assembly, "
+"delegate, or the like."
+msgstr ""
+
+msgid "a DOI will be added by Admin before publication."
+msgstr ""
+
+msgid "summary of the intentions with which the resource(s) was developed"
+msgstr "muhtasari wa nia na ambayo rasilimali (s) ilitengenezwa"
+
+msgid ""
+"frequency with which modifications and deletions are made to the data after "
+"it is first produced"
+msgstr ""
+"na kasi ambayo marekebisho na kufuta maneno yaliyotolewa na data baada ya "
+"kwanza zinazozalishwa"
+
+#, fuzzy
+#| msgid ""
+#| "commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+#| "the subject (space or comma-separated"
+msgid ""
+"commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+"the subject (space or comma-separated)"
+msgstr ""
+"maneno yanayotumika mara kwa mara au maneno rasimi au misemo inayotumika "
+"kuelezea kitu hiki (tenganisha kwa nafasi au koma)"
+
+#, fuzzy
+#| msgid ""
+#| "commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+#| "the subject (space or comma-separated"
+msgid ""
+"formalised word(s) or phrase(s) from a fixed thesaurus used to describe the "
+"subject (space or comma-separated)"
+msgstr ""
+"maneno yanayotumika mara kwa mara au maneno rasimi au misemo inayotumika "
+"kuelezea kitu hiki (tenganisha kwa nafasi au koma)"
+
+msgid "keyword identifies a location"
+msgstr "Maneno muhimu yanayotambulisha eneo"
+
+msgid "limitation(s) placed upon the access or use of the data."
+msgstr ""
+"Kizuizi (au vizuizi) vilivyowekwa juu ya upataikanaji au matumizi ya data"
+
+msgid ""
+"other restrictions and legal prerequisites for accessing and using the "
+"resource or metadata"
+msgstr ""
+"vikwazo vingine na matakwa ya kisheria katika kupata na kutumia rasilimali "
+"au metadata"
+
+msgid "license of the dataset"
+msgstr "leseni ya kanzidata"
+
+msgid "language used within the dataset"
+msgstr "lugha iliyotumika kwenye kanzidata"
+
+msgid ""
+"high-level geographic data thematic classification to assist in the grouping "
+"and search of available geographic data sets."
+msgstr ""
+"Uhusiano wa juu wa data unaoweza kusaidia katika kutafuta au kuainisha kundi "
+"la data za kijiografia zilizopo"
+
+msgid "method used to represent geographic information in the dataset."
+msgstr "mbinu kutumika kuwakilisha kijiografia habari katika CCD."
+
+msgid "time period covered by the content of the dataset (start)"
+msgstr "Mwanzo wa kipindi kilichojumishwa katika maudui kanzidata"
+
+msgid "time period covered by the content of the dataset (end)"
+msgstr "Mwisho wa kipindi kilichojumishwa katika maudui kanzidata"
+
+msgid ""
+"general explanation of the data producer's knowledge about the lineage of a "
+"dataset"
+msgstr "maelezo ya jumla ya maarifa data uzalishaji kuhusu ukoo wa CCD"
+
+msgid "title"
+msgstr "kichwa"
+
+msgid "name by which the cited resource is known"
+msgstr "jina la rasilimali tajwa"
+
+msgid "abstract"
+msgstr "muhtasari"
+
+msgid "purpose"
+msgstr "kusudi"
+
+msgid "date"
+msgstr "tarehe"
+
+msgid "date type"
+msgstr "aina ya tarehe"
+
+msgid "edition"
+msgstr "toleo"
+
+#, fuzzy
+#| msgid "Attribute"
+msgid "Attribution"
+msgstr "Sifa"
+
+msgid "DOI"
+msgstr ""
+
+msgid "maintenance frequency"
+msgstr "wastani wa mzunguko wa matengenezo"
+
+msgid "keywords"
+msgstr "maneno muhimu"
+
+msgid "keywords region"
+msgstr "eneo la maneno muhimu"
+
+msgid "restrictions"
+msgstr "vikwazo"
+
+msgid "restrictions other"
+msgstr "vikwazo vingine"
+
+msgid "language"
+msgstr "lugha"
+
+#, fuzzy
+#| msgid "Spatial Representation Type"
+msgid "spatial representation type"
+msgstr "Aina ya Uwakilishaji  wa Kijiografia"
+
+msgid "supplemental information"
+msgstr "maelezo ya ziada"
+
+msgid "any other descriptive information about the dataset"
+msgstr "maelezo mengine yoyote ya ufafanuzi kuhusu kanzidata"
+
+msgid "data quality statement"
+msgstr "Taarifa ya ubora wa data"
+
+msgid "CSW typename"
+msgstr "CSW typename"
+
+msgid "CSW schema"
+msgstr "CSW schema"
+
+msgid "CSW source"
+msgstr "chanzo cha CSW"
+
+msgid "CSW insert date"
+msgstr "tarehe ya kuingiza CSW"
+
+msgid "CSW type"
+msgstr "CSW aina"
+
+msgid "CSW anytext"
+msgstr "CSW anytext"
+
+msgid "CSW WKT geometry"
+msgstr "Jometria ya CSW WKT"
+
+#, fuzzy
+#| msgid "Metadata Provider"
+msgid "Metadata uploaded preserve"
+msgstr "Mtoa metadata"
+
+msgid "Featured"
+msgstr ""
+
+msgid "Should this resource be advertised in home page?"
+msgstr "Je, rasilimali hii kutangazwa katika ukurasa wa mbele?"
+
+#, fuzzy
+#| msgid "Published From"
+msgid "Is Published"
+msgstr "Toleo kutoka"
+
+msgid "Should this resource be published and searchable?"
+msgstr ""
+"Je, rasilimali hii inatakiwa kusambazwa na kupatikana katika utafutaji?"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Approved"
+msgstr "Haijaainishwa"
+
+msgid "Is this resource validated from a publisher or editor?"
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Thumbnail url"
+msgstr "Thumbnail"
+
+msgid "State"
+msgstr ""
+
+msgid "Hold the resource processing state."
+msgstr ""
+
+msgid "Dirty State"
+msgstr ""
+
+msgid "Security Rules Are Not Synched with GeoServer!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource Type"
+msgstr "Rasilimali"
+
+msgid "Metadata"
+msgstr ""
+
+msgid "If true, will be excluded from search"
+msgstr ""
+
+msgid "For example \"kml\""
+msgstr "Kwa mfano \"kml\""
+
+msgid "For example \"View in Google Earth\""
+msgstr "Kwa mfano \"Tazama katika Google Earth\""
+
+msgid "For example \"text/xml\""
+msgstr "Kwa mfano \"text/xml\""
+
+msgid "About"
+msgstr "Kuhusu"
+
+#, fuzzy
+#| msgid "Owner, Point of Contact, Metadata Author"
+msgid "Responsible, Point of Contact, Metadata Author"
+msgstr "Mmiliki, Kituo cha Mawasiliano, Mwandishi wa Metadata"
+
+msgid "Responsible"
+msgstr ""
+
+msgid "Title"
+msgstr "Kichwa"
+
+msgid "SRID"
+msgstr ""
+
+msgid "For more info see"
+msgstr ""
+
+#, fuzzy
+#| msgid "Creating a Map"
+msgid "Creation Date"
+msgstr "Kutengeneza Ramani"
+
+#, fuzzy
+#| msgid "Position Name"
+msgid "Publication Date"
+msgstr "Jina Position"
+
+#, fuzzy
+#| msgid "Permission Denied"
+msgid "Revision Date"
+msgstr "Kibali kimekataliwa"
+
+msgid "Type"
+msgstr "Aina"
+
+msgid "Keywords"
+msgstr "Maneno muhimu"
+
+msgid "More info"
+msgstr ""
+
+msgid "Maintenance Frequency"
+msgstr "Wastani wa Vipindi vya Matengenezo"
+
+msgid "Restrictions"
+msgstr "Vikwazo"
+
+msgid "Edition"
+msgstr "Toleo"
+
+msgid "Temporal Extent"
+msgstr "Temporal Extent"
+
+msgid "Data Quality"
+msgstr "Ubora wa Data"
+
+msgid "Supplemental Information"
+msgstr "Habari Supplemental"
+
+msgid "Spatial Representation Type"
+msgstr "Aina ya Uwakilishaji  wa Kijiografia"
+
+msgid "No content created yet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Temporal Serie"
+msgstr "Temporal Extent"
+
+msgid "Select"
+msgstr ""
+
+#, fuzzy
+#| msgid "Services"
+msgid "Service is"
+msgstr "Huduma"
+
+msgid "online"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "SECURITY NOT YET SYNCHRONIZED"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Sync permissions immediately"
+msgstr "Idhinisha ruhusa"
+
+msgid "PENDING APPROVAL"
+msgstr ""
+
+msgid "UNPUBLISHED"
+msgstr ""
+
+msgid "Create a Map"
+msgstr "Tengeneza Ramani"
+
+msgid "View Map"
+msgstr "Mtazamo Ramani"
+
+msgid "Batch Edit"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Sitisha"
+
+msgid "Submit"
+msgstr "Wasilisha"
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Set Permissions"
+msgstr "Idhinisha ruhusa"
+
+msgid "Discover the available datasets."
+msgstr ""
+
+#, fuzzy
+#| msgid "Set Map Thumbnail"
+msgid "Upload a Thumbnail"
+msgstr "Set Map Thumbnail"
+
+msgid "Remove (and use auto generated thumbnail)"
+msgstr ""
+
+#, fuzzy
+#| msgid "uploaded"
+msgid "Upload"
+msgstr "kupakiwa"
+
+#, fuzzy
+#| msgid "Remote Thumbnail"
+msgid "Auto generated thumbnail"
+msgstr "Remote Thumbnail"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "Raster Layer"
+msgstr "Tengeneza Ramani"
+
+#, fuzzy
+#| msgid "Edit Layer"
+msgid "Vector Layer"
+msgstr "Hariri Tabaka"
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Vector Temporal Serie"
+msgstr "Temporal Extent"
+
+#, fuzzy
+#| msgid "Remove this Layer"
+msgid "Remote Layer"
+msgstr "Remove this Layer"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "WMS Cascade Layer"
+msgstr "Tengeneza Ramani"
+
+msgid "me"
+msgstr "mimi"
+
+msgid "System message: A request to modify resource"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions for this resource"
+msgid "The resource owner has requested to modify the resource"
+msgstr "Seti ruhusa kwa rasilimali hii"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource title"
+msgstr "Rasilimali"
+
+msgid "Reason for the request"
+msgstr ""
+
+msgid ""
+"To allow the change, set the resource to not \"Approved\" under the metadata "
+"settingsand write message to the owner to notify him"
+msgstr ""
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Resource Cloned Successfully!"
+msgstr "Nenosiri limebadilishwa kwa mafanikio."
+
+#, python-brace-format
+msgid "Error Occurred while Cloning the Resource: {e}"
+msgstr ""
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Resource Metadata"
+msgstr "Hariri Metadata za Huduma"
+
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource ID"
+msgstr "Rasilimali"
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Extent"
+msgstr "Kiwango"
+
+#, fuzzy
+#| msgid "Coordinate Reference System"
+msgid "Spatial Reference System Identifier"
+msgstr "Coordinate Reference System"
+
+msgid "Attributes"
+msgstr "Sifa"
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "Attribute name"
+msgstr "jina la sifa"
+
+msgid "Description"
+msgstr "Maelezo"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Client Library"
+msgstr "Msaada kuhusu Geonode"
+
+msgid ""
+"Flora and/or fauna in natural environment. Examples: wildlife, vegetation, "
+"biological sciences, ecology, wilderness, sealife, wetlands, habitat."
+msgstr ""
+
+msgid "Biota"
+msgstr ""
+
+msgid ""
+"Legal land descriptions. Examples: political and administrative boundaries."
+msgstr ""
+
+msgid "Boundaries"
+msgstr ""
+
+msgid ""
+"Processes and phenomena of the atmosphere. Examples: cloud cover, weather, "
+"climate, atmospheric conditions, climate change, precipitation."
+msgstr ""
+
+msgid "Climatology Meteorology Atmosphere"
+msgstr ""
+
+msgid ""
+"Economic activities, conditions and employment. Examples: production, "
+"labour, revenue, commerce, industry, tourism and ecotourism, forestry, "
+"fisheries, commercial or subsistence hunting, exploration and exploitation "
+"of resources such as minerals, oil and gas."
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid ""
+"Height above or below sea level. Examples: altitude, bathymetry, digital "
+"elevation models, slope, derived products."
+msgstr ""
+
+msgid "Elevation"
+msgstr ""
+
+msgid ""
+"Environmental resources, protection and conservation. Examples: "
+"environmental pollution, waste storage and treatment, environmental impact "
+"assessment, monitoring environmental risk, nature reserves, landscape."
+msgstr ""
+
+#, fuzzy
+#| msgid "Announcement"
+msgid "Environment"
+msgstr "Tangazo"
+
+msgid ""
+"Rearing of animals and/or cultivation of plants. Examples: agriculture, "
+"irrigation, aquaculture, plantations, herding, pests and diseases affecting "
+"crops and livestock."
+msgstr ""
+
+msgid "Farming"
+msgstr ""
+
+msgid ""
+"Information pertaining to earth sciences. Examples: geophysical features and "
+"processes, geology, minerals, sciences dealing with the composition, "
+"structure and origin of the earth s rocks, risks of earthquakes, volcanic "
+"activity, landslides, gravity information, soils, permafrost, hydrogeology, "
+"erosion."
+msgstr ""
+
+#, fuzzy
+#| msgid "Supplemental Information"
+msgid "Geoscientific Information"
+msgstr "Habari Supplemental"
+
+msgid ""
+"Health, health services, human ecology, and safety. Examples: disease and "
+"illness, factors affecting health, hygiene, substance abuse, mental and "
+"physical health, health services."
+msgstr ""
+
+msgid "Health"
+msgstr ""
+
+msgid ""
+"Base maps. Examples: land cover, topographic maps, imagery, unclassified "
+"images, annotations."
+msgstr ""
+
+msgid "Imagery Base Maps Earth Cover"
+msgstr ""
+
+msgid ""
+"Inland water features, drainage systems and their characteristics. Examples: "
+"rivers and glaciers, salt lakes, water utilization plans, dams, currents, "
+"floods, water quality, hydrographic charts."
+msgstr ""
+
+msgid "Inland Waters"
+msgstr ""
+
+msgid ""
+"Military bases, structures, activities. Examples: barracks, training "
+"grounds, military transportation, information collection."
+msgstr ""
+
+msgid "Intelligence Military"
+msgstr ""
+
+msgid ""
+"Positional information and services. Examples: addresses, geodetic networks, "
+"control points, postal zones and services, place names."
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid ""
+"Features and characteristics of salt water bodies (excluding inland waters). "
+"Examples: tides, tidal waves, coastal information, reefs."
+msgstr ""
+
+msgid "Oceans"
+msgstr ""
+
+msgid ""
+"Information used for appropriate actions for future use of the land. "
+"Examples: land use maps, zoning maps, cadastral surveys, land ownership."
+msgstr ""
+
+msgid "Planning Cadastre"
+msgstr ""
+
+msgid ""
+"Settlements, anthropology, archaeology, education, traditional beliefs, "
+"manners and customs, demographic data, recreational areas and activities, "
+"social impact assessments, crime and justice, census information. Economic "
+"activities, conditions and employment."
+msgstr ""
+
+#, fuzzy
+#| msgid "Position Name"
+msgid "Population"
+msgstr "Jina Position"
+
+msgid ""
+"Characteristics of society and cultures. Examples: settlements, "
+"anthropology, archaeology, education, traditional beliefs, manners and "
+"customs, demographic data, recreational areas and activities, social impact "
+"assessments, crime and justice, census information."
+msgstr ""
+
+msgid "Society"
+msgstr ""
+
+msgid ""
+"Man-made construction. Examples: buildings, museums, churches, factories, "
+"housing, monuments, shops, towers."
+msgstr ""
+
+msgid "Structure"
+msgstr ""
+
+msgid ""
+"Means and aids for conveying persons and/or goods. Examples: roads, airports/"
+"airstrips, shipping routes, tunnels, nautical charts, vehicle or vessel "
+"location, aeronautical charts, railways."
+msgstr ""
+
+#, fuzzy
+#| msgid "format"
+msgid "Transportation"
+msgstr "muundo"
+
+msgid ""
+"Energy, water and waste systems and communications infrastructure and "
+"services. Examples: hydroelectricity, geothermal, solar and nuclear sources "
+"of energy, water purification and distribution, sewage collection and "
+"disposal, electricity and gas distribution, data communication, "
+"telecommunication, radio, communication networks."
+msgstr ""
+
+msgid "Utilities Communication"
+msgstr ""
+
+#, fuzzy
+#| msgid "Documents related to this map"
+msgid "Document Created"
+msgstr "Nyaraka kuhusiana na ramani hii"
+
+#, fuzzy
+#| msgid "This document is related to a "
+msgid "A Document was created"
+msgstr "Hati hii  inahusiana na"
+
+#, fuzzy
+#| msgid "Document"
+msgid "Document Updated"
+msgstr "Waraka"
+
+#, fuzzy
+#| msgid "Documents"
+msgid "A Document was updated"
+msgstr "Hati"
+
+#, fuzzy
+#| msgid "Documents"
+msgid "Document Approved"
+msgstr "Hati"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A Document was approved by a Manager"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "Documents"
+msgid "Document Published"
+msgstr "Hati"
+
+#, fuzzy
+#| msgid "Documents"
+msgid "A Document was published"
+msgstr "Hati"
+
+#, fuzzy
+#| msgid "Document"
+msgid "Document Deleted"
+msgstr "Waraka"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A Document was deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "Comment on Layer"
+msgid "Comment on Document"
+msgstr "Maoni kuhusu Tabaka"
+
+#, fuzzy
+#| msgid "A map was commented on"
+msgid "A Document was commented on"
+msgstr "ramani ilikuwa maoni juu ya"
+
+#, fuzzy
+#| msgid "Comment on Map"
+msgid "Rating for Document"
+msgstr "Ukadiriaji wa Hati"
+
+#, fuzzy
+#| msgid "A rating was given to a map"
+msgid "A rating was given to a document"
+msgstr "rating ilitolewa kwa ramani"
+
+msgid "Width"
+msgstr "Upana"
+
+msgid "Height"
+msgstr "Kimo"
+
+msgid "Make"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Latitude"
+msgstr "Latitudo"
+
+msgid "Not specified"
+msgstr ""
+
+msgid "Longitude"
+msgstr "Longitudo"
+
+msgid "Flash"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Speed Rating"
+msgstr ""
+
+msgid "Link to"
+msgstr "Link to"
+
+msgid "File"
+msgstr "Faili"
+
+msgid "Document must be a file or url."
+msgstr "Hati ni lazima uwe faili au url."
+
+msgid "A document cannot have both a file and a url."
+msgstr "hati haiwezi kuwa faili na url kwa wakati mmoja."
+
+msgid "This file type is not allowed"
+msgstr "Aina hii ya faili hairuhusiwi"
+
+msgid "Permissions must be valid JSON."
+msgstr "Kibali ni lazima kiwe JSON halali."
+
+msgid "The URL of the document if it is external."
+msgstr "URL ya hati kama ni kutoka nje."
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#, fuzzy
+#| msgid "Download"
+msgid "Download the"
+msgstr "Pakua"
+
+#, fuzzy
+#| msgid "Document"
+msgid "document"
+msgstr "Waraka"
+
+msgid "External Resource"
+msgstr "Rasilimali kutoka nje"
+
+msgid "Rate this document"
+msgstr "Thaminisha waraka huu"
+
+msgid "Average Rating"
+msgstr "Wastani wa uthaminishaji"
+
+msgid "Metadata Detail"
+msgstr ""
+
+msgid "Download Document"
+msgstr "Pakua Hati"
+
+msgid "Request Download"
+msgstr ""
+
+msgid "Edit Document"
+msgstr "Hariri Hati"
+
+msgid "Request change"
+msgstr ""
+
+msgid "Wizard"
+msgstr ""
+
+msgid "Advanced Edit"
+msgstr ""
+
+#, fuzzy
+#| msgid "Document"
+msgid "Document"
+msgid_plural "Documents"
+msgstr[0] "Waraka"
+msgstr[1] "Waraka"
+
+msgid "Clone"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Remove"
+msgstr "Ondoa"
+
+msgid "Close"
+msgstr "Funga"
+
+msgid "Download Metadata"
+msgstr "Pakua Metadata"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Full metadata"
+msgstr "Pakua Metadata"
+
+#, fuzzy
+#| msgid "format"
+msgid "Text format"
+msgstr "muundo"
+
+#, fuzzy
+#| msgid "format"
+msgid "HTML format"
+msgstr "muundo"
+
+msgid "Standard Metadata - XML format"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resource using this document"
+msgid "Resources using this document"
+msgstr "Rasilimali zinazotumia hati hii"
+
+msgid "List of resources using this document:"
+msgstr "Orodha ya rasilimali zinazotumia hati hii"
+
+msgid "This document is not related to any maps or layers"
+msgstr "Hati hii haihusiani na ramani au tabaka lolote"
+
+msgid "Permissions"
+msgstr "Vibali"
+
+msgid "Click the button below to change the permissions of this document."
+msgstr "Bonyeza kitufe hapo chini kubadilisha vibali vya hati hii."
+
+msgid "Change Document Permissions"
+msgstr "Badilisha Vibali vya Hati"
+
+msgid "Explore Documents"
+msgstr "Peruzi Hati"
+
+msgid "Upload Documents"
+msgstr "Pakia Hati"
+
+#, python-format
+msgid "for %(document_title)s"
+msgstr ""
+
+msgid "Completeness"
+msgstr ""
+
+msgid "Metadata Schema mandatory fields completed"
+msgstr ""
+
+msgid "Check Schema mandatory fields"
+msgstr ""
+
+msgid "Error updating metadata.  Please check the following fields: "
+msgstr ""
+"Hitilafu imetokea katika kusasisha metadata. Tafadhali angalia uga zifuatazo:"
+
+msgid "Done"
+msgstr ""
+
+msgid "Metadata Provider"
+msgstr "Mtoa metadata"
+
+msgid "<< Back"
+msgstr ""
+
+msgid "Update"
+msgstr "Kusasisha"
+
+#, fuzzy
+#| msgid "Next"
+msgid "Next >>"
+msgstr "Kifuatacho"
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Select an option"
+msgstr "Kuchagua sifa"
+
+msgid "Edit Metadata"
+msgstr "Hariri Metadata"
+
+msgid "Editing details for"
+msgstr ""
+
+msgid "Return to Document"
+msgstr ""
+
+msgid "Deleting"
+msgstr "Kufuta"
+
+msgid "Remove Document"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(document.get_absolute_url)s\">%(document_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "Yes, I am sure"
+msgstr "Ndiyo, nina uhakika"
+
+msgid "No, don't remove it"
+msgstr "Hapana, usiondoe"
+
+msgid "Replace Document"
+msgstr "Badilisha Hati"
+
+msgid "Replace "
+msgstr "Badilisha"
+
+msgid "Clear"
+msgstr "Safisha"
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Upload Document's Thumbnail"
+msgstr "Pakia Hati"
+
+msgid "Drop files here"
+msgstr "Achia mafaili hapa"
+
+msgid " or select them one by one:"
+msgstr "au chagua moja baada ya lingiine:"
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose Files"
+msgstr "Chagua watumiaji ..."
+
+msgid "Files to be uploaded"
+msgstr "Mafaili yakupakia"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Is Upload Metadata XML Form"
+msgstr "Pakua Metadata"
+
+msgid "Upload files"
+msgstr "Pakia mafaili"
+
+msgid "Upload Document"
+msgstr "Pakia hati"
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Allowed document types"
+msgstr "Pakia Hati"
+
+msgid "Done!"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+#, fuzzy
+#| msgid "Ratings"
+msgid "Settings"
+msgstr "Ratings"
+
+msgid "Mandatory"
+msgstr ""
+
+#, fuzzy
+#| msgid "Time Options"
+msgid "Optional"
+msgstr "Chaguzi za wakati"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "Basic Metadata"
+msgstr "Hariri Metadata"
+
+msgid "Location and Licenses"
+msgstr ""
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Required Metadata"
+msgstr "Hariri Metadata za Huduma"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Optional Metadata"
+msgstr "Pakua Metadata"
+
+#, fuzzy
+#| msgid "This action affects the following maps:"
+msgid "Choose one of the following..."
+msgstr "Hatua hii ina athari kwa ramani zifuatazo:"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Other, Optional, Metadata"
+msgstr "Pakua Metadata"
+
+msgid "Responsible Parties"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change Layer Permissions"
+msgid "Responsible and Permissions"
+msgstr "Badilisha Vibali vya Tabaka"
+
+#, fuzzy
+#| msgid "Public"
+msgid "Publishing"
+msgstr "Umma "
+
+msgid "You are not allowed to view this document."
+msgstr "Hauruhusiwi kutazama hati hii"
+
+msgid "You are not permitted to delete this document"
+msgstr "Hauruhusiwi kufuta hati hii"
+
+msgid "You do not have permissions for this document."
+msgstr "Huna kibali cha hati hii."
+
+msgid "You are not permitted to modify this document"
+msgstr "Huruhusiwi kubadilisha hati hii"
+
+msgid "You are not permitted to modify this document's metadata"
+msgstr "Hauruhusiwi kubadilisha metadata za hati hii"
+
+msgid "You are not permitted to view this document"
+msgstr "Huna kibali cha kutazama hati hii"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Not allowed"
+msgstr "Haijaainishwa"
+
+#, fuzzy
+#| msgid "Page Not Found"
+msgid "Not found"
+msgstr "Ukurasa Haukupatikana"
+
+#, fuzzy
+#| msgid "Set permissions for this resource"
+msgid "You must set a point of contact for this resource"
+msgstr "Seti ruhusa kwa rasilimali hii"
+
+#, fuzzy
+#| msgid "Set permissions for this resource"
+msgid "You must set an author for this resource"
+msgstr "Seti ruhusa kwa rasilimali hii"
+
+msgid "Favorite"
+msgstr ""
+
+msgid "Add to Favorites"
+msgstr "Add to Favorites"
+
+#, fuzzy
+#| msgid "Add to Favorites"
+msgid "Go to Favorites"
+msgstr "Add to Favorites"
+
+msgid "Log in to add/delete Favorites."
+msgstr ""
+
+msgid "Delete from Favorites"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Favorites for"
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "App Created"
+msgstr "Ramani Imetengenezwa"
+
+#, fuzzy
+#| msgid "A map was commented on"
+msgid "A App was created"
+msgstr "ramani ilikuwa maoni juu ya"
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "App Updated"
+msgstr "Ramani Imetengenezwa"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A App was updated"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "App Approved"
+msgstr "Haijaainishwa"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A App was approved by a Manager"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "Published From"
+msgid "App Published"
+msgstr "Toleo kutoka"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A App was published"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "Map Deleted"
+msgid "App Deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A App was deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "Comment on Map"
+msgid "Comment on App"
+msgstr "Maoni juu ya Ramani"
+
+#, fuzzy
+#| msgid "A map was commented on"
+msgid "An App was commented on"
+msgstr "ramani ilikuwa maoni juu ya"
+
+#, fuzzy
+#| msgid "Rating for Map"
+msgid "Rating for App"
+msgstr "Rating kwa Ramani"
+
+#, fuzzy
+#| msgid "A rating was given to a map"
+msgid "A rating was given to an App"
+msgstr "rating ilitolewa kwa ramani"
+
+msgid "Name"
+msgstr "Jina"
+
+msgid "zoom"
+msgstr "zoom"
+
+#, fuzzy
+#| msgid "projection"
+msgid "projection"
+msgstr "makadirio"
+
+msgid "center X"
+msgstr "kituo cha X"
+
+msgid "center Y"
+msgstr "kituo cha Y"
+
+msgid "Site URL"
+msgstr "URL tovuti"
+
+#, fuzzy, python-format
+#| msgid "Resources"
+msgid "%(resource.type)s"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Rate this Map"
+msgid "Rate this"
+msgstr "Thaminisha Ramani hii"
+
+#, fuzzy
+#| msgid "Editing details for "
+msgid "Editing Tools"
+msgstr "Hariri maelezo ya"
+
+msgid "Set"
+msgstr ""
+
+msgid "View"
+msgstr "View"
+
+msgid "Specify which users can view or modify this map"
+msgstr "Bayana ambayo watumiaji unaweza kuona au kurekebisha ramani hii"
+
+#, fuzzy
+#| msgid "Change Permissions of this Map"
+msgid "Change Permissions of this"
+msgstr "Change Permissions ya Ramani hii"
+
+msgid "Embed Iframe"
+msgstr ""
+
+msgid ""
+"To embed this map, add the following code snippet and customize its "
+"properties (scrolling, width, height) based on your needs to your site"
+msgstr ""
+
+msgid "Download"
+msgstr "Pakua"
+
+#, python-format
+msgid "%(GEONODE_APPS_NAME)s"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a New Map"
+msgid "Create New"
+msgstr "Tengeneza ramani mpya"
+
+#, fuzzy
+#| msgid "GeoExplorer"
+msgid "Explore"
+msgstr "GeoExplorer"
+
+#, python-format
+msgid "for %(map_title)s"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "Note: this map's orginal metadata was populated by importing a metadata "
+#| "XML file.\n"
+#| "        GeoNode's metadata import supports a subset of ISO, FGDC, and "
+#| "Dublin Core metadata elements.\n"
+#| "        Some of your original metadata may have been lost."
+msgid ""
+"Note: this geoapp's orginal metadata was populated by importing a metadata "
+"XML file.\n"
+"        GeoNode's metadata import supports a subset of ISO, FGDC, and Dublin "
+"Core metadata elements.\n"
+"        Some of your original metadata may have been lost."
+msgstr ""
+"Kumbuka: metadata halisi za ramani hii zilipatikana kwa kuleta fail la XML "
+"la metadata.\n"
+"geonode inawezesha uletaji wa sehemu ya metadata za  ISO, FGDC, na Dublin "
+"Core.\n"
+"Baadhi ya metadata halisi zinaweza kuwa zimepotea"
+
+#, fuzzy
+#| msgid "Explore Maps"
+msgid "Explore Apps"
+msgstr "Peruzi Ramani"
+
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(map_title)s\n"
+"      "
+msgstr ""
+"\n"
+"Hariri maelezao ya %(map_title)s"
+
+#, fuzzy
+#| msgid "Return to"
+msgid "Return to GeoApp"
+msgstr "Rudi"
+
+#, fuzzy
+#| msgid "View Map"
+msgid "New Map"
+msgstr "Mtazamo Ramani"
+
+#, fuzzy, python-format
+#| msgid ""
+#| "\n"
+#| "          Are you sure you want to remove the group: %(group_title)s?\n"
+#| "        "
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(resource.get_absolute_url)s\">%(resource_title)s</a>?\n"
+"        "
+msgstr ""
+"\n"
+"Je, una uhakika unataka kuondoa kikundi: %(group_title)s?"
+
+#, fuzzy
+#| msgid "Notice settings"
+msgid "Other Settings"
+msgstr "Notice settings"
+
+#, fuzzy
+#| msgid "You are not permitted to delete this map."
+msgid "You are not permitted to delete this app."
+msgstr "You hawaruhusiwi kufuta ramani hii."
+
+#, fuzzy
+#| msgid "You do not have permissions for this map."
+msgid "You do not have permissions for this app."
+msgstr "Huna ruhusa kwa ramani hii."
+
+#, fuzzy
+#| msgid "You must be logged in to save this map"
+msgid "You must be logged in to save this app"
+msgstr "Ni lazima uwe watumiaji katika kuokoa ramani hii"
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You are not permitted to save or edit this app."
+msgstr "Wewe hawaruhusiwi kuokoa au hariri ramani hii."
+
+#, fuzzy
+#| msgid "You are not allowed to modify this map's metadata."
+msgid "You are not allowed to modify this app's metadata."
+msgstr "Wewe hawaruhusiwi kurekebisha metadata ya ramani hii."
+
+#, fuzzy
+#| msgid "You are not allowed to view this map."
+msgid "You are not allowed to view this app."
+msgstr "Wewe hawaruhusiwi kuangalia ramani hii."
+
+msgid "An unknown error has occured."
+msgstr "hitilafu isiyojulikana imetokea."
+
+msgid "Layer Uploaded"
+msgstr "Tabaka la Limepakiwa"
+
+#, fuzzy
+#| msgid "A layer was uploaded"
+msgid "A layer was uploaded"
+msgstr "Tabaka limepakiwa"
+
+msgid "Comment on Layer"
+msgstr "Maoni kuhusu Tabaka"
+
+msgid "A layer was commented on"
+msgstr "Maoni kuhusu tabaka yalitolewa"
+
+msgid "Rating for Layer"
+msgstr "Uthaminishaji wa Tabaka"
+
+msgid "A rating was given to a layer"
+msgstr "Tabaka limethaminishwa"
+
+msgid "Points"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Polygons"
+msgstr ""
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Dataset name"
+msgstr "kanzidata"
+
+#, fuzzy
+#| msgid "Attributes"
+msgid "Dataset title"
+msgstr "Sifa"
+
+#, fuzzy
+#| msgid "property type"
+msgid "Geometry type"
+msgstr "aina ya uga"
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Create Dataset"
+msgstr "aina ya sura"
+
+#, fuzzy
+#| msgid "Explore Layers"
+msgid "Explore Datasets"
+msgstr "Peruzi matabaka"
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Create an empty dataset"
+msgstr "Tengeza ramani kwa kutumia tabaka hili"
+
+#, fuzzy
+#| msgid "Attribute"
+msgid "Add Attribute"
+msgstr "Sifa"
+
+msgid "Create"
+msgstr "Unda"
+
+msgid "String"
+msgstr ""
+
+#, fuzzy
+#| msgid "Intervals"
+msgid "Integer"
+msgstr "Vipindi"
+
+msgid "Float"
+msgstr ""
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "No title provided"
+msgstr "Haijaainishwa"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "No abstract provided"
+msgstr "Haijaainishwa"
+
+msgid "An exception occurred loading data to PostGIS"
+msgstr ""
+
+msgid " Additionally an error occured during database cleanup"
+msgstr ""
+
+msgid "Invalid Projection. Layer is missing CRS!"
+msgstr ""
+
+msgid "GZIP"
+msgstr ""
+
+msgid "GeoTIFF"
+msgstr ""
+
+msgid "Zipped Shapefile"
+msgstr "Zipped Shapefile"
+
+msgid "GML 2.0"
+msgstr "GML 2.0"
+
+msgid "GML 3.1.1"
+msgstr "GML 3.1.1"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Excel"
+msgstr "Excel"
+
+msgid "GeoJSON"
+msgstr "GeoJSON"
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PNG"
+msgstr "PNG"
+
+msgid "You don't have permissions to change style for this layer"
+msgstr "Huna kibali cha kubadili mtido wa tabaka hili"
+
+msgid "Bad HTTP Authorization Credentials."
+msgstr "Utambulisho wa idhini ya HTTP batili"
+
+msgid ""
+"a short version of the name consisting only of letters, numbers, underscores "
+"and hyphens."
+msgstr "ufupisha wa jina unaojumuisha herufi, namba, viunganishi '-' au' _' tu"
+
+msgid "A group already exists with that slug."
+msgstr "Ttayari kuna kundi lenye `slug` hiyo."
+
+msgid "A group already exists with that name."
+msgstr "tayari kuna kundi lenye jina hilo."
+
+#, fuzzy
+#| msgid "User Activities"
+msgid "User Identifiers"
+msgstr "Matukio ya mtumiaji"
+
+msgid "Assign manager role"
+msgstr ""
+
+#, python-format
+msgid ""
+"The following are not valid usernames: %(errors)s; not added to the group"
+msgstr ""
+
+#, fuzzy
+#| msgid "Categories"
+msgid "Group Categories"
+msgstr "Makundi"
+
+#, fuzzy
+#| msgid "Public"
+msgid "Public"
+msgstr "Umma "
+
+msgid "Public (invite-only)"
+msgstr "Umma (waalikwa tu)"
+
+msgid "Private"
+msgstr "Binafsi"
+
+msgid ""
+"Public: Any registered user can view and join a public group.<br>Public "
+"(invite-only):Any registered user can view the group.  Only invited users "
+"can join.<br>Private: Registered users cannot see any details about the "
+"group, including membership.  Only invited users can join."
+msgstr ""
+"Umma: mtumiaji yeyote aliyesajiliwa anaweza kuona na kujiunga na kundi la "
+"umma. <br> Umma (waalikwa tu): Mtumiaji yeyote aliyesajiliwa anaweza kuona "
+"kundi. Watumiaji walioalikwa tu ndio wanaweza kujiunga. <br> Binafsi: "
+"Watumiaji waliojiandikisha hawezi kuona maelezo yoyote kuhusu kundi, ikiwa "
+"ni pamoja na uanachama. Watumiaji walioalikwa tu ndio wanaweza kujiunga."
+
+msgid ""
+"Email used to contact one or all group members, such as a mailing list, "
+"shared email, or exchange group."
+msgstr ""
+"Barua pepe ya kuwasiliana na mwanachama mmoja au wanachama wote wa kundi, "
+"kama vile jukwaa la barua pepe, barua pepe ya pamoja au `exchang group`."
+
+msgid "Logo"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "A space or comma-separated list of keywords"
+msgstr "Orodha ya maneno muhimu yalionganishwa kwa nafasi au koma "
+
+#, fuzzy
+#| msgid "Success"
+msgid "Access"
+msgstr "Mafanikio"
+
+msgid "Categories"
+msgstr "Makundi"
+
+msgid "Manager"
+msgstr "Msimamizi"
+
+msgid "Member"
+msgstr "Mwanachama"
+
+msgid "Activity Feed for"
+msgstr "Mlisho wa matukio ya"
+
+msgid "All"
+msgstr "Vyote"
+
+msgid "Layers"
+msgstr "Matabaka"
+
+msgid "Maps"
+msgstr "Ramani"
+
+msgid "Documents"
+msgstr "Hati"
+
+msgid "Comments"
+msgstr "Maoni"
+
+msgid "No actions yet"
+msgstr "Hakuna kilichofanyika bado"
+
+#, fuzzy
+#| msgid "Explore Groups"
+msgid "Explore Group Categories"
+msgstr "Peruzi Makundi"
+
+#, fuzzy
+#| msgid "Create a Group"
+msgid "Create a New Group Category"
+msgstr "Unda kundi"
+
+msgid "Explore Groups"
+msgstr "Peruzi Makundi"
+
+msgid "Create a Group"
+msgstr "Unda kundi"
+
+msgid "Update Group"
+msgstr "Sasisha Kundi"
+
+msgid "Remove Group"
+msgstr "Ondoa Kundi"
+
+msgid "Create Group"
+msgstr "Unda Kundi"
+
+#, fuzzy
+#| msgid "last modified"
+msgid "Last Modified"
+msgstr "maboresho ya mwisho"
+
+msgid "This group has not created a logo."
+msgstr "Kundi hili halijaunda nembo"
+
+msgid "Edit Group Details"
+msgstr "Hariri Maelezo ys Kundi"
+
+msgid "Manage Group Members"
+msgstr "Simamia Wanachama wa Kundi"
+
+msgid "Delete this Group"
+msgstr "Futa kundi hili"
+
+msgid "Group Activities"
+msgstr "Matukio ya Kundi"
+
+#, python-format
+msgid ""
+"\n"
+"            This group is <strong>%(access)s</strong>.\n"
+"          "
+msgstr ""
+"\n"
+"Kundi hili  ni la <strong>%(access)s</strong>."
+
+msgid "Anyone may join this group."
+msgstr "Mtu yeyote anaweza kujiunga na kundi hili."
+
+msgid "Join Group"
+msgstr "Jiunge na Kundi"
+
+msgid "Anyone may view this group but membership is by invitation only."
+msgstr "Mtu yeyote anaweza kuona kundi hili lakini uanachama kwa mwaliko tu."
+
+msgid "Membership is by invitation only."
+msgstr "Uanachama ni kwa mwaliko tu."
+
+msgid "Managers"
+msgstr "Wasimamizi"
+
+msgid "Members"
+msgstr "Wanachama"
+
+msgid "Create a New Group"
+msgstr ""
+
+msgid "Edit Members for"
+msgstr ""
+
+#, fuzzy
+#| msgid "Members"
+msgid "Current Members"
+msgstr "Wanachama"
+
+msgid "Promote"
+msgstr ""
+
+msgid "Demote"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+#, fuzzy
+#| msgid "Add members"
+msgid "Add new members"
+msgstr "Ongeza wanachama"
+
+#, fuzzy
+#| msgid "Manage Group Members"
+msgid "Add Group Members"
+msgstr "Simamia Wanachama wa Kundi"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove the group: %(group_title)s?\n"
+"        "
+msgstr ""
+"\n"
+"Je, una uhakika unataka kuondoa kikundi: %(group_title)s?"
+
+msgid "Remove Maps/Data from Group"
+msgstr "Ondoa Ramani/Data kwenye Kundi"
+
+msgid "Remove selected maps/data"
+msgstr "Ondoa ramani/data zilizochaguliwa"
+
+#, fuzzy
+#| msgid "Edit Group Details"
+msgid "Edit Group Category Details"
+msgstr "Hariri Maelezo ys Kundi"
+
+msgid "Groups"
+msgstr "Makundi"
+
+#, fuzzy
+#| msgid "Create Group"
+msgid "Create Group Category"
+msgstr "Unda Kundi"
+
+#, fuzzy
+#| msgid "Create a Group"
+msgid "Create a Group Category"
+msgstr "Unda kundi"
+
+#, fuzzy
+#| msgid "Create Group"
+msgid "Edit Group Category"
+msgstr "Unda Kundi"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "ready"
+msgstr ""
+
+msgid "updating-harvestable-resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "harvesting-resources"
+msgstr "Rasilimali"
+
+msgid "checking-availability"
+msgstr ""
+
+#, fuzzy
+#| msgid "Harvested"
+msgid "Harvester name"
+msgstr "Kuvuna"
+
+msgid "Base URL of the remote service that is to be harvested"
+msgstr ""
+
+msgid ""
+"Whether to periodically schedule this harvester to look for resources on the "
+"remote service"
+msgstr ""
+
+msgid ""
+"How often (in minutes) should new harvesting sessions be automatically "
+"scheduled? Setting this value to zero has the same effect as setting "
+"`scheduling_enabled` to False "
+msgstr ""
+
+msgid "Whether the remote service is known to be available or not"
+msgstr ""
+
+msgid ""
+"How often (in minutes) should the remote service be checked for availability?"
+msgstr ""
+
+msgid "Last time the remote server was checked for availability"
+msgstr ""
+
+msgid "Last time the remote server was checked for harvestable resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "version of the cited resource"
+msgid "Default owner of harvested resources"
+msgstr "toleo la rasilimali alitoa"
+
+#, fuzzy
+#| msgid "Set permissions on selected resources"
+msgid "Default access permissions of harvested resources"
+msgstr "Ruhusa ya kuweka juu ya rasilimali aliliteua"
+
+msgid ""
+"Should new resources be harvested automatically without explicit selection?"
+msgstr ""
+
+msgid ""
+"Orphan resources are those that have previously been created by means of a "
+"harvesting operation but that GeoNode can no longer find on the remote "
+"service being harvested. Should these resources be deleted from GeoNode "
+"automatically? This also applies to when a harvester configuration is "
+"deleted, in which case all of the resources that originated from that "
+"harvester are now considered to be orphan."
+msgstr ""
+
+msgid "Date of last update to the harvester configuration."
+msgstr ""
+
+msgid ""
+"Harvester class used to perform harvesting sessions. New harvester types can "
+"be added by an admin by changing the main GeoNode `settings.py` file"
+msgstr ""
+
+msgid ""
+"Configuration specific to each harvester type. Please consult GeoNode "
+"documentation on harvesting for more info. This field is mandatory, so at "
+"the very least an empty object (i.e. {}) must be supplied."
+msgstr ""
+
+msgid "Periodic task used to configure harvest scheduling"
+msgstr ""
+
+msgid "Periodic task used to check availability of the remote"
+msgstr ""
+
+#, python-brace-format
+msgid "Check availability of {self.name}"
+msgstr ""
+
+msgid "updating-harvestable-resource"
+msgstr ""
+
+msgid "harvesting-resource"
+msgstr ""
+
+msgid ""
+"Identifier that allows referencing the resource on its remote service in a "
+"unique fashion. This is usually automatically filled by the harvester "
+"worker. The harvester worker needs to know how to either read or generate "
+"this from each remote resource in order to be able to compare the "
+"availability of resources between consecutive harvesting sessions."
+msgstr ""
+
+msgid ""
+"Type of the resource in the remote service. Each harvester worker knows how "
+"to fill this field, in accordance with the resources for which harvesting is "
+"supported"
+msgstr ""
+
+#, python-brace-format
+msgid "The e-mail address '{email}' has already been invited."
+msgstr ""
+
+#, python-brace-format
+msgid "The e-mail address '{email}' has already accepted an invite."
+msgstr ""
+
+#, python-brace-format
+msgid "An active user is already using the e-mail address '{email}'"
+msgstr ""
+
+#, fuzzy
+#| msgid "email"
+msgid "E-mail"
+msgstr "barua pepe"
+
+#, python-format
+msgid "Invitations successfully sent to '%(email)s'"
+msgstr ""
+
+#, python-format
+msgid ""
+"Sorry, it was not possible to invite '%(email)s' due to the following isse: "
+"%(error)s (%(type)s)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "Layer Created"
+msgstr "Ramani Imetengenezwa"
+
+#, fuzzy
+#| msgid "A layer was commented on"
+msgid "A Layer was created"
+msgstr "Maoni kuhusu tabaka yalitolewa"
+
+#, fuzzy
+#| msgid "Layer Uploaded"
+msgid "Layer Updated"
+msgstr "Tabaka la Limepakiwa"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A Layer was updated"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Layer Approved"
+msgstr "Haijaainishwa"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A Layer was approved by a Manager"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "Published From"
+msgid "Layer Published"
+msgstr "Toleo kutoka"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A Layer was published"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "Map Deleted"
+msgid "Layer Deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "A layer was commented on"
+msgid "A Layer was deleted"
+msgstr "Maoni kuhusu tabaka yalitolewa"
+
+msgid "YYYYMMDD"
+msgstr ""
+
+msgid "YYYYMMDD'T'hhmmss"
+msgstr ""
+
+msgid "YYYYMMDD'T'hhmmss'Z'"
+msgstr ""
+
+msgid "style name"
+msgstr "jina la mtindo"
+
+msgid "sld text"
+msgstr "sld text"
+
+msgid "sld version"
+msgstr "toleo la sld"
+
+msgid "sld url"
+msgstr "url ya sld"
+
+msgid "Workspace"
+msgstr ""
+
+#, fuzzy
+#| msgid "date type"
+msgid "Store"
+msgstr "aina ya tarehe"
+
+#, fuzzy
+#| msgid "date type"
+msgid "Storetype"
+msgstr "aina ya tarehe"
+
+#, fuzzy
+#| msgid "CSW typename"
+msgid "Typename"
+msgstr "CSW typename"
+
+msgid "Is mosaic?"
+msgstr ""
+
+msgid "Has time?"
+msgstr ""
+
+msgid "Has elevation?"
+msgstr ""
+
+msgid "Time regex"
+msgstr ""
+
+msgid "Elevation regex"
+msgstr ""
+
+msgid "use featureinfo custom template?"
+msgstr ""
+
+msgid "specifies wether or not use a custom GetFeatureInfo template."
+msgstr ""
+
+msgid "featureinfo custom template"
+msgstr ""
+
+msgid "the custom GetFeatureInfo template HTML contents."
+msgstr ""
+
+msgid "File cannot be opened, maybe check the encoding"
+msgstr ""
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "attribute name"
+msgstr "jina la sifa"
+
+msgid "name of attribute as stored in shapefile/spatial database"
+msgstr ""
+"jina la sifa kama kuhifadhiwa katika shapefile au hifadhidata ya kijiografia"
+
+#, fuzzy
+#| msgid "distribution description"
+msgid "attribute description"
+msgstr "distribution description"
+
+msgid "description of attribute to be used in metadata"
+msgstr "maelezo ya sifa kwa ajili ya metadata"
+
+msgid "attribute label"
+msgstr "lebo ya sifa"
+
+msgid "title of attribute as displayed in GeoNode"
+msgstr "jina la sifa kama kuonyeshwa katika GeoNode"
+
+msgid "attribute type"
+msgstr "aina ya sifa"
+
+msgid "the data type of the attribute (integer, string, geometry, etc)"
+msgstr "aina ya data ya sifa (integer, string, geometry, nk)"
+
+msgid "visible?"
+msgstr "inaonekana?"
+
+msgid "specifies if the attribute should be displayed in identify results"
+msgstr "Inabainisha ikiwa sifa ionyeshwe katika kuonesha matokeo"
+
+msgid "display order"
+msgstr "mpangilio wa kuonesha"
+
+msgid ""
+"specifies the order in which attribute should be displayed in identify "
+"results"
+msgstr "Inabainisha mpangilio ambao sifa inatakiwa kuonyeshwa katika matokeo"
+
+msgid "Label"
+msgstr "Lebo"
+
+msgid "Image"
+msgstr ""
+
+msgid "Video (mp4)"
+msgstr ""
+
+msgid "Video (ogg)"
+msgstr ""
+
+msgid "Video (webm)"
+msgstr ""
+
+msgid "Video (3gp)"
+msgstr ""
+
+msgid "Video (flv)"
+msgstr ""
+
+msgid "Video (YouTube/VIMEO - embedded)"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "IFRAME"
+msgstr ""
+
+#, fuzzy
+#| msgid "date type"
+msgid "featureinfo type"
+msgstr "aina ya tarehe"
+
+#, fuzzy
+#| msgid "specifies if the attribute should be displayed in identify results"
+msgid ""
+"specifies if the attribute should be rendered with an HTML widget on "
+"GetFeatureInfo template."
+msgstr "Inabainisha ikiwa sifa ionyeshwe katika kuonesha matokeo"
+
+#, fuzzy
+#| msgid "count"
+msgid "count"
+msgstr "hesabu"
+
+msgid "count value for this field"
+msgstr "hesabu ya thamani kwa uga huu"
+
+msgid "min"
+msgstr "kiwango cha chini"
+
+msgid "minimum value for this field"
+msgstr "Kiwango cha chini kwa uga huu"
+
+msgid "max"
+msgstr "kiwango cha juu"
+
+msgid "maximum value for this field"
+msgstr "kiwango cha juu kwa uga huu"
+
+msgid "average"
+msgstr "wastani"
+
+msgid "average value for this field"
+msgstr "wastani wa kiwango ya uga huu"
+
+msgid "median"
+msgstr "kiwango cha katikati"
+
+msgid "median value for this field"
+msgstr "kiwango cha kati kwa sehemu hii"
+
+msgid "standard deviation"
+msgstr "kiwango kupotoka"
+
+msgid "standard deviation for this field"
+msgstr "standard deviation ya uga huu"
+
+msgid "sum"
+msgstr "jumla"
+
+msgid "sum value for this field"
+msgstr "Jumla ya thamani ya uga huu"
+
+msgid "unique values for this field"
+msgstr "thamani maalum kwa uga huu"
+
+#, fuzzy
+#| msgid "last modified"
+msgid "last modified"
+msgstr "maboresho ya mwisho"
+
+msgid "date when attribute statistics were last updated"
+msgstr "tarehe ambapo takwimu za sifa zilisasishwa kwa mara ya mwisho"
+
+#, fuzzy
+#| msgid "Edit Layer"
+msgid "Append to Dataset"
+msgstr "Hariri Tabaka"
+
+#, fuzzy
+#| msgid "Return to"
+msgid "Return to Dataset"
+msgstr "Rudi"
+
+#, fuzzy
+#| msgid "Edit Service Metadata"
+msgid "Preserve Metadata XML"
+msgstr "Hariri Metadata za Huduma"
+
+msgid "Select the charset or leave default"
+msgstr "Kuchagua `charset` au acha kama ilivyo"
+
+msgid "Home"
+msgstr "Nyumbani"
+
+msgid "Change point of contact"
+msgstr "Mabadiliko ya hatua ya kuwasiliana"
+
+msgid "Assign a new point of contact to the layers below:"
+msgstr "Hawawajui hatua mpya ya kuwasiliana na tabaka chini:"
+
+msgid "Dataset WMS GetCapabilities document"
+msgstr ""
+
+msgid "Filter Granules"
+msgstr ""
+
+msgid "Active Filter:"
+msgstr ""
+
+msgid "Granule ID"
+msgstr ""
+
+msgid "Bounding Box"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+#, fuzzy
+#| msgid "Preview"
+msgid "Granule Preview"
+msgstr "Hakiki"
+
+#, fuzzy
+#| msgid "Remove"
+msgid "Granule Remove"
+msgstr "Ondoa"
+
+msgid "Dimension"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Regex"
+msgstr ""
+
+msgid "TIME"
+msgstr ""
+
+msgid "ELEVATION"
+msgstr ""
+
+msgid "Attribute Name"
+msgstr "Jina la Sifa"
+
+msgid "Range"
+msgstr "Range"
+
+msgid "Average"
+msgstr "Wastani"
+
+msgid "Median"
+msgstr "Kiwango cha katikati"
+
+msgid "Standard Deviation"
+msgstr "Standard Deviation"
+
+#, fuzzy
+#| msgid "Rate this layer"
+msgid "Rate this dataset"
+msgstr "Kiwango safu hii"
+
+msgid "Analyze with"
+msgstr ""
+
+#, fuzzy
+#| msgid "Download"
+msgid "Download Dataset"
+msgstr "Pakua"
+
+msgid "Images"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Click to filter the layer"
+msgstr ""
+
+#, fuzzy
+#| msgid "Are you sure you want to log out?"
+msgid "Do you want to filter it?"
+msgstr "Je, una hakika unataka kutoka?"
+
+msgid "Loading..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Filter by attributes"
+msgstr "Kuchagua sifa"
+
+msgid "Match"
+msgstr ""
+
+#, fuzzy
+#| msgid "All"
+msgid "all"
+msgstr "Vyote"
+
+msgid "any"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "of the following:"
+msgstr "Watumiaji wafuatao:"
+
+msgid "Attribute"
+msgstr "Sifa"
+
+msgid "Operator"
+msgstr ""
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Feature limit"
+msgstr "aina ya sura"
+
+msgid "Pick your download format:"
+msgstr ""
+
+msgid ""
+"No data available for this resource. Please contact a system administrator "
+"or a manager."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Edit Layer"
+msgstr "Hariri Tabaka"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Metadata"
+msgstr "Pakua Metadata"
+
+msgid "Styles"
+msgstr "Mitindo"
+
+msgid "Manage"
+msgstr "Kuratibu"
+
+msgid "Layer"
+msgid_plural "Layers"
+msgstr[0] "Safu"
+msgstr[1] "Tabaka"
+
+msgid "Append Data"
+msgstr ""
+
+msgid "Edit data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "View Dataset"
+msgstr "Hariri Metadata"
+
+#, fuzzy
+#| msgid "format"
+msgid "Attribute Information"
+msgstr "muundo"
+
+msgid "ISO Feature Catalogue"
+msgstr ""
+
+msgid "Legend"
+msgstr "Ufunguo"
+
+#, fuzzy
+#| msgid "Maps using this layer"
+msgid "Maps using this dataset"
+msgstr "Ramani zinazotumia tabaka hili"
+
+#, fuzzy
+#| msgid "List of maps using this layer:"
+msgid "List of maps using this dataset:"
+msgstr "Orodha ya ramani zinzotumia tabaka hili"
+
+#, fuzzy
+#| msgid "This layer is not currently used in any maps."
+msgid "This dataset is not currently used in any maps."
+msgstr "Tabaka hili kwa sasa halitumiwi na ramani yoyote"
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Create a map using this dataset"
+msgstr "Tengeza ramani kwa kutumia tabaka hili"
+
+#, fuzzy
+#| msgid "Click the button below to generate a new map based on this layer."
+msgid "Click the button below to generate a new map based on this dataset."
+msgstr ""
+"Bonyeza kitufe hapo chini kutengenza ramani mpya kutokana na tabaka hili."
+
+msgid "Add the dataset to an existing map"
+msgstr ""
+
+#, fuzzy
+#| msgid "Click the button below to change the permissions of this layer."
+msgid "Click the button below to add the dataset to the selected map."
+msgstr "Bonyeza kitufe hapo chini ili kubadili vibali vya safu hii."
+
+#, fuzzy
+#| msgid "Edit Map"
+msgid "Add to Map"
+msgstr "Hariri Ramani"
+
+msgid "Documents related to this layer"
+msgstr "Hati zinazohusiana na tabaka hili"
+
+msgid "List of documents related to this layer:"
+msgstr "Orodha ya hati kuhusiana na safu hii:"
+
+msgid ""
+"The following styles are associated with this layer. Choose a style to view "
+"it in the preview map."
+msgstr ""
+"Mitindo ifuatayo inahusishwa na tabaka hili. Chagua mtindo ukitaka kuutazama "
+"kwenye ramani"
+
+#, fuzzy
+#| msgid "Layer Default Style"
+msgid "(default style)"
+msgstr "Mtindo msingoi wa tabaka"
+
+msgid "No styles associated with this layer"
+msgstr "Hakuna mitindo iliyosishwa na safu hii"
+
+msgid "External service layer"
+msgstr "Tabaka kutoka huduma ya nje"
+
+msgid "Source"
+msgstr "Chanzo"
+
+msgid "Refresh Attributes and Statistics of this layer"
+msgstr ""
+
+msgid ""
+"Click the button below to allow GeoNode refreshing the list of available "
+"Dataset Attributes. If the option 'WPS_ENABLED' has been also set on the "
+"backend, it will recalculate their statistics too."
+msgstr ""
+
+msgid "Refresh Attributes and Statistics"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a map using this layer"
+msgid "Clear the Server Cache of this layer"
+msgstr "Tengeza ramani kwa kutumia tabaka hili"
+
+#, fuzzy
+#| msgid "Click the button below to change the permissions of this layer."
+msgid "Click the button below to wipe the tile-cache of this layer."
+msgstr "Bonyeza kitufe hapo chini ili kubadili vibali vya safu hii."
+
+msgid "Empty Tiled-Dataset Cache"
+msgstr ""
+
+msgid "Click the button below to change the permissions of this layer."
+msgstr "Bonyeza kitufe hapo chini ili kubadili vibali vya safu hii."
+
+#, fuzzy
+#| msgid "Change Layer Permissions"
+msgid "Change Dataset Permissions"
+msgstr "Badilisha Vibali vya Tabaka"
+
+msgid "Remove Mosaic Granules"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove Granule %(granule_id)s of the "
+"Mosaic <a href=\"%(layer.get_absolute_url)s\">%(layer_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "This action affects the following maps:"
+msgstr "Hatua hii ina athari kwa ramani zifuatazo:"
+
+msgid "No maps are using this layer"
+msgstr "Hakuna ramani zinazotumia tabaka hili"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Datasets"
+msgstr "Pakua Metadata"
+
+#, python-format
+msgid "for %(layer_title)s"
+msgstr ""
+
+msgid ""
+"Note: this layer's orginal metadata was populated and preserved by importing "
+"a metadata XML file.\n"
+"          This metadata cannot be edited."
+msgstr ""
+
+msgid ""
+"Note: this layer's orginal metadata was populated by importing a metadata "
+"XML file.\n"
+"          GeoNode's metadata import supports a subset of ISO, FGDC, and "
+"Dublin Core metadata elements.\n"
+"          Some of your original metadata may have been lost."
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"        Editing details for %(layer_title)s\n"
+"      "
+msgstr ""
+"\n"
+"Hariri maelezo ya %(layer_title)s"
+
+msgid "Use a custom template?"
+msgstr ""
+
+msgid "Display Order"
+msgstr "Mpangilio wa muonekano"
+
+#, fuzzy
+#| msgid "Display Order"
+msgid "Display Type"
+msgstr "Mpangilio wa muonekano"
+
+#, fuzzy
+#| msgid "visible?"
+msgid "Visible"
+msgstr "inaonekana?"
+
+msgid "ERROR"
+msgstr ""
+
+msgid "Following items are required:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Layer"
+msgid "Upload Dataset Metadata"
+msgstr "Pakia Tabaka"
+
+msgid "(XML - ISO, FGDC, ebRIM, Dublin Core)"
+msgstr ""
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Remove Datasets"
+msgstr "aina ya sura"
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href="
+"\"%(layer.get_absolute_url)s\">%(layer_title)s</a>?\n"
+"        "
+msgstr ""
+
+#, fuzzy
+#| msgid "Replace Layer"
+msgid "Replace Dataset"
+msgstr "Badilisha Tabaka"
+
+msgid "Manage Styles"
+msgstr "Ratibu mitindo"
+
+#, python-format
+msgid ""
+"\n"
+"      Manage Available Styles for <a href=\"{{ layer_url }}\">"
+"%(layer_title)s</a>\n"
+"    "
+msgstr ""
+"\n"
+"Simamia mitindo iliyopo kwa ajili ya <a href=\"{{ layer_url }}\">"
+"%(layer_title)s</a>"
+
+#, fuzzy
+#| msgid "Layer Default Style"
+msgid "Dataset Default Style"
+msgstr "Mtindo msingoi wa tabaka"
+
+msgid "Available styles"
+msgstr "Mitindo iliyopo"
+
+msgid ""
+"Click on an available style in the upper box to assign it to this layer. "
+"Selected styles appear in the lower box."
+msgstr ""
+"Bonyeza kwenye style inapatikana katika sanduku cha juu ili kuteua kw ajili "
+"ya tabaka hili. Mitindo iliyochaguliwa itaonekana katika sanduku cha chini."
+
+msgid "Update Available Styles"
+msgstr "Sasisha mitindo iliyopo"
+
+msgid "Return to Layer"
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Style"
+msgstr "Pakia Tabaka Hatua ya 2"
+
+msgid "(SLD - Style Layer Descriptor 1.0, 1.1)"
+msgstr ""
+
+msgid "WARNING"
+msgstr ""
+
+msgid "This will most probably overwrite the current default style!"
+msgstr ""
+
+msgid "Preview"
+msgstr "Hakiki"
+
+#, fuzzy
+#| msgid "Attributes"
+msgid "Dataset Attributes"
+msgstr "Sifa"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload Dataset"
+msgstr "Pakua Metadata"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Upload status"
+msgstr "Pakua Metadata"
+
+msgid ""
+"This file needs additional configuration to complete the upload process. "
+"Please click on the button to fill the required configuration"
+msgstr ""
+
+msgid "Delete"
+msgstr "Futa"
+
+#, fuzzy
+#| msgid "Upload Document"
+msgid "Upload process completed"
+msgstr "Pakia hati"
+
+msgid ""
+"The upload process cannot be completed because the original file is no more "
+"available"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create"
+msgid "Created"
+msgstr "Unda"
+
+msgid "Progress"
+msgstr ""
+
+msgid "page"
+msgstr ""
+
+msgid "of"
+msgstr "ya"
+
+#, fuzzy
+#| msgid "Incomplete Uploads"
+msgid "Delete incomplete upload"
+msgstr "Upakiaji usio kamili"
+
+#, fuzzy
+#| msgid "Are you sure you want to delete this upload?"
+msgid "Are you sure you want to remove this incomplete upload?"
+msgstr "Je, una uhakika unataka kufuta upakiaji huu?"
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: Set SRS"
+msgstr "Pakia Tabaka Hatua ya 2"
+
+msgid "Provide CRS for "
+msgstr "Ainisha CRS kwa"
+
+msgid "Coordinate Reference System"
+msgstr "Coordinate Reference System"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "        A coordinate reference system for this layer could not be "
+#| "determined.\n"
+#| "        Locate or enter the appropriate ESPG code for this layer below.\n"
+#| "        One way to do this is do visit:\n"
+#| "        <a href=\"http://prj2epsg.org/search\" target=\"_\">prj2epsg</a>\n"
+#| "        and enter the following:\n"
+#| "    "
+msgid ""
+"\n"
+"                A coordinate reference system for this dataset could not be "
+"determined.\n"
+"                Locate or enter the appropriate ESPG code for this dataset "
+"below.\n"
+"                One way to do this is do visit:\n"
+"                <a href=\"http://prj2epsg.org/search\" target=\"_"
+"\">prj2epsg</a>\n"
+"                and enter the following:\n"
+"            "
+msgstr ""
+"\n"
+"kuratibu kumbukumbu ya mfumo wa safu hii inaweza kuwa amedhamiria. "
+"Machapisho au kuingia ESPG sahihi kificho kwa safu hii hapa chini. Njia moja "
+"ya kufanya hivyo ni do kutembelea: <a href=\"http://prj2epsg.org/search\" "
+"target=\"_\">prj2epsg</a> na kuingia yafuatayo:"
+
+msgid "Native CRS could not be found!"
+msgstr ""
+
+msgid "Provide EPSG code for Source SRS"
+msgstr ""
+
+msgid "EPSG Code (Source SRS)"
+msgstr ""
+
+msgid "Select a Source SRS"
+msgstr ""
+
+msgid ""
+"Source SRS EPSG Code is mandatory and represents the native data Spatial "
+"Reference System.\n"
+"                    <br><br>\n"
+"                    This must be coherent with the Geometry values (lon/lat "
+"coordinates as an instance) stored on the geospatial dataset.\n"
+"                    <br><br>\n"
+"                    If not specified on the geospatial data itself, it must "
+"be manually declared by the operator.\n"
+"                    <br><br>\n"
+"                    More information is provided at the bottom of the page "
+"in the \"Additional Help\" sections.\n"
+"                    "
+msgstr ""
+
+msgid "Next"
+msgstr "Kifuatacho"
+
+#, fuzzy
+#| msgid "Time Options"
+msgid "Advanced Options"
+msgstr "Chaguzi za wakati"
+
+msgid "Target SRS"
+msgstr ""
+
+msgid "EPSG Code (Target SRS)"
+msgstr ""
+
+#, fuzzy
+#| msgid "Select an attribute"
+msgid "Select a Target SRS"
+msgstr "Kuchagua sifa"
+
+msgid "leave it empty to use only Source SRS"
+msgstr ""
+
+msgid "Additional Help"
+msgstr ""
+
+#, fuzzy
+#| msgid "Coordinate Reference System"
+msgid "Spatial Reference System"
+msgstr "Coordinate Reference System"
+
+msgid ""
+"A spatial reference system (SRS) or coordinate reference system (CRS) is a "
+"coordinate-based local,\n"
+"                            regional or global system used to locate "
+"geographical entities. A spatial reference system defines a specific map\n"
+"                            projection, as well as transformations between "
+"different spatial reference systems. Spatial reference systems are\n"
+"                            defined by the OGC's Simple feature access using "
+"well-known text, and support has been implemented by several\n"
+"                            standards-based geographic information systems. "
+"Spatial reference systems can be referred to using a SRID integer,\n"
+"                            including EPSG codes defined by the "
+"International Association of Oil and Gas Producers.\n"
+"                            It is specified in ISO 19111:2007 Geographic "
+"information—Spatial referencing by coordinates, also published as\n"
+"                            OGC Abstract Specification, Topic 2: Spatial "
+"referencing by coordinate."
+msgstr ""
+
+msgid "Identifiers"
+msgstr ""
+
+msgid ""
+"\n"
+"                        A Spatial Reference System Identifier (SRID) is a "
+"unique value used to unambiguously identify projected, unprojected,\n"
+"                        and local spatial coordinate system definitions. "
+"These coordinate systems form the heart of all GIS applications.\n"
+"\n"
+"                        Virtually all major spatial vendors have created "
+"their own SRID implementation or refer to those of an authority,\n"
+"                        such as the European Petroleum Survey Group (EPSG).\n"
+"                        "
+msgstr ""
+
+msgid ""
+"NOTE: As of 2005 the EPSG SRID values are now maintained by the "
+"International\n"
+"                            Association of Oil & Gas Producers (OGP) "
+"Surveying & Positioning Committee"
+msgstr ""
+
+msgid ""
+"\n"
+"                        SRIDs are the primary key for the Open Geospatial "
+"Consortium (OGC) spatial_ref_sys metadata table for the Simple\n"
+"                        Features for SQL Specification, Versions 1.1 and "
+"1.2, which is defined as follows:\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        In spatially enabled databases (such as IBM DB2, IBM "
+"Informix, Microsoft SQL Server, MySQL, Oracle RDBMS, Teradata, PostGIS and\n"
+"                        SQL Anywhere), SRIDs are used to uniquely identify "
+"the coordinate systems used to define columns of spatial data or individual\n"
+"                        spatial objects in a spatial column (depending on "
+"the spatial implementation). SRIDs are typically associated with a well "
+"known\n"
+"                        text (WKT) string definition of the coordinate "
+"system (SRTEXT, above). From the Well Known Text Wikipedia page\n"
+"                        "
+msgstr ""
+
+msgid ""
+"“A WKT string for a spatial reference system describes the datum, geoid, "
+"coordinate system,\n"
+"                            and map projection of the spatial objects”."
+msgstr ""
+
+msgid ""
+"\n"
+"                        Here are two common coordinate systems with their "
+"EPSG SRID value followed by their well known text:\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        UTM, Zone 17N, NAD27 — SRID 2029\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        WGS84 — SRID 4326\n"
+"                        "
+msgstr ""
+
+msgid ""
+"\n"
+"                        SRID values associated with spatial data can be used "
+"to constrain spatial operations — for instance, spatial operations cannot be "
+"performed\n"
+"                        between spatial objects with differing SRIDs in some "
+"systems, or trigger coordinate system transformations between spatial "
+"objects in others.\n"
+"                        "
+msgstr ""
+
+msgid ""
+"Source SRS EPSG Code is mandatory and represents the native data Spatial "
+"Reference System. This must be coherent with the\n"
+"                            Geometry values (lon/lat coordinates as an "
+"instance) stored on the geospatial dataset. If not specified on the "
+"geospatial data itself, it\n"
+"                            must be manually declared by the operator."
+msgstr ""
+
+msgid ""
+"Target SRS EPSG Code is optional. This must be used only if we need to re-"
+"project the coordinates from Source SRS to another one.\n"
+"                        "
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: CSV Field Mapping"
+msgstr "Pakia Tabaka Hatua ya 2"
+
+msgid "Geospatial Data"
+msgstr "Data za kijografia"
+
+msgid ""
+"Please indicate which attributes contain the latitude and longitude "
+"coordinates in the CSV data."
+msgstr ""
+"Tafadhali bainisha ni uga upi una namba latitudo na longitudo katika CSV "
+"husika"
+
+#, fuzzy
+#| msgid ""
+#| "With this data, GeoNode was able to guess which attributes contain the\n"
+#| "latitude and longitude coordinates, but please confirm that the correct\n"
+#| "attributes are selected below."
+msgid ""
+"With this data, GeoNode was able to guess which attributes contain the\n"
+"                latitude and longitude coordinates, but please confirm that "
+"the correct\n"
+"                attributes are selected below."
+msgstr ""
+"Katika data hii, GeoNode imejaribu kukadiria sifa zenye latitudo na "
+"longitudo, tafadhali kuthibitisha kama ni sifa sahihi zimechaguliwa hapo "
+"chini."
+
+msgid "Select an attribute"
+msgstr "Kuchagua sifa"
+
+#, fuzzy
+#| msgid ""
+#| "We did not detect columns that could be used for the latitude and "
+#| "longitude.\n"
+#| "Please verify that you have two columns in your csv file that can be used "
+#| "for\n"
+#| "the latitude and longitude."
+msgid ""
+"We did not detect columns that could be used for the latitude and "
+"longitude.\n"
+"        Please verify that you have two columns in your csv file that can be "
+"used for\n"
+"        the latitude and longitude."
+msgstr ""
+"Hatukuwa kuchunguza nguzo ambayo inaweza kutumika kwa ajili ya latitude na "
+"longitude. Tafadhali kuthibitisha kuwa una nguzo mbili katika csv faili yako "
+"ambayo inaweza kutumika kwa ajili ya latitude na longitude."
+
+msgid "Your upload is either complete or you haven't resumed an earlier one."
+msgstr "Upakiaji wako aidha umekamilika au hujarudia uliiopita."
+
+msgid "Return to"
+msgstr "Rudi"
+
+msgid "Upload Form"
+msgstr "Pakia Fomu"
+
+#, fuzzy
+#| msgid "Upload Layer Step 2"
+msgid "Upload Dataset Step: Time"
+msgstr "Pakia Tabaka Hatua ya 2"
+
+msgid "Inspect data for "
+msgstr ""
+
+msgid "Configure as Time-Series"
+msgstr ""
+
+msgid ""
+"Toggling this selector allows you to configure (or not) this data as a time "
+"series; in this case you will also have to select an attribute\n"
+"                      to drive the time dimension.\n"
+"                      <br><br>\n"
+"                      If GeoNode is not able to parse any of the values for "
+"the selected attribute red markers will appear to highlight the problems.\n"
+"                      <br><br>\n"
+"                      More information is provided at the bottom of the page "
+"in the \"Additional Help\" sections.\n"
+"                      "
+msgstr ""
+
+msgid "No"
+msgstr "Hapana"
+
+msgid "Use an existing timestamp attribute in the data"
+msgstr ""
+
+#, fuzzy
+#| msgid "Existing Time Attribute"
+msgid "Yes: with an existing Time-Attribute"
+msgstr "Zilizopo Time Sifa"
+
+msgid ""
+"Yes: by converting data to a timestamp using standard date/time "
+"representation"
+msgstr ""
+
+#, fuzzy
+#| msgid "Convert Number (As Year)"
+msgid "Convert a number field into a year"
+msgstr "Kubadilisha Idadi (Kama ya Mwaka)"
+
+#, fuzzy
+#| msgid "Convert Number (As Year)"
+msgid "Yes: by converting a number as Year"
+msgstr "Kubadilisha Idadi (Kama ya Mwaka)"
+
+msgid ""
+"Convert data to a timestamp using standard date/time representation or a "
+"custom format"
+msgstr ""
+
+msgid "Start Importer"
+msgstr ""
+
+msgid "Date Format"
+msgstr "Tarehe Format"
+
+#, fuzzy
+#| msgid "Attribute Name"
+msgid "Text Attribute Date Format"
+msgstr "Jina la Sifa"
+
+msgid "Best Guess"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+#, fuzzy
+#| msgid "Choose optional end time attribute"
+msgid "Optional End-Time attribute"
+msgstr "Kuchagua hiari mwisho wakati sifa"
+
+msgid "Existing Time Attribute"
+msgstr "Zilizopo Time Sifa"
+
+msgid "Convert Text Attribute"
+msgstr "Kubadilisha Nakala Sifa"
+
+msgid "Convert Number (As Year)"
+msgstr "Kubadilisha Idadi (Kama ya Mwaka)"
+
+#, fuzzy
+#| msgid "attribute description"
+msgid "Time attribute Presentation"
+msgstr "maelezo kuhusu sifa"
+
+msgid "List"
+msgstr "Orodha"
+
+msgid "of all the distinct time values"
+msgstr "ya tofauti maadili wakati wote"
+
+msgid "Intervals"
+msgstr "Vipindi"
+
+msgid "defined by the resolution"
+msgstr "inavyoelezwa na azimio"
+
+msgid "Continuous Intervals"
+msgstr "Vipindi kuendelea"
+
+msgid ""
+"for data that is frequently updated, resolution describes the frequency of "
+"updates"
+msgstr ""
+"kwa data kwamba ni mara nyingi updated, azimio inaeleza frequency ya updates"
+
+msgid "Resolution of time attribute"
+msgstr "Utatuzi wa muda sifa"
+
+msgid "Enabling Time"
+msgstr "Kuwezesha Time"
+
+#, fuzzy
+#| msgid ""
+#| "A feature can currently support one or two time attributes. If a single\n"
+#| "    attribute is used, the feature is considered relevant at that single "
+#| "point in time. If two\n"
+#| "    attributes are used, the second attribute represents the end of a "
+#| "valid period for the\n"
+#| "    feature."
+msgid ""
+"A dataset can support one or two time attributes. If a single\n"
+"                        attribute is used, the dataset is considered to "
+"contain data that is valid at single points in time. If two\n"
+"                        attributes are used, the second attribute represents "
+"the end of a valid period  hence the dataset is considered\n"
+"                        to contain data that is valid at certain periods in "
+"time."
+msgstr ""
+"kipengele unaweza sasa kusaidia moja au mbili sifa wakati. Kama sifa moja ni "
+"kutumika, kipengele ni kuchukuliwa muhimu katika hatua hiyo moja katika "
+"muda. Kama sifa mbili hutumiwa, sifa ya pili inawakilisha mwisho wa kipindi "
+"halali kwa kipengele."
+
+msgid "Selecting an Attribute"
+msgstr "Kuchagua Sifa"
+
+#, fuzzy
+#| msgid "A time attribute can be one of"
+msgid "A time attribute can be"
+msgstr "sifa wakati unaweza kuwa moja ya"
+
+msgid "An existing date"
+msgstr "tarehe zilizopo"
+
+msgid "Text that can be converted to a timestamp"
+msgstr "Nakala ambayo inaweza kuwa waongofu na timestamp"
+
+msgid "A number representing a year"
+msgstr "simu anayewakilisha mwaka"
+
+msgid ""
+"\n"
+"                        For text attributes, one can specify a custom format "
+"(as part of the \"Advanced Options\") or use the 'best guess' approach which "
+"will try to\n"
+"                        automatically translate well-known recognized "
+"patterns into valid times.\n"
+"                        "
+msgstr ""
+
+msgid "The 'best guess' will handle date and optional time variants of"
+msgstr "'Nadhani bora' kushughulikia tarehe na wakati hiari variants ya"
+
+msgid "In terms of the formatting flags noted above, these are"
+msgstr "Katika suala la bendera formatting ilivyoelezwa hapo juu, hizi ni"
+
+msgid "Modal Header"
+msgstr ""
+
+msgid "Some text in the modal"
+msgstr ""
+
+msgid " does NOT match any valid ISO-8601 Date-Time string!"
+msgstr ""
+
+msgid "Valid ISO-8601 for"
+msgstr ""
+
+msgid "matches a valid ISO-8601 Date-Time string!"
+msgstr ""
+
+msgid "Not Valid ISO-8601 for"
+msgstr ""
+
+msgid "does NOT match any valid ISO-8601 Date-Time string!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Your selections"
+msgid "Wrong Selection"
+msgstr "Your selections"
+
+msgid "Please, select one Time Attribute to test!"
+msgstr ""
+
+msgid ""
+"Returning to the upload starting page in <span id=\"cnt\">5</span>seconds "
+msgstr ""
+"Kurudi kwenye ukurasa upload kuanzia katika sekunde <span id=\"cnt\">5</span>"
+
+msgid " Or just go "
+msgstr "Au tu kwenda"
+
+msgid "now"
+msgstr "sasa"
+
+#, python-brace-format
+msgid "You are attempting to {action_type} a vector dataset with a raster."
+msgstr ""
+
+#, python-brace-format
+msgid "You are attempting to {action_type} a raster dataset with a vector."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"You are attempting to {action_type} a vector dataset with an unknown format."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Please ensure the name is consistent with the file you are trying to "
+"{action_type}."
+msgstr ""
+
+msgid "Local GeoNode dataset has no geometry type."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"Please ensure there is at least one geometry "
+"type                             that is consistent with the file you are "
+"trying to {action_type}."
+msgstr ""
+
+msgid "The selected Dataset does not exists in the catalog."
+msgstr ""
+
+msgid "Please ensure that the dataset structure is consistent "
+msgstr ""
+
+msgid ""
+"Some error occurred while trying to access the uploaded schema: {str(e)}"
+msgstr ""
+
+msgid ""
+"There was an error while attempting to upload your data. Please try again, "
+"or contact and administrator if the problem continues."
+msgstr ""
+"Kulitokea hitilafu katika kujaribu kuakia data yako. Tafadhali jaribu tena, "
+"au wasiliana na msimamizi kama tatizo litaendelea."
+
+msgid ""
+"Note: this dataset's orginal metadata was populated and preserved by "
+"importing a metadata XML file. This metadata cannot be edited."
+msgstr ""
+
+#, fuzzy
+#| msgid "You are not permitted to delete this layer"
+msgid "You are not permitted to delete this dataset"
+msgstr "Huna kibali cha kufuta tabaka hili"
+
+#, fuzzy
+#| msgid "You do not have permissions for this layer."
+msgid "You do not have permissions for this dataset."
+msgstr "Huna kibali cha tabaka hili"
+
+#, fuzzy
+#| msgid "You are not permitted to modify this layer"
+msgid "You are not permitted to modify this dataset"
+msgstr "Huna kibali cha kubadilisha kitu katika tabaka hili"
+
+#, fuzzy
+#| msgid "You are not permitted to modify this layer's metadata"
+msgid "You are not permitted to modify this dataset's metadata"
+msgstr "Huna kibali cha kubadilisha metadata za tabaka hili"
+
+#, fuzzy
+#| msgid "You are not permitted to view this layer"
+msgid "You are not permitted to view this dataset"
+msgstr "Huna kibali cha kutazama tabaka  hili"
+
+msgid ""
+"This dataset is a member of a layer group, you must remove the dataset from "
+"the group before deleting."
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Remote Thumbnail"
+msgid "couldn't generate thumbnail: %s"
+msgstr "Remote Thumbnail"
+
+msgid "Map Created"
+msgstr "Ramani Imetengenezwa"
+
+#, fuzzy
+#| msgid "A map was commented on"
+msgid "A Map was created"
+msgstr "ramani ilikuwa maoni juu ya"
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "Map Updated"
+msgstr "Ramani Imetengenezwa"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A Map was updated"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Map Approved"
+msgstr "Haijaainishwa"
+
+msgid "A Map was approved by a Manager"
+msgstr ""
+
+#, fuzzy
+#| msgid "Published From"
+msgid "Map Published"
+msgstr "Toleo kutoka"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A Map was published"
+msgstr "Ramani umefutwa"
+
+msgid "Map Deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A Map was deleted"
+msgstr "Ramani umefutwa"
+
+msgid "Comment on Map"
+msgstr "Maoni juu ya Ramani"
+
+msgid "A map was commented on"
+msgstr "ramani ilikuwa maoni juu ya"
+
+msgid "Rating for Map"
+msgstr "Rating kwa Ramani"
+
+msgid "A rating was given to a map"
+msgstr "rating ilitolewa kwa ramani"
+
+msgid "Featured Map URL"
+msgstr "Matukio ya Ramani URL"
+
+msgid "stack order"
+msgstr "Ili stack"
+
+#, fuzzy
+#| msgid "format"
+msgid "format"
+msgstr "muundo"
+
+msgid "name"
+msgstr "jina"
+
+msgid "store"
+msgstr ""
+
+msgid "opacity"
+msgstr "opacity"
+
+msgid "styles"
+msgstr "mitindo"
+
+msgid "transparent"
+msgstr "uwazi"
+
+msgid "fixed"
+msgstr "fasta"
+
+#, fuzzy
+#| msgid "group"
+msgid "group"
+msgstr "kundi"
+
+msgid "visibility"
+msgstr "muonekano"
+
+msgid "ows URL"
+msgstr "ows URL"
+
+msgid "layer params"
+msgstr "safu zilizounganishwa"
+
+msgid "source params"
+msgstr "chanzo zilizounganishwa"
+
+msgid "Map layers WMS GetCapabilities document"
+msgstr ""
+
+msgid "Rate this Map"
+msgstr "Thaminisha Ramani hii"
+
+msgid "Download Map"
+msgstr "Download Ramani"
+
+msgid "Map"
+msgid_plural "Maps"
+msgstr[0] "Ramani"
+msgstr[1] "Ramani"
+
+msgid "Map Layers"
+msgstr "Ramani tabaka"
+
+msgid "This map uses the following layers:"
+msgstr "Ramani hii inatumia tabaka yafuatayo:"
+
+msgid "Documents related to this map"
+msgstr "Nyaraka kuhusiana na ramani hii"
+
+msgid "List of documents related to this map:"
+msgstr "Orodha ya nyaraka kuhusiana na ramani hii:"
+
+msgid "Change Permissions of this Map"
+msgstr "Change Permissions ya Ramani hii"
+
+msgid "Copy this map"
+msgstr "Nakili ramani hii"
+
+msgid "Duplicate this map and modify it for your own purposes"
+msgstr "Duplicate ramani hii na kurekebisha kwa madhumuni yako mwenyewe"
+
+msgid "Create a New Map"
+msgstr "Tengeneza ramani mpya"
+
+msgid ""
+"\n"
+"      Here you can download all the layers of this map that\n"
+"      are hosted on this GeoNode.\n"
+"    "
+msgstr ""
+"\n"
+"Hapa unaweza kupakua matabaka yote ya ramani hii yanayopatikana kwenye "
+"GeoNode hii."
+
+msgid ""
+"\n"
+"      <div class=\"alert alert-warning\">Could not find downloadable layers "
+"for this map. You can go back to  \n"
+"      "
+msgstr ""
+"\n"
+"<div class=\"alert alert-warning\"> Haikuwezekana kupata tabaka linalofaa "
+"kupakua kwa ramani hii. Unaweza kurudi nyuma"
+
+msgid ""
+"\n"
+"        Additionally, the map contains these layers which will not be "
+"downloaded\n"
+"        due to security restrictions:\n"
+"      "
+msgstr ""
+"\n"
+"Zaidi ya hayo, ramani ina matabaka haya ambayo hayawezi kupakuliwa kutokana "
+"na sababu za kiusalama:"
+
+msgid ""
+"\n"
+"        Finally, the map contains these layers which will not be downloaded\n"
+"        because they are not available directly from this GeoNode:\n"
+"      "
+msgstr ""
+"\n"
+"Hatimaye, Ramani ina matabaka haya ambayo hayawezi kupakuliwa kwa sababu "
+"hayapo moja kwa moja kutoka GeoNode hii:"
+
+msgid "Downloading"
+msgstr "Kupakua"
+
+msgid "Retry"
+msgstr "Jaribu tena"
+
+msgid "Start downloading this map"
+msgstr "Anza kupakua ramani hii"
+
+msgid "Download Complete"
+msgstr "Upakuzi umekamilika"
+
+msgid "Download Failed"
+msgstr "Upakuzi umeshindikana"
+
+msgid "Edit Map"
+msgstr "Hariri Ramani"
+
+msgid "Explore Maps"
+msgstr "Peruzi Ramani"
+
+msgid ""
+"Note: this map's orginal metadata was populated by importing a metadata XML "
+"file.\n"
+"        GeoNode's metadata import supports a subset of ISO, FGDC, and Dublin "
+"Core metadata elements.\n"
+"        Some of your original metadata may have been lost."
+msgstr ""
+"Kumbuka: metadata halisi za ramani hii zilipatikana kwa kuleta fail la XML "
+"la metadata.\n"
+"geonode inawezesha uletaji wa sehemu ya metadata za  ISO, FGDC, na Dublin "
+"Core.\n"
+"Baadhi ya metadata halisi zinaweza kuwa zimepotea"
+
+#, fuzzy
+#| msgid "Return to"
+msgid "Return to Map"
+msgstr "Rudi"
+
+msgid "Remove Map"
+msgstr ""
+
+#, python-format
+msgid ""
+"\n"
+"          Are you sure you want to remove <a href=\"%(map.get_absolute_url)s"
+"\">%(map_title)s</a>?\n"
+"        "
+msgstr ""
+
+msgid "You are not permitted to delete this map."
+msgstr "You hawaruhusiwi kufuta ramani hii."
+
+msgid "You do not have permissions for this map."
+msgstr "Huna ruhusa kwa ramani hii."
+
+msgid "You must be logged in to save this map"
+msgstr "Ni lazima uwe watumiaji katika kuokoa ramani hii"
+
+msgid "You are not permitted to save or edit this map."
+msgstr "Wewe hawaruhusiwi kuokoa au hariri ramani hii."
+
+msgid "You are not allowed to modify this map's metadata."
+msgstr "Wewe hawaruhusiwi kurekebisha metadata ya ramani hii."
+
+msgid "You are not allowed to view this map."
+msgstr "Wewe hawaruhusiwi kuangalia ramani hii."
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "error saving thumbnail"
+msgstr "Thumbnail"
+
+msgid "Message received"
+msgstr ""
+
+msgid "New message received in one of your threads"
+msgstr ""
+
+msgid "Monitoring alert"
+msgstr ""
+
+msgid "Alert situation reported by monitoring"
+msgstr ""
+
+msgid "GeoNode Monitoring on {base_ctx['host']} "
+msgstr ""
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Enter valid email addresses."
+msgstr "Anuani ya barua pepe"
+
+msgid "Show list of services"
+msgstr ""
+
+msgid ""
+"Process data since specific timestamp (YYYY-MM-DD HH:MM:SS format). If not "
+"provided, last sync will be used."
+msgstr ""
+
+msgid ""
+"Process data until specific timestamp (YYYY-MM-DD HH:MM:SS format). If not "
+"provided, now will be used."
+msgstr ""
+
+msgid "Force check"
+msgstr ""
+
+msgid "Format of audit log (xml, json)"
+msgstr ""
+
+msgid ""
+"Should old data be preserved (default: no, data older than settings."
+"MONITORING_DATA_TTL will be removed)"
+msgstr ""
+
+msgid "Should stop on first error occured (default: no)"
+msgstr ""
+
+msgid "Should process and send notifications as well (default: no)"
+msgstr ""
+
+msgid "Collect data from this service only"
+msgstr ""
+
+msgid "Show list of metrics"
+msgstr ""
+
+msgid "Show list of labels for metric"
+msgstr ""
+
+#, fuzzy
+#| msgid "List of resources using this document:"
+msgid "Show list of resources for metric"
+msgstr "Orodha ya rasilimali zinazotumia hati hii"
+
+msgid "Data aggregation interval in seconds (default: 60)"
+msgstr ""
+
+#, fuzzy
+#| msgid "attribute name"
+msgid "Metric name"
+msgstr "jina la sifa"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific resource in resource_type=resource_name format"
+msgstr "tarehe rejea kwa ajili ya rasilimali alitoa"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific resource"
+msgstr "tarehe rejea kwa ajili ya rasilimali alitoa"
+
+#, fuzzy
+#| msgid "reference date for the cited resource"
+msgid "Show data for specific label"
+msgstr "tarehe rejea kwa ajili ya rasilimali alitoa"
+
+#, python-brace-format
+msgid "Write result to file, default GEOIP_PATH: {settings.GEOIP_PATH}"
+msgstr ""
+
+msgid ""
+"Fetch database from specific url. If nothing provided, default {} will be "
+"used"
+msgstr ""
+
+msgid "Overwrite file if exists"
+msgstr ""
+
+msgid "GeoNode"
+msgstr "GeoNode"
+
+msgid "GeoServer"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "GeoServer"
+msgid "Host (GeoServer)"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "About GeoNode"
+msgid "Host (GeoNode)"
+msgstr "Kuhusu GeoNode"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "No resource"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource base"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Styles"
+msgid "Style"
+msgstr "Mitindo"
+
+msgid "Admin"
+msgstr "Utawala"
+
+msgid "Other"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+#, fuzzy
+#| msgid "count"
+msgid "Count"
+msgstr "hesabu"
+
+msgid "Value"
+msgstr ""
+
+msgid "Value numeric"
+msgstr ""
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Kilobytes"
+msgstr ""
+
+msgid "Megabytes"
+msgstr ""
+
+msgid "Gigabytes"
+msgstr ""
+
+msgid "Bytes per second"
+msgstr ""
+
+msgid "Kilobytes per second"
+msgstr ""
+
+msgid "Megabytes per second"
+msgstr ""
+
+msgid "Gigabytes per second"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+#, fuzzy
+#| msgid "local OWS"
+msgid "Not OWS"
+msgstr "local OWS"
+
+msgid "Any OWS"
+msgstr ""
+
+msgid "Change"
+msgstr "Badilisha"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "Change Metadata"
+msgstr "Hariri Metadata"
+
+#, fuzzy
+#| msgid "Edit Metadata"
+msgid "View Metadata"
+msgstr "Hariri Metadata"
+
+#, fuzzy
+#| msgid "Public"
+msgid "Publish"
+msgstr "Umma "
+
+#, fuzzy
+#| msgid "GeoServer"
+msgid "Geoserver event"
+msgstr "GeoServer"
+
+#, fuzzy
+#| msgid "List of resources using this document:"
+msgid "List of resources affected"
+msgstr "Orodha ya rasilimali zinazotumia hati hii"
+
+#, fuzzy
+#| msgid "Resource using this document"
+msgid "Response processing time in ms"
+msgstr "Rasilimali zinazotumia hati hii"
+
+msgid "1 minute"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Fatal"
+msgstr ""
+
+msgid "Expected min/max values for user configuration"
+msgstr ""
+
+msgid "Marker of last delivery"
+msgstr ""
+
+msgid "Minimum time between subsequent notifications"
+msgstr ""
+
+msgid "How severe would be error from this notification"
+msgstr ""
+
+msgid "Is it active"
+msgstr ""
+
+#, python-brace-format
+msgid "{self.severity}: {self.name}"
+msgstr ""
+
+msgid "Value must be above"
+msgstr ""
+
+msgid "Value must be below"
+msgstr ""
+
+msgid "Last update must not be older than"
+msgstr ""
+
+msgid "Max timeout for given metric before error should be raised"
+msgstr ""
+
+msgid "Monitoring & Analytics"
+msgstr ""
+
+msgid "Only superusers can monitor performance"
+msgstr ""
+
+msgid "Hi,"
+msgstr ""
+
+msgid "Monitoring on"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following groups:"
+msgid "has detected following problems :"
+msgstr "Makundi yafuatayo:"
+
+msgid "spotted"
+msgstr ""
+
+msgid "ago"
+msgstr "iliyopita"
+
+msgid "emerged"
+msgstr ""
+
+msgid "User following you"
+msgstr "matumiaji anayekufuatilia"
+
+#, fuzzy
+#| msgid "This user is not following anyone"
+msgid "Another user has started following you"
+msgstr "User Hii si kufuatia mtu yeyote"
+
+msgid "User requested access"
+msgstr ""
+
+msgid "A new user has requested access to the site"
+msgstr ""
+
+#, fuzzy
+#| msgid "Recent activity"
+msgid "Account activated"
+msgstr "Matukio ya hivi karibuni"
+
+msgid "This account is now active and can log in the site"
+msgstr ""
+
+msgid "Personal info"
+msgstr "Maelezo binafsi"
+
+msgid "Important dates"
+msgstr "Tarehe muhimu"
+
+#, fuzzy
+#| msgid "Edit profile"
+msgid "Extended profile"
+msgstr "Hariri wasifu"
+
+msgid "Password changed successfully."
+msgstr "Nenosiri limebadilishwa kwa mafanikio."
+
+#, python-format
+msgid "Change password: %s"
+msgstr "Badilisha nenosiri: %s"
+
+msgid "party who authored the resource"
+msgstr "upande wa uwandishi wa rasilimali"
+
+msgid ""
+"party who has processed the data in a manner such that the resource has been "
+"modified"
+msgstr "Upande ambao umechakata data"
+
+msgid "party who published the resource"
+msgstr "chama ambao kuchapishwa rasilimali"
+
+msgid ""
+"party that accepts accountability and responsibility for the data and "
+"ensures         appropriate care and maintenance of the resource"
+msgstr ""
+"chama kwamba anapokea uwajibikaji kwa data na kuhakikisha huduma sahihi na "
+"matengenezo ya rasilimali"
+
+msgid ""
+"party who can be contacted for acquiring knowledge about or acquisition of "
+"the resource"
+msgstr ""
+"chama ambao wanaweza kupatikana kwa ajili ya kupata elimu juu ya au "
+"upatikanaji wa rasilimali"
+
+msgid "party who distributes the resource"
+msgstr "upande unaosambaza rasilimali"
+
+msgid "party who uses the resource"
+msgstr "upande unaotumia rasilimali"
+
+msgid "party that supplies the resource"
+msgstr "Upande unaotoa rasilimali"
+
+msgid "party who created the resource"
+msgstr "upande uliounda rasilimali"
+
+msgid "party that owns the resource"
+msgstr "upande unaomiliki rasilimali"
+
+msgid "key party responsible for gathering information and conducting research"
+msgstr "pande muhimu zinazohusika na ukusanyaji wa taarifa na kufanya utafiti"
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Email Address"
+msgstr "Anuani ya barua pepe"
+
+#, fuzzy
+#| msgid "Organization Name"
+msgid "Organization Name"
+msgstr "Jina shirika"
+
+msgid "name of the responsible organization"
+msgstr "jina la shirika husika"
+
+msgid "Profile"
+msgstr "Wasifu"
+
+msgid "introduce yourself"
+msgstr "kuanzisha mwenyewe"
+
+msgid "Position Name"
+msgstr "Jina Position"
+
+msgid "role or position of the responsible person"
+msgstr "cheo au nafasi ya anayehusika"
+
+msgid "Voice"
+msgstr "Sauti"
+
+msgid ""
+"telephone number by which individuals can speak to the responsible "
+"organization or individual"
+msgstr "namba ya simu ambayo watu wanaweza kuzungumza na shirika au mtu husika"
+
+msgid "Facsimile"
+msgstr "Nukushi"
+
+msgid ""
+"telephone number of a facsimile machine for the responsible organization or "
+"individual"
+msgstr "namba ya simu ya mashine ya nukushi kwa shirika au mtu husika"
+
+msgid "Delivery Point"
+msgstr "Sehemu ya kuchukulia"
+
+msgid ""
+"physical and email address at which the organization or individual may be "
+"contacted"
+msgstr "anuani ya eneo na barua pepe kwa mawasiliano na shirika au mtu binafsi"
+
+msgid "City"
+msgstr "Jiji"
+
+msgid "city of the location"
+msgstr "jiji la eneo"
+
+msgid "Administrative Area"
+msgstr "Tawala Area"
+
+msgid "state, province of the location"
+msgstr "serikali, jimbo la eneo"
+
+msgid "Postal Code"
+msgstr "Sanduku la posta"
+
+msgid "ZIP or other postal code"
+msgstr "ZIP au nyingine code ya posta"
+
+#, fuzzy
+#| msgid "count"
+msgid "Country"
+msgstr "hesabu"
+
+msgid "country of the physical address"
+msgstr "nchi ya anwani ya kimwili"
+
+msgid ""
+"commonly used word(s) or formalised word(s) or phrase(s) used to describe "
+"the subject             (space or comma-separated"
+msgstr ""
+"kawaida kutumika neno (s) au rasmi neno (s) au maneno (s) linalotumiwa somo "
+"(nafasi au koma"
+
+msgid "Timezone"
+msgstr ""
+
+msgid "No Group"
+msgstr "Hakuna Kundi"
+
+msgid "All contents"
+msgstr "Yote yaliyomo"
+
+#, fuzzy
+#| msgid "Organization Name"
+msgid "No Organization Info"
+msgstr "Jina shirika"
+
+msgid "Forgot Username"
+msgstr "Umesahau Jina la mtumiaji"
+
+msgid ""
+"Enter your email address and click the submit button. <br />Your username "
+"will be sent to you."
+msgstr ""
+
+msgid "Create Profile"
+msgstr "Tengeneza Wasifu"
+
+msgid "Profile of "
+msgstr "Wasifu wa "
+
+msgid "Not provided."
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Not provided"
+msgstr "Haijaainishwa"
+
+msgid "Fax"
+msgstr ""
+
+msgid "User layers WMS GetCapabilities document"
+msgstr ""
+
+msgid "Message User"
+msgstr ""
+
+msgid "Edit profile"
+msgstr "Hariri wasifu"
+
+msgid "Connected social accounts"
+msgstr ""
+
+msgid "Associated e-mails"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "Set/Change password"
+msgstr "Change password"
+
+msgid "Upload new layers"
+msgstr "pakia matabaka mapya"
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new layer"
+msgstr "Tengeneza ramani mpya"
+
+#, fuzzy
+#| msgid "Upload Document"
+msgid "Upload new document"
+msgstr "Pakia hati"
+
+msgid "Create a new map"
+msgstr "Tengeneza ramani mpya"
+
+msgid "My Activities"
+msgstr "Matukio yangu"
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Announcements"
+msgstr "Matangazo"
+
+#, fuzzy
+#| msgid "Invite User"
+msgid "Invite Users"
+msgstr "Alika Mtu"
+
+msgid "User Activities"
+msgstr "Matukio ya mtumiaji"
+
+msgid "Resources"
+msgstr "Rasilimali"
+
+msgid "Edit Your Profile"
+msgstr "Hariri Wasifu wako"
+
+msgid "Edit Profile for"
+msgstr ""
+
+msgid "Change your avatar"
+msgstr "Badilisha ya avatar yako"
+
+msgid "Update profile"
+msgstr "Sasisha wasifu"
+
+msgid "Explore People"
+msgstr "Peruzi Watu"
+
+#, fuzzy, python-brace-format
+#| msgid "Your username for "
+msgid "Your username for {site.name}"
+msgstr "Jina la mtumiaji la"
+
+msgid "Your username has been emailed to you."
+msgstr "Umetumiwa jina lako la mtuniaji."
+
+msgid "No user could be found with that email address."
+msgstr "Hakuna mtumiaji mwenye barua pepe hiyo aliyepatikana"
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You are not permitted to save or edit this resource."
+msgstr "Wewe hawaruhusiwi kuokoa au hariri ramani hii."
+
+#, fuzzy
+#| msgid "You are not allowed to view this document."
+msgid "You are not authorized to download this resource."
+msgstr "Hauruhusiwi kutazama hati hii"
+
+msgid ""
+"No files have been found for this resource. Please, contact a system "
+"administrator."
+msgstr ""
+
+#, fuzzy
+#| msgid "Documents"
+msgid "No files found."
+msgstr "Hati"
+
+#, fuzzy
+#| msgid "Not provided"
+msgid "Not Authorized"
+msgstr "Haijaainishwa"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Resource Processing Library"
+msgstr "Msaada kuhusu Geonode"
+
+msgid "Disabling this Task will make the Processing Workflow to skip it."
+msgstr ""
+
+msgid "Processing Workflow Tasks"
+msgstr ""
+
+msgid "Session is Expired. Please login again!"
+msgstr ""
+
+msgid "Permissions successfully updated!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Permissions"
+msgid "Error updating permissions :("
+msgstr "Vibali"
+
+#, fuzzy
+#| msgid "You do not have permissions for this layer."
+msgid "You are not allowed to change permissions for this resource"
+msgstr "Huna kibali cha tabaka hili"
+
+msgid "Security Rules Cache Refreshed!"
+msgstr ""
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You cannot modify this resource!"
+msgstr "Wewe hawaruhusiwi kuokoa au hariri ramani hii."
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Attributes/Stats Refreshed Successfully!"
+msgstr "Nenosiri limebadilishwa kwa mafanikio."
+
+msgid "GeoWebCache Tiled Layer Emptied!"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Wrong permissions specification"
+msgstr "Idhinisha ruhusa"
+
+#, fuzzy
+#| msgid "Change password: %s"
+msgid "error delivering notification"
+msgstr "Badilisha nenosiri: %s"
+
+msgid "Auto-detect"
+msgstr "Baini kiautomatiki"
+
+msgid "Paired WMS/WFS/WCS"
+msgstr "Jozi WMS / WFS / WCS"
+
+msgid "Web Map Service"
+msgstr "Huduma ya Ramani kwa Wavuti"
+
+msgid "Catalogue Service"
+msgstr "Huduma ya Catalogue"
+
+#, fuzzy
+#| msgid "ArcGIS REST Service"
+msgid "ArcGIS REST MapServer"
+msgstr "Huduma ya REST ya ArcGIS "
+
+#, fuzzy
+#| msgid "ArcGIS REST Service"
+msgid "ArcGIS REST ImageServer"
+msgstr "Huduma ya REST ya ArcGIS "
+
+msgid "OpenGeoPortal"
+msgstr "OpenGeoPortal"
+
+msgid "Harvard Geospatial Library"
+msgstr "Maktaba ya kijiografia ya Harvard"
+
+#, fuzzy
+#| msgid "GeoNode's Web Services"
+msgid "GeoNode (Web Map Service)"
+msgstr "Huduma za GeoNode kwa mtandao"
+
+#, fuzzy
+#| msgid "Catalogue Service"
+msgid "GeoNode (Catalogue Service)"
+msgstr "Huduma ya Catalogue"
+
+msgid "Service URL"
+msgstr "URL ya Huduma"
+
+msgid "Service Type"
+msgstr "Aina ya huduma"
+
+#, fuzzy, python-format
+#| msgid "service interfaces"
+msgid "Service %(url)s is already registered"
+msgstr "kusano za huduma"
+
+#, python-format
+msgid "Could not connect to the service at %(url)s"
+msgstr ""
+
+#, python-format
+msgid "Could not find importable resources for the service at %(url)s"
+msgstr ""
+
+#, python-format
+msgid "Found service of type %(found_type)s instead of %(service_type)s"
+msgstr ""
+
+msgid "Local"
+msgstr "Local"
+
+msgid "Cascaded"
+msgstr "Cascaded"
+
+msgid "Harvested"
+msgstr "Kuvuna"
+
+msgid "Indexed"
+msgstr "Indexed"
+
+msgid "Live"
+msgstr "Moja kwa moja"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Resource is queued"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Remote service unavailable"
+msgstr "Huduma ukiwa mbali"
+
+msgid "Service unavailable"
+msgstr ""
+
+#, fuzzy
+#| msgid "Point of Contact"
+msgid "Could not contact"
+msgstr "Mawasiliano"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Contact"
+msgstr "Mawasiliano:"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Service Resources"
+msgstr "Rasilimali"
+
+msgid "No resources have been imported yet."
+msgstr ""
+
+#, fuzzy
+#| msgid "Retry"
+msgid "Retry job"
+msgstr "Jaribu tena"
+
+msgid "previous"
+msgstr ""
+
+msgid "next"
+msgstr ""
+
+msgid "Connecting to service..."
+msgstr ""
+
+msgid "Edit Service Metadata"
+msgstr "Hariri Metadata za Huduma"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Import Service Resources"
+msgstr "Huduma ukiwa mbali"
+
+msgid "Remove Service"
+msgstr "Ondoa Huduma"
+
+msgid "Edit Service"
+msgstr ""
+
+msgid "Services"
+msgstr "Huduma"
+
+#, fuzzy
+#| msgid "Remote Services"
+msgid "Add Remote Service"
+msgstr "Huduma ukiwa mbali"
+
+msgid "Remote Services"
+msgstr "Huduma ukiwa mbali"
+
+#, fuzzy
+#| msgid "service interfaces"
+msgid "No services registered"
+msgstr "kusano za huduma"
+
+#, fuzzy
+#| msgid "Register a new Service"
+msgid "Register Service"
+msgstr "Sajili Huduma mpya"
+
+msgid "Register New Service"
+msgstr ""
+
+msgid "Service has been created:"
+msgstr "Huduma imeanzishwa:"
+
+msgid "The following layers will be imported"
+msgstr "Matabaka yafuatayo yataingizwa"
+
+msgid "Remove Remote Service"
+msgstr ""
+
+msgid "Are you sure you want to remove"
+msgstr "Je, una uhakika unataka kuondoa"
+
+msgid "Deleting service and its associated resources..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Import resources"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "now"
+msgid "no"
+msgstr "sasa"
+
+msgid "resources can be imported"
+msgstr ""
+
+msgid "- These will be cascaded through your local geoserver instance"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+#, fuzzy
+#| msgid "Clear all filters"
+msgid "Clear Filter"
+msgstr "Clear all filters"
+
+msgid "Back to service details"
+msgstr ""
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Import Resources"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Preview"
+msgid "Previous"
+msgstr "Hakiki"
+
+msgid "All resources have already been imported"
+msgstr ""
+
+msgid "Harvesting resources..."
+msgstr ""
+
+msgid "Re-scan Service for new Resources"
+msgstr ""
+
+#, fuzzy
+#| msgid "service interfaces"
+msgid "Service registered successfully"
+msgstr "kusano za huduma"
+
+msgid "The selected resources are being imported"
+msgstr ""
+
+msgid "The selected resources have been imported"
+msgstr ""
+
+msgid "Resource is already being processed"
+msgstr ""
+
+#, fuzzy, python-brace-format
+#| msgid "Resources"
+msgid "Resource {resource_id} is being processed"
+msgstr "Rasilimali"
+
+#, fuzzy
+#| msgid "Password changed successfully."
+msgid "Service rescanned successfully"
+msgstr "Nenosiri limebadilishwa kwa mafanikio."
+
+#, fuzzy
+#| msgid "You are not permitted to save or edit this map."
+msgid "You dont have enougth rigths to see the resource detail"
+msgstr "Wewe hawaruhusiwi kuokoa au hariri ramani hii."
+
+#, fuzzy
+#| msgid "You are not permitted to remove this service."
+msgid "You are not permitted to change this service."
+msgstr "Hauruhusiwi kuondoa huduma hii."
+
+msgid "You are not permitted to remove this service."
+msgstr "Hauruhusiwi kuondoa huduma hii."
+
+#, fuzzy, python-brace-format
+#| msgid "Service has been created:"
+msgid "Service {service.name} has been deleted"
+msgstr "Huduma imeanzishwa:"
+
+msgid "created"
+msgstr "kuundwa"
+
+msgid "deleted"
+msgstr "kufutwa"
+
+#, fuzzy
+#| msgid "Update"
+msgid "updated"
+msgstr "Kusasisha"
+
+msgid "added a comment"
+msgstr "maoni yameingizwa"
+
+msgid "updated a comment"
+msgstr "maoni yamesasishwa"
+
+msgid "uploaded"
+msgstr "kupakiwa"
+
+msgid "Recent activity"
+msgstr "Matukio ya hivi karibuni"
+
+msgid "to"
+msgstr "kwa"
+
+msgid "on"
+msgstr "juu ya"
+
+msgid "Not Permitted"
+msgstr "Hairuhusiwi"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "          You are not allowed to perform this operation.  \n"
+#| "      "
+msgid ""
+"\n"
+"          You are not allowed to perform this operation.\n"
+"      "
+msgstr ""
+"\n"
+"Hauruhusiwi kufanya mchakato huu.\n"
+" "
+
+msgid "Please verify that you are logged in as the correct user."
+msgstr "Tafadhali thibitisha kwamba umeingia kama mtumiaji sahihi."
+
+msgid "Please login or register and retry."
+msgstr "Tafadhali ingia au jisajili na kisha jaribu tena."
+
+msgid "Page Not Found"
+msgstr "Ukurasa Haukupatikana"
+
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "      The page you requested does not exist.  Perhaps you are using an "
+#| "outdated bookmark?\n"
+#| "  "
+msgid ""
+"\n"
+"          The page you requested does not exist.  Perhaps you are using an "
+"outdated bookmark?\n"
+"      "
+msgstr ""
+"\n"
+"Ukurasa uliouhitaaji haupo. Labda unatumia alamisho lilipitwa na wakati?\n"
+" "
+
+msgid "Toggle navigation"
+msgstr ""
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Datasets"
+msgstr "kanzidata"
+
+msgid "People"
+msgstr "Watu"
+
+msgid "Search"
+msgstr "Tafuta"
+
+msgid "Register"
+msgstr "Jisajili"
+
+msgid "Sign in"
+msgstr "Ingia"
+
+msgid "You are using an outdated browser that is not supported by GeoNode."
+msgstr ""
+
+msgid ""
+"Please use a <strong>modern browser</strong> like Mozilla Firefox, Google "
+"Chrome or Safari."
+msgstr ""
+
+msgid "There was a problem loading this page"
+msgstr "Kuna hitilafu imejitokeza katika upakiaji wa ukurasa huu"
+
+msgid ""
+"\n"
+"            Please contact your GeoNode administrator (they may have "
+"received an email automatically if they configured it properly).\n"
+"            If you are the site administrator, enable debug mode to see the "
+"actual error and fix it or file an issue in <a href=\"http://github.com/"
+"GeoNode/geonode/issues\">GeoNode's issue tracker</a>\n"
+"            "
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new dataset"
+msgstr "Tengeneza ramani mpya"
+
+#, fuzzy
+#| msgid "Create a Map"
+msgid "Create Map"
+msgstr "Tengeneza Ramani"
+
+#, fuzzy
+#| msgid "User"
+#| msgid_plural "Users"
+msgid "Add User"
+msgstr "Mtumiaji"
+
+msgid "Powered by"
+msgstr "Imewezeshwa na"
+
+msgid "version"
+msgstr "toleo"
+
+msgid "Developers"
+msgstr "Waandaaji"
+
+msgid "Username"
+msgstr "Jina la mtumiaji"
+
+msgid "Password"
+msgstr "Nenosiri"
+
+msgid "Remember Me"
+msgstr "Nikumbuke"
+
+msgid "Menu"
+msgstr ""
+
+msgid "Recent Activity"
+msgstr "Matukio ya hivi karibuni"
+
+msgid "Inbox"
+msgstr "Kikasha"
+
+msgid "Help"
+msgstr "Msaada"
+
+msgid "Log out"
+msgstr "Ondoka"
+
+msgid "Info"
+msgstr "Taarifa"
+
+msgid "Granules"
+msgstr ""
+
+msgid "Share"
+msgstr "Shirikisha"
+
+msgid "Ratings"
+msgstr "Ratings"
+
+msgid "Exif"
+msgstr ""
+
+msgid "Set permissions on selected resources"
+msgstr "Ruhusa ya kuweka juu ya rasilimali aliliteua"
+
+msgid "Apply Changes"
+msgstr "Fanya Mabadiliko"
+
+msgid "total"
+msgstr ""
+
+msgid "Add Comment"
+msgstr "Toa Maoni"
+
+msgid "Log in to add a comment"
+msgstr "Ingia ili kutoa maoni"
+
+msgid "By"
+msgstr "Kutoka kwa"
+
+msgid "Submit Comment"
+msgstr ""
+
+msgid "Who can view it?"
+msgstr "Nani anaweza kuona?"
+
+msgid "Anyone"
+msgstr "Mtu yeyote"
+
+msgid "The following users:"
+msgstr "Watumiaji wafuatao:"
+
+msgid "The following groups:"
+msgstr "Makundi yafuatayo:"
+
+msgid "Who can download it?"
+msgstr "Nani anaweza kupakua?"
+
+msgid "Who can change metadata for it?"
+msgstr "Nani anaweza kubadili metadata zake?"
+
+#, fuzzy
+#| msgid "Who can edit data for this layer?"
+msgid "Who can edit data for this dataset?"
+msgstr "Nani anaweza kuhariri data za tabaka hili?"
+
+#, fuzzy
+#| msgid "Who can edit styles for this layer?"
+msgid "Who can edit styles for this dataset?"
+msgstr "Nani anaweza kubadilisha mtindo wa tabaka hili?"
+
+msgid ""
+"Who can manage it? (update, delete, change permissions, publish/unpublish it)"
+msgstr ""
+"Nani anaweza kuratibu? (kusasisha, kufuta, kubadilisha ruhusa, kutoa au "
+"kusitisha utoaji wake)"
+
+msgid "Set permissions for this resource"
+msgstr "Seti ruhusa kwa rasilimali hii"
+
+#, fuzzy
+#| msgid "Explore Groups"
+msgid "People and Groups"
+msgstr "Peruzi Makundi"
+
+msgid "Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "User"
+#| msgid_plural "Users"
+msgid "Users"
+msgstr "Mtumiaji"
+
+msgid "Show Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "Upload Documents"
+msgid "Upload Geo Limits"
+msgstr "Pakia Hati"
+
+msgid "Save Geo Limits"
+msgstr ""
+
+#, fuzzy
+#| msgid "Delete These"
+msgid "Delete Geo Limits"
+msgstr "Futa hizi"
+
+#, fuzzy
+#| msgid "Message Inbox"
+msgid "Message box"
+msgstr "Kikasha cha ujumbe"
+
+msgid "OK"
+msgstr ""
+
+msgid "Mandatory files : SHP , DBF"
+msgstr ""
+
+msgid ""
+"Upload a ZIP file containing an ESRI Shapefile. If the ZIP provides also a ."
+"prj file, you don't have to specify the EPSG SRID"
+msgstr ""
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose"
+msgstr "Chagua watumiaji ..."
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "Choose a file..."
+msgstr "Chagua watumiaji ..."
+
+msgid "Reset"
+msgstr ""
+
+msgid "Only the SRID number without the 'EPSG:' prefix!"
+msgstr ""
+
+msgid "Default : 4326"
+msgstr ""
+
+msgid "Set your desired encoding UTF-8, Big5, Big5-HKSCS ..."
+msgstr ""
+
+msgid "Load SHP-ZIP"
+msgstr ""
+
+msgid ""
+"<p>This will remove the Geo Limits currently drawn on the map.</p><p>In "
+"order to store the Geo Limits you will need to <strong>save</strong> them "
+"anyway.</p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid ""
+"<p>This will override the current stored Geo Limits on the DB.</p><p>To "
+"apply them you will need to click on <strong>Apply Changes</strong> button "
+"anyway.</p><p><strong>WARNING:</strong> This operation cannot be reverted!</"
+"p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid "Save Geo Limit"
+msgstr ""
+
+msgid ""
+"<p>Geometry <strong>successfully</strong> saved!</p><p>To apply them you "
+"will need to click on <strong>Apply Changes</strong> button.</p>"
+msgstr ""
+
+msgid "<p><strong>Error</strong> while trying to save the Geometry!</p>"
+msgstr ""
+
+msgid "Load Geo Limits"
+msgstr ""
+
+msgid "Load Geo Limit"
+msgstr ""
+
+msgid "<p><strong>No Geometry</strong> found!</p>"
+msgstr ""
+
+msgid ""
+"<p>This will <strong>permanently</strong> remove the Geo Limits from the DB."
+"</p><p>To apply them you will need to click on <strong>Apply Changes</"
+"strong> button.</p><p>Do you want to proceed?</p>"
+msgstr ""
+
+msgid "Delete Geo Limit"
+msgstr ""
+
+msgid "<p><strong>Geo Limitsy</strong> successfully deleted!</p>"
+msgstr ""
+
+msgid ""
+"<p><strong>Error</strong> occurred while trying to delete Geo Limits:</p>"
+msgstr ""
+
+msgid "Choose users..."
+msgstr "Chagua watumiaji ..."
+
+msgid "Choose groups..."
+msgstr "Chagua makundi ..."
+
+msgid "Placeholder for status-message"
+msgstr ""
+
+msgid "Placeholder for status-message-body"
+msgstr ""
+
+msgid "About GeoNode"
+msgstr "Kuhusu GeoNode"
+
+msgid ""
+"GeoNode is a geospatial content management system, a platform for the "
+"management and publication of geospatial data. It brings together mature and "
+"stable open-source software projects under a consistent and easy-to-use "
+"interface allowing non-specialized users to share data and create "
+"interactive maps."
+msgstr ""
+
+msgid ""
+"Data management tools built into GeoNode allow for integrated creation of "
+"data, metadata, and map visualizations. Each dataset in the system can be "
+"shared publicly or restricted to allow access to only specific users. Social "
+"features like user profiles and commenting and rating systems allow for the "
+"development of communities around each platform to facilitate the use, "
+"management, and quality control of the data the GeoNode instance contains."
+msgstr ""
+
+msgid ""
+"It is also designed to be a flexible platform that software developers can "
+"extend, modify or integrate against to meet requirements in their own "
+"applications."
+msgstr ""
+
+msgid "Account Inactive"
+msgstr ""
+
+msgid "This account is inactive."
+msgstr ""
+
+msgid "Account Pending Approval"
+msgstr ""
+
+#, python-format
+msgid ""
+"We have sent the administrators a notice to approve your account associated "
+"with <b>%(email)s</b>. If the account is approved, you will receive a "
+"confirmation notice."
+msgstr ""
+
+#, fuzzy
+#| msgid "count"
+msgid "Account"
+msgstr "hesabu"
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "E-mail Addresses"
+msgstr "Anuani ya barua pepe"
+
+msgid "The following e-mail addresses are associated with your account:"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Unverified"
+msgstr ""
+
+#, fuzzy
+#| msgid "Primary email"
+msgid "Primary"
+msgstr "Primary email"
+
+msgid "Make Primary"
+msgstr ""
+
+#, fuzzy
+#| msgid "Restrictions"
+msgid "Re-send Verification"
+msgstr "Vikwazo"
+
+msgid "Warning:"
+msgstr ""
+
+msgid ""
+"You currently do not have any e-mail address set up. You should really add "
+"an e-mail address so you can receive notifications, reset your password, etc."
+msgstr ""
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Add E-mail Address"
+msgstr "Anuani ya barua pepe"
+
+msgid "Add E-mail"
+msgstr ""
+
+msgid "Do you really want to remove the selected e-mail address?"
+msgstr ""
+
+#, python-format
+msgid ""
+"Hello from %(site_name)s!\n"
+"\n"
+"You're receiving this e-mail because user %(user_display)s has given yours "
+"as an e-mail address to connect their account.\n"
+"\n"
+"To confirm this is correct, go to %(activate_url)s\n"
+msgstr ""
+
+#, python-format
+msgid ""
+"Thank you from %(site_name)s!\n"
+"%(site_domain)s"
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Confirm email address for %(site_name)s"
+msgid "Please confirm email address for %(site_name)s"
+msgstr "Thibitisha barua pepe kwa ajili ya %(site_name)s"
+
+#, python-format
+msgid "You have been invited to sign up at %(site_name)s."
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Confirm email address for %(site_name)s"
+msgid "Create an account on %(site_name)s"
+msgstr "Thibitisha barua pepe kwa ajili ya %(site_name)s"
+
+msgid ""
+"This is the email notification to confirm your password has been changed on"
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password: %s"
+msgid "Change password email notification"
+msgstr "Badilisha nenosiri: %s"
+
+#, fuzzy, python-format
+#| msgid ""
+#| "You're receiving this email because you or someone else has requested a "
+#| "password for your user account at %(site_name)s.\n"
+#| "It can be safely ignored if you did not request a password reset. Click "
+#| "the link below to reset your password.\n"
+#| "\n"
+#| "%(password_reset_url)s\n"
+msgid ""
+"Hello from %(site_name)s!\n"
+"\n"
+"You're receiving this e-mail because you or someone else has requested a "
+"password for your user account.\n"
+"It can be safely ignored if you did not request a password reset. Click the "
+"link below to reset your password."
+msgstr ""
+"Umepokea barua pepe hii kwa sababu wewe au mtu fulani ameomba nenosiri kwa "
+"ajili ya akaunti yako ya %(site_name)s.\n"
+" Unaweza kupuuza ujumbe huu ikiwa hukuomba kuseti upya nenosiri. Bonyeza "
+"kiungo hapo chini ili kuseti upya nenosiri lako.\n"
+" %(password_reset_url)s\n"
+
+#, python-format
+msgid "In case you forgot, your username is %(username)s."
+msgstr ""
+
+#, python-format
+msgid ""
+"Thank you for using %(site_name)s!\n"
+"%(site_domain)s"
+msgstr ""
+
+#, python-format
+msgid "[%(site_name)s] Password reset"
+msgstr "Kuseti upya nenosiri [%(site_name)s]"
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Confirm E-mail Address"
+msgstr "Anuani ya barua pepe"
+
+#, python-format
+msgid ""
+"Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
+"address for user %(user_display)s."
+msgstr ""
+
+msgid "Confirm"
+msgstr "Thibitisha"
+
+#, python-format
+msgid ""
+"This e-mail confirmation link expired or is invalid. Please <a href="
+"\"%(email_url)s\">issue a new e-mail confirmation request</a>."
+msgstr ""
+
+msgid "Log in"
+msgstr "Ingia"
+
+msgid "Log in to an existing account"
+msgstr "Ingia kwenye akaunti yako"
+
+#, python-format
+msgid ""
+"Please sign in with one\n"
+"      of your existing third party accounts. Or, <a href=\"%(signup_url)s"
+"\">sign up</a>\n"
+"      for a %(site_name)s account and sign in below:"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+#, python-format
+msgid ""
+"If you have not created an account yet, then please\n"
+"      <a href=\"%(signup_url)s\">sign up</a> first."
+msgstr ""
+
+#, fuzzy
+#| msgid "Forgot your password?"
+msgid "Forgot Password?"
+msgstr "Umesahau nenosiri lako?"
+
+#, fuzzy
+#| msgid "Sign in"
+msgid "Sign In"
+msgstr "Ingia"
+
+msgid "Are you sure you want to log out?"
+msgstr "Je, una hakika unataka kutoka?"
+
+msgid "Password change"
+msgstr ""
+
+msgid "Password Change"
+msgstr ""
+
+msgid "Change your password here"
+msgstr ""
+
+msgid "Change my password"
+msgstr ""
+
+msgid "Password reset"
+msgstr "Kuseti upyan enosiri"
+
+msgid "Password Reset"
+msgstr ""
+
+msgid "Forgotten your password?"
+msgstr ""
+
+msgid ""
+"Enter your email address below, and we'll send you an email allowing you to "
+"reset it."
+msgstr ""
+
+msgid "Reset my password"
+msgstr "Seti upya nenosiri langu"
+
+#, python-format
+msgid ""
+"If you have any trouble resetting your password, contact us at <a href="
+"\"mailto:%(THEME_ACCOUNT_CONTACT_EMAIL)s\">%(THEME_ACCOUNT_CONTACT_EMAIL)s</"
+"a>."
+msgstr ""
+"Kama una matatizo yoyote katika kuseti upya nenosiri lako, wasiliana nasi "
+"kupitia <a href=\"mailto:%(THEME_ACCOUNT_CONTACT_EMAIL)s\">"
+"%(THEME_ACCOUNT_CONTACT_EMAIL)s</a>."
+
+msgid ""
+"We have sent you an e-mail. Please contact us if you do not receive it "
+"within a few minutes."
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "Change Password"
+msgstr "Change password"
+
+msgid "Bad Token"
+msgstr ""
+
+#, python-format
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
+"a>."
+msgstr ""
+
+#, fuzzy
+#| msgid "Change password"
+msgid "change password"
+msgstr "Change password"
+
+msgid "Your password is now changed."
+msgstr ""
+
+#, fuzzy
+#| msgid "Password"
+msgid "Set Password"
+msgstr "Nenosiri"
+
+#, fuzzy
+#| msgid "Password reset"
+msgid "Password Set"
+msgstr "Kuseti upyan enosiri"
+
+#, fuzzy
+#| msgid "Forgot your password?"
+msgid "Set your password here"
+msgstr "Umesahau nenosiri lako?"
+
+#, fuzzy
+#| msgid "Reset my password"
+msgid "Set password"
+msgstr "Seti upya nenosiri langu"
+
+msgid "Sign up"
+msgstr "Kujiunga"
+
+msgid ""
+"Sign up with one\n"
+"              of your existing third party accounts"
+msgstr ""
+
+#, fuzzy
+#| msgid "Create a new map"
+msgid "Create a new local account"
+msgstr "Tengeneza ramani mpya"
+
+msgid "Sign Up Closed"
+msgstr ""
+
+msgid "We are sorry, but the sign up is currently closed."
+msgstr ""
+
+msgid "Note"
+msgstr "Note"
+
+#, python-format
+msgid "you are already logged in as %(user_display)s."
+msgstr ""
+
+msgid "Verify your email address"
+msgstr ""
+
+msgid ""
+"We have sent an email to you for verification. Follow the\n"
+"    link provided to finalize the signup process. Please contact us if you "
+"do\n"
+"    not receive it within a few minutes"
+msgstr ""
+
+#, fuzzy
+#| msgid "Email Address"
+msgid "Verify Your E-mail Address"
+msgstr "Anuani ya barua pepe"
+
+msgid ""
+"This part of the site requires us to verify that\n"
+"you are who you claim to be. For this purpose, we require that you\n"
+"verify ownership of your e-mail address. "
+msgstr ""
+
+msgid ""
+"We have sent an e-mail to you for\n"
+"verification. Please click on the link inside this e-mail. Please\n"
+"contact us if you do not receive it within a few minutes."
+msgstr ""
+
+#, python-format
+msgid ""
+"<strong>Note:</strong> you can still <a href=\"%(email_url)s\">change your e-"
+"mail address</a>."
+msgstr ""
+
+msgid "My Activity feed"
+msgstr "Mlisho wa matukio yangu"
+
+msgid "Activity Feed"
+msgstr "Mlisho wa matukio"
+
+#, fuzzy
+#| msgid "Are you sure you want to remove"
+msgid "Are you sure you want to run the selected"
+msgstr "Je, una uhakika unataka kuondoa"
+
+#, fuzzy
+#| msgid "Yes, I am sure"
+msgid "Yes, I'm sure"
+msgstr "Ndiyo, nina uhakika"
+
+msgid "GeoNode site admin"
+msgstr "Tovuti ya utawala GeoNode"
+
+msgid "GeoNode administration"
+msgstr "Utawala GeoNode"
+
+msgid "Delete Announcement?"
+msgstr ""
+
+msgid "Are you sure you want to delete this announcement?"
+msgstr ""
+
+msgid "Edit Announcement"
+msgstr "Hariri Tangazo"
+
+msgid "Create Announcement"
+msgstr "Tengeneza Tangazo"
+
+msgid "New Announcement"
+msgstr "Tangazo jipya"
+
+msgid "Level"
+msgstr ""
+
+msgid "Announcement"
+msgstr "Tangazo"
+
+msgid "Published From"
+msgstr "Toleo kutoka"
+
+#, python-format
+msgid ""
+"\n"
+"          Published from <b>%(publish_start)s</b> to <b>%(publish_end)s</"
+"b>.\n"
+"          "
+msgstr ""
+
+#, python-format
+msgid "Announcements : %(announcement)s"
+msgstr "Matangazo: %(announcement)s"
+
+msgid "Back to edit your profile information"
+msgstr "Rudi kuhariri maelezo ya wasifu wako"
+
+msgid "Your current avatar: "
+msgstr "Avatar yako ya sasa: "
+
+msgid "You haven't uploaded an avatar yet. Please upload one now."
+msgstr "Hujapakia avatar bado. Tafadhali pakia moja sasa."
+
+msgid "Upload New Image"
+msgstr "Pakia Picha Mpya"
+
+msgid "Choose new Default"
+msgstr "Kuchagua Default mpya"
+
+msgid "Delete Your Avatar"
+msgstr ""
+
+msgid "Please select the avatars that you would like to delete."
+msgstr "Tafadhali chagua avatars ambazo ungependa kufuta."
+
+#, python-format
+msgid ""
+"You have no avatars to delete. Please <a href=\"%(avatar_change_url)s"
+"\">upload one</a> now."
+msgstr ""
+"Huna avatars za kufuta. Tafadhali <a href=\"%(avatar_change_url)s\">pakia "
+"mojawapo</a> sasa."
+
+msgid "Delete These"
+msgstr "Futa hizi"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Search"
+msgstr "Msaada kuhusu Geonode"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Contact Us"
+msgstr "Mawasiliano:"
+
+msgid "Tel"
+msgstr ""
+
+#, fuzzy
+#| msgid "uploaded"
+msgid "Uploading..."
+msgstr "kupakiwa"
+
+#, fuzzy
+#| msgid "Upload files"
+msgid "Upload in progress..."
+msgstr "Pakia mafaili"
+
+msgid "Processing..."
+msgstr ""
+
+#, fuzzy
+#| msgid "Thumbnail"
+msgid "Updating Thumbnail..."
+msgstr "Thumbnail"
+
+#, fuzzy
+#| msgid "Are you sure you want to remove"
+msgid "Message. Do you want to proceed?"
+msgstr "Je, una uhakika unataka kuondoa"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Processing Resource..."
+msgstr "Rasilimali"
+
+msgid "Information for Developers"
+msgstr "Taarifa kwa Developers"
+
+msgid "Useful information for developers interested in GeoNode."
+msgstr "Mambo muhimu kwa developers ambao wangependa kutumia GeoNode."
+
+#, python-format
+msgid ""
+"\n"
+"    <p><a href=\"http://geonode.org/\">GeoNode</a> is an open service built "
+"on open source software. We encourage you to build new applications using "
+"the components and resources it provides. This page is a starting point for "
+"developers interesting in taking full advantage of GeoNode. It also includes "
+"links to the project's source code so anyone can build and customize their "
+"own GeoNode. </p>\n"
+"\n"
+"    <h3>GeoNode Software</h3>\n"
+"\n"
+"    <p>All the code that runs GeoNode is open source. The code is available "
+"at <a href=\"http://github.com/GeoNode/geonode\">http://github.com/GeoNode/"
+"geonode/</a>. The issue tracker for the project is at <a href=\"http://"
+"github.com/GeoNode/geonode/issues\">http://github.com/GeoNode/geonode/"
+"issues</a>.</p>\n"
+"\n"
+"    <p>GeoNode is built using several open source projects, each with its "
+"own community. If you are interested in contributing new features to the "
+"GeoNode, we encourage you to do so by contributing to one of the projects on "
+"which it is built:</p>\n"
+"    <ul>\n"
+"      <li><a href=\"http://geoserver.org\">GeoServer</a> - Standards based "
+"server for geospatial information</li>\n"
+"      <li><a href=\"http://geowebcache.org\">GeoWebCache</a> - Cache engine "
+"for WMS Tiles</li><li><a href=\"http://openlayers.org\">OpenLayers</a> - "
+"Pure JavaScript library powering the maps of GeoExt</li>\n"
+"      <li><a href=\"http://pycsw.org\">pycsw</a> - CSW, OpenSearch and OAI-"
+"PMH metadata catalogue server</li>\n"
+"    </ul>\n"
+"\n"
+"    <h3>What are OGC Services?</h3>\n"
+"    <p>The data in this application is served using open standards endorsed "
+"by ISO and the <a href=\"http://opengeospatial.org/\">Open Geospatial "
+"Consortium</a>; in particular, WMS (Web Map Service) is used for accessing "
+"maps, WFS (Web Feature Service) is used for accessing vector data, and WCS "
+"(Web Coverage Service) is used for accessing raster data.  WMC (Web Map "
+"Context Documents) is used for sharing maps. You can use these services in "
+"your own applications using libraries such as OpenLayers, GeoTools, and OGR "
+"(all of which are open-source software and available at zero cost). "
+"Additionally, CSW (Catalog Service for the Web) supports access to "
+"collections of descriptive information (metadata) about data and services.</"
+"p>\n"
+"\n"
+"    <h3>What is GeoWebCache?</h3>\n"
+"    <p>GeoWebCache provides mapping tiles that are compatible with a number "
+"of mapping engines, including Google Maps, Bing Maps and OpenLayers. All the "
+"data hosted by GeoNode is also available through GeoWebCache. GeoWebCache "
+"improves on WMS by caching data and providing more responsive maps.</p>\n"
+"\n"
+"    <h3>CSW Example Code</h3>\n"
+"    <p>To interact with GeoNode's CSW you can use any CSW client (QGIS "
+"MetaSearch, GRASS, etc.).  The following example illustrates a simple "
+"invocation using the OWSLib Python package:</p>\n"
+"    <p><code>from owslib.csw import CatalogueServiceWeb</code></p>\n"
+"    <p><code>from owslib.fes import PropertyIsLike</code></p>\n"
+"    <p><code>csw = CatalogueServiceWeb('%(CATALOGUE_BASE_URL)s')</code></p>\n"
+"    <p><code>anytext = PropertyIsLike('csw:AnyText', 'birds')')</code></p>\n"
+"    <p><code>csw.getrecords2(constraints=[anytext])</code></p>\n"
+"    <p><code>print csw.results</code></p>\n"
+"    <p><code>print csw.records</code></p>\n"
+"\n"
+"    <h3>OpenLayers Example Code</h3>\n"
+"\n"
+"    <p>To include a GeoNode map layer in an OpenLayers map, first find the "
+"name for that layer. This is found in the layer's <code>name</code> field "
+"(not <code>title</code>) of the layer list. For this example, we will use "
+"the Nicaraguan political boundaries background layer, whose name is "
+"<code>risk:nicaragua_admin</code>. Then, create an instance of OpenLayers."
+"Layer.WMS:</p>\n"
+"    <p><code>var geonodeLayer = new OpenLayers.Layer.WMS(\"GeoNode Risk Data"
+"\", \"http://demo.geonode.org/geoserver/wms\",{ layers: \"risk:"
+"nicaragua_admin\" });</code></p>\n"
+"\n"
+"    <h3>Google Maps Example Code</h3>\n"
+"    <p>To include a GeoNode map layer in a Google Map, include the dataset "
+"name in the URL template.</p>\n"
+"    <p><code>var tilelayer =  new GTileLayer(null, null, null, "
+"{tileUrlTemplate: 'http://demo.geonode.org/geoserver/gwc/service/gmaps?"
+"layers=risk:nicaragua_admin&#38;zoom={Z}&#38;x={X}&#38;y={Y}', isPng:true, "
+"opacity:0.5 } );</code></p>\n"
+"\n"
+"    <h3>Shapefile/GeoJSON/GML Output</h3>\n"
+"    <p>To get data from the GeoNode web services use the WFS protocol. For "
+"example, to get the full Nicaraguan admin boundaries use:</p>\n"
+"    <p><code>http://demo.geonode.org/geoserver/wfs?request=GetFeature&#38;"
+"typeName=risk:nicaragua_admin&#38;outputformat=SHAPE-ZIP</code></p>\n"
+"    <p>Changing output format to <code>json</code>, <code>GML2</code>, "
+"<code>GML3</code>, or <code>csv</code> will get data in those formats. The "
+"WFS protocol also can handle more precise queries, specifying a bounding box "
+"or various spatial and non-spatial filters based on the attributes of the "
+"data.</p>\n"
+"\n"
+"    <h3>GeoTools Example Code</h3>\n"
+"    <p>Create a DataStore and extract a FeatureType from it, then run a "
+"Query. It is all documented on the wiki at <code>http://geotools.org/</code>."
+"</p>\n"
+"    "
+msgstr ""
+
+msgid "GeoNode's Web Services"
+msgstr "Huduma za GeoNode kwa mtandao"
+
+msgid "GeoNode's Web Services are available from the following URLs:"
+msgstr "Huduma za GeoNode kwa mtandao zinapatikana kupitia URL zifuatazo:"
+
+msgid "Dynamic tiles via WMS:"
+msgstr "`Dynamic tiles` kupitia WMS:"
+
+msgid "Vector data via WFS:"
+msgstr "Takwimu za vekta kupitia WFS:"
+
+msgid "Raster data via WCS:"
+msgstr "Takwimu za `Raster` kupitia WCS:"
+
+msgid "Metadata search via CSW:"
+msgstr "Tafuta metadata kupitia CSW:"
+
+msgid "Metadata search via OpenSearch:"
+msgstr ""
+
+msgid "Metadata search via OAI-PMH:"
+msgstr ""
+
+msgid "Cached tiles via WMTS:"
+msgstr "`Tiles` kutoka kwenye kashe kupitia WMTS:"
+
+msgid "User Guide"
+msgstr "Muongozo kwa mtumiaji"
+
+msgid "GeoNode Help"
+msgstr "Msaada kuhusu Geonode"
+
+msgid ""
+"This page provides helpful information about how to use the GeoNode. You can "
+"use the sidebar links to navigate to what you want to know."
+msgstr ""
+"Ukurasa hii hutoa habari muhimu kuhusu jinsi ya kutumia GeoNode. Unaweza "
+"kutumia viungo sidebar navigate kwa nini unataka kujua."
+
+msgid ""
+"\n"
+"    <p>The GeoNode provides access to data sets and a map editing "
+"application allows users to browse existing maps and contribute their own.</"
+"p>\n"
+"\n"
+"    <h4 id=\"browsing-data\">Browsing Layers</h4>\n"
+"    <p>The <a href=\"{{ url_layer_browse }}\">Layers</a> tab allows you to browse data "
+"uploaded to this GeoNode.</p>\n"
+"    <p>All data can be downloaded in a variety of formats, for use in other "
+"applications.</p>\n"
+"\n"
+"    <h4 id=\"developer-access\">Developer Access</h4>\n"
+"    <p>The <a href=\"{{ url_developer }}\"> Developer</a> page is the place for "
+"developers to get started building applications against the GeoNode. It "
+"includes instructions on using the web services, links to the source code of "
+"the GeoNode, and information about the open source projects used to create "
+"it.</p>\n"
+"\n"
+"    <h4 id=\"browsing-maps\">Browsing Maps</h4>\n"
+"    <p>The GeoNode allows users to create and share maps with one another.</"
+"p>\n"
+"    <p>The <a href=\"{{ url_maps_browse }}\">Maps</a> tab is a gateway to map exploration on "
+"GeoNode.  From here you can <strong>search for a map</strong> or "
+"<strong>create a map</strong>, which will open the <a href=\"{{ url_maps_new }}\">Map "
+"Composer</a>.</p>\n"
+"    <h5>Google Earth Mode</h5>\n"
+"    <p>Any map viewed in the interactive map editor can be seen in 3D mode "
+"with the Google Earth plugin. To switch to 3D mode select the Google Earth "
+"globe logo, the rightmost button on top toolbar. If you do not have the "
+"Google Earth plugin installed you will be prompted to install it.</p>\n"
+"\n"
+"    <h4 id=\"creating-a-map\">Creating a Map</h4>\n"
+"    <p>To create a new map go to the <a href=\"{{ url_maps_browse }}\">Contributed Maps</a> "
+"tab and click the <a href=\"{{ url_maps_new }}\">create your own map</a> link.</p>\n"
+"    <p>This will take you to the <a href=\"{{ url_maps_new }}\">Map Composer</a> with "
+"a base layer loaded.</p>\n"
+"    <p>To add data layers from the GeoNode click on the green plus button "
+"located below the layers tab on the left hand side of the screen. This will "
+"open a dialog listing all the layers available on the GeoNode.</p>\n"
+"    <p>To add layers to your map select them and hit the <strong>Add Layers</"
+"strong> button. When finished you may hit <strong>Done</strong> to close the "
+"dialog and go back to the map.</p>\n"
+"\n"
+"    <h5>Reordering and Removing Layers</h5>\n"
+"    <p>Change the display order of the layers listed in the data tab by "
+"simply dragging and dropping their names. The order in the map will be "
+"updated to reflect that. To turn a layer's visibility off simply uncheck it, "
+"and to remove it entirely select it and hit the red minus button.</p>\n"
+"\n"
+"    <h5>Saving your map</h5>\n"
+"    <p>Once a suitable set of layers and zoom level has been found it's time "
+"to save it so others can see it.  Click the Save button--the left most icon "
+"on the top toolbar, an image of a map with a disk--on the top menu and fill "
+"out the title and abstract of the map.</p>\n"
+"\n"
+"    <h4 id=\"exporting-a-map\">Publishing a Map</h4>\n"
+"    <p>Any map from the GeoNode can be embedded for use in another site or "
+"blog. To publish a map:</p>\n"
+"    <ol>\n"
+"      <li>Select the from the list of maps on the community or map page and "
+"then hit the 'Publish map' button.</li>\n"
+"      <li>Choose your desired height and width for the widget in the wizard."
+"</li>\n"
+"      <li>Copy the HTML snippet provided in the wizard to any HTML page or "
+"iFrame-supporting blog post.</li>\n"
+"    </ol>\n"
+"    <p>This will put an interactive widget showing you map in your web page "
+"or blog post.</p>\n"
+"    <p>Note that the <a href=\"{{ url_maps_new }}\">Map Composer</a> also has a "
+"button to publish the map. Just be sure to save the map before publishing if "
+"there are changes that you want others to see. It publishes the last saved "
+"version, not the last viewed version.</p>\n"
+"\n"
+"    <h4 id=\"remixing-a-map\">Remixing a Map</h4>\n"
+"    <p>Any map available can serve as a starting point for a new map.</p>\n"
+"    <ol>\n"
+"      <li>Open the map in the Map Composer.</li>\n"
+"      <li>Add and remove layers as you like.</li>\n"
+"      <li>Pan and zoom to highlight the area of interest.</li>\n"
+"      <li><strong>IMPORTANT:</strong> Update the title, abstract, contact "
+"info and tags to reflect the new map.</li>\n"
+"      <li>Save the map.</li>\n"
+"    </ol>\n"
+"    <p>You will be able to see your new map when you search for it from the "
+"<a href=\"{{ url_maps_browse }}\">Maps</a> tab.</p>\n"
+"    "
+msgstr ""
+
+msgid "Sections"
+msgstr "Sehemu"
+
+msgid "Browsing Layers"
+msgstr "Kuperuzi Matabaka"
+
+msgid "Developer Access"
+msgstr "Developer Kupata"
+
+msgid "Browsing Maps"
+msgstr "Kuperuzi Ramani"
+
+msgid "Creating a Map"
+msgstr "Kutengeneza Ramani"
+
+msgid "Exporting a Map"
+msgstr "Kutoa Ramani"
+
+msgid "Remixing a Map"
+msgstr "Kuboresha Ramani"
+
+msgid "Welcome!"
+msgstr "Karibu!"
+
+#, fuzzy
+#| msgid "Getting Started"
+msgid "Get Started &raquo;"
+msgstr "Anza"
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search for Data."
+msgstr "Tafuta"
+
+msgid "Advanced Search"
+msgstr ""
+
+msgid ""
+"Click to search for geospatial data published by other users, organizations "
+"and public sources. Download data in standard formats."
+msgstr ""
+"Bofya ili kutafuta takwimu za kijiografia zilizotolewa na watumiaji wengine, "
+"mashirika na vyanzo vya umma. Pakua takwimu katika mfumo wenye viwango "
+"vinavyokubalika."
+
+#, fuzzy
+#| msgid "dataset"
+msgid "Add datasets"
+msgstr "kanzidata"
+
+#, fuzzy
+#| msgid "Explore Layers"
+msgid "Explore datasetss"
+msgstr "Peruzi matabaka"
+
+#, fuzzy
+#| msgid ""
+#| "Data is available for browsing, aggregating and styling to generate maps "
+#| "which can be shared publicly or restricted to specific users only."
+msgid ""
+"Data is available for browsing, aggregating and styling to generate maps "
+"which can be saved, downloaded, shared publicly or restricted to specify "
+"users only."
+msgstr ""
+"Takwimu zinapatikana kwa ajili ya kuperuzi, kufanya majumuisho nakubadilisha "
+"muonekano kwa ajili ya kutengeneza ramani ambayo inaweza kuwa ya umma au kwa "
+"watumiaji walioidhinishwa tu."
+
+msgid "Create maps"
+msgstr "Tengeneza ramani"
+
+msgid "Explore maps"
+msgstr ""
+
+msgid ""
+"As for the layers and maps GeoNode allows to publish tabular and text data, "
+"manage their metadata and associated documents."
+msgstr ""
+
+#, fuzzy
+#| msgid "Add Comment"
+msgid "Add documents"
+msgstr "Toa Maoni"
+
+#, fuzzy
+#| msgid "Explore Documents"
+msgid "Explore documents"
+msgstr "Peruzi Hati"
+
+#, fuzzy
+#| msgid ""
+#| "GeoNode allows registered users to easily upload geospatial data in "
+#| "several formats including shapefile and GeoTiff."
+msgid ""
+"Geonode allows registered users to easily upload geospatial data and various "
+"documents in several formats."
+msgstr ""
+"GeoNode inaruhusu watumiaji waliosajiliwa kupakia kwa urahisi data za "
+"kijiografia zilizokatika mifumo mbali mbali ikiwa ni pamoja na shapefile na "
+"GeoTiff."
+
+msgid "See users"
+msgstr ""
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Featured Datasets"
+msgstr "aina ya sura"
+
+#, fuzzy
+#| msgid "Accepted"
+msgid "Accept"
+msgstr "Kukubalika"
+
+#, fuzzy
+#| msgid "Subject"
+msgid "Reject"
+msgstr "Mada"
+
+msgid "Leave"
+msgstr ""
+
+msgid "Dear Sir/Madam,"
+msgstr ""
+
+#, python-format
+msgid "is inviting you to join (%(site_name)s)."
+msgstr ""
+
+#, python-format
+msgid ""
+"To do so, please register at <a href=\"%(invite_url)s\">%(site_name)s "
+"Registration</a>."
+msgstr ""
+
+msgid ""
+"Once you receive the confirmation that your account is activated, you can "
+"notify"
+msgstr ""
+
+msgid "that you wish to join her/his group(s) through"
+msgstr ""
+
+msgid "this link"
+msgstr ""
+
+#, python-format
+msgid ""
+"<strong>%(inviter_name)s</strong> is a member of the following group(s):"
+msgstr ""
+
+msgid "We look forward to seeing you on the platform,"
+msgstr ""
+
+#, fuzzy
+#| msgid "GeoNode site admin"
+msgid "The GeoNode team."
+msgstr "Tovuti ya utawala GeoNode"
+
+msgid "is inviting you to join"
+msgstr ""
+
+msgid "To do so, please register at"
+msgstr ""
+
+msgid "that you wish to join her/his group(s) through this link"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following groups:"
+msgid "is a member of the following group(s)"
+msgstr "Makundi yafuatayo:"
+
+#, fuzzy
+#| msgid "Download Metadata"
+msgid "Updating Metadata..."
+msgstr "Pakua Metadata"
+
+msgid "Topic Category is mandatory and cannot be empty!"
+msgstr ""
+
+msgid "Group is mandatory and cannot be empty!"
+msgstr ""
+
+msgid "Identification"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "email"
+msgstr "barua pepe"
+
+#, fuzzy
+#| msgid "format"
+msgid "Information"
+msgstr "muundo"
+
+msgid "Identification Image"
+msgstr ""
+
+#, fuzzy
+#| msgid "Temporal Extent"
+msgid "Spatial Extent"
+msgstr "Temporal Extent"
+
+#, fuzzy
+#| msgid "projection"
+msgid "Projection System"
+msgstr "makadirio"
+
+msgid "Extension x0"
+msgstr ""
+
+msgid "Extension x1"
+msgstr ""
+
+msgid "Extension y0"
+msgstr ""
+
+msgid "Extension y1"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+msgid "Contact Points"
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "Link Online"
+msgstr ""
+
+msgid "Metadata Page"
+msgstr ""
+
+msgid "Online Link"
+msgstr ""
+
+msgid "* Field declared Mandatory by the Metadata Schema"
+msgstr ""
+
+msgid "Please, fill the following items before clicking on preview:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Set permissions"
+msgid "Request perission"
+msgstr "Idhinisha ruhusa"
+
+#, fuzzy
+#| msgid "party that owns the resource"
+msgid "Request editing for resource: "
+msgstr "upande unaomiliki rasilimali"
+
+#, fuzzy
+#| msgid "Resources"
+msgid "Back to resource"
+msgstr "Rasilimali"
+
+msgid "Send request"
+msgstr ""
+
+msgid "Your account has been approved and is now active."
+msgstr ""
+
+msgid "You can use the login form at"
+msgstr ""
+
+#, fuzzy
+#| msgid "Welcome"
+msgid "Welcome at"
+msgstr "Karibu"
+
+#, fuzzy
+#| msgid "Recent activity"
+msgid "Your account is now active"
+msgstr "Matukio ya hivi karibuni"
+
+msgid "has requested access to the site."
+msgstr ""
+
+msgid ""
+"You can enable access by setting the user as active on the admin section"
+msgstr ""
+
+msgid "A user has requested access to the site"
+msgstr ""
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following document was approved"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "Powered by"
+msgid "owned by"
+msgstr "Imewezeshwa na"
+
+msgid "You can visit the document's detail page here"
+msgstr ""
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A document has been approved"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "You do not have permissions for this document."
+msgid "A comment has been posted for the document"
+msgstr "Huna kibali cha hati hii."
+
+msgid "by the user"
+msgstr ""
+
+#, fuzzy
+#| msgid "You do not have permissions for this document."
+msgid "A comment has been posted for a document"
+msgstr "Huna kibali cha hati hii."
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "The user"
+msgstr "Chagua watumiaji ..."
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "uploaded the following document"
+msgstr "Watumiaji wafuatao:"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A document has been uploaded"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following document was deleted"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A document has been deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following document was published"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A document has been published"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "created"
+msgid "rated"
+msgstr "kuundwa"
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "the following document"
+msgstr "Watumiaji wafuatao:"
+
+msgid "You can visit the layer's detail page here"
+msgstr ""
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A document has been rated"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following document was updated"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A document has been updated"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "You have the following incomplete uploads"
+msgid "You have received the following notice from"
+msgstr "Kuna upakiaji ufuatao ambaosi kamili"
+
+msgid "To change how you receive notifications, please go to "
+msgstr ""
+
+#, python-format
+msgid "[%(current_site)s] %(message)s"
+msgstr ""
+
+#, fuzzy, python-format
+#| msgid "Notices"
+msgid "%(notice)s"
+msgstr "Notices"
+
+#, fuzzy
+#| msgid "The following layers will be imported"
+msgid "The following layer was approved"
+msgstr "Matabaka yafuatayo yataingizwa"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A layer has been approved"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "Documents related to this layer"
+msgid "A comment has been posted for the layer"
+msgstr "Hati zinazohusiana na tabaka hili"
+
+#, fuzzy
+#| msgid "A rating was given to a layer"
+msgid "A comment has been posted for a layer"
+msgstr "Tabaka limethaminishwa"
+
+#, fuzzy
+#| msgid "This map uses the following layers:"
+msgid "uploaded the following layer"
+msgstr "Ramani hii inatumia tabaka yafuatayo:"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A new layer has been uploaded"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following layer was deleted"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A layer has been deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "The following layers will be imported"
+msgid "The following layer was published"
+msgstr "Matabaka yafuatayo yataingizwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A layer has been published"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "the following layer"
+msgstr "Watumiaji wafuatao:"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A layer has been rated"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following layer was updated"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been updated"
+msgid "A layer has been updated"
+msgstr "Ramani umesasishwa"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following map was approved"
+msgstr "Ramani zifuatazo zimefutwa"
+
+msgid "You can visit the map's detail page here"
+msgstr ""
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A map has been approved"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "Documents related to this map"
+msgid "A comment has been posted for the map"
+msgstr "Nyaraka kuhusiana na ramani hii"
+
+#, fuzzy
+#| msgid "Documents related to this map"
+msgid "A comment has been posted for a map"
+msgstr "Nyaraka kuhusiana na ramani hii"
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "created the following map"
+msgstr "Watumiaji wafuatao:"
+
+#, fuzzy
+#| msgid "A map has been rated"
+msgid "A map has been created"
+msgstr "Ramani umebadilishwa kima"
+
+msgid "The following map was deleted"
+msgstr "Ramani zifuatazo zimefutwa"
+
+msgid "A map has been deleted"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following map was published"
+msgstr "Ramani zifuatazo zimefutwa"
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A map has been published"
+msgstr "Ramani umefutwa"
+
+#, fuzzy
+#| msgid "The following users:"
+msgid "the following map"
+msgstr "Watumiaji wafuatao:"
+
+msgid "A map has been rated"
+msgstr "Ramani umebadilishwa kima"
+
+#, fuzzy
+#| msgid "The following map was deleted"
+msgid "The following map was updated"
+msgstr "Ramani zifuatazo zimefutwa"
+
+msgid "A map has been updated"
+msgstr "Ramani umesasishwa"
+
+msgid "Notification Settings"
+msgstr "Mipangilio ya Taarifa"
+
+#, python-format
+msgid ""
+"\n"
+"        <p class=\"alert alert-warning\">\n"
+"            <span class=\"warning\">Note</span>:\n"
+"            You do not have a verified email address to which notices can be "
+"sent. <a href=\"%(email_url)s\">Add one</a> now.\n"
+"        </p>\n"
+"        "
+msgstr ""
+
+msgid "Notification Type"
+msgstr "Aina ya Taarifa"
+
+#, fuzzy
+#| msgid "party that owns the resource"
+msgid "requested you to download this resource"
+msgstr "upande unaomiliki rasilimali"
+
+msgid ""
+"Please go to resource page and assign the download permissions if you wish"
+msgstr ""
+
+#, fuzzy
+#| msgid "A map has been deleted"
+msgid "A resource's download has been requested"
+msgstr "Ramani umefutwa"
+
+msgid "Privacy &#038; Cookies Policy"
+msgstr ""
+
+msgid "Privacy &#038; Cookies Policy."
+msgstr ""
+
+msgid "Following"
+msgstr "Unaowafuatia"
+
+msgid "This user is not following anyone"
+msgstr "User Hii si kufuatia mtu yeyote"
+
+msgid "Followers"
+msgstr "Wafuasi"
+
+msgid "No one is following this user"
+msgstr "Hakuna anayemfuatilia"
+
+msgid "Manage Connections"
+msgstr "Kusimamia Connections"
+
+msgid "Blocking"
+msgstr "Kuzuia"
+
+msgid "Unfollow"
+msgstr "Acha kufuatilia"
+
+msgid "Follow"
+msgstr "Fuatilia"
+
+msgid "Unblock"
+msgstr "Ruhusu"
+
+msgid "Block"
+msgstr "Usiruhusu"
+
+msgid "No longer"
+msgstr "Si tena"
+
+#, python-format
+msgid "You're not %(status_slug)s anyone!"
+msgstr "Wewe si %(status_slug)s mtu yeyote!"
+
+msgid "Success"
+msgstr "Mafanikio"
+
+msgid "You are "
+msgstr "Wewe ni"
+
+msgid "no longer"
+msgstr "tena"
+
+#, python-format
+msgid "%(to_user_username)s's profile"
+msgstr "Wasifu wa %(to_user_username)s"
+
+msgid "Responsibles"
+msgstr ""
+
+msgid "Date begins after:"
+msgstr "Tarehe ya kuanza baada ya:"
+
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+msgid "Date ends before:"
+msgstr "Tarehe ya mwisho kabla ya:"
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search by region"
+msgstr "Tafuta"
+
+#, fuzzy
+#| msgid "Sections"
+msgid "Selection"
+msgstr "Sehemu"
+
+msgid "No list items selected. Use the selection fields to add."
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+#, fuzzy
+#| msgid "Layers"
+msgid "Datasets found"
+msgstr "Matabaka"
+
+msgid "Maps found"
+msgstr ""
+
+#, fuzzy
+#| msgid "Documents"
+msgid "Documents found"
+msgstr "Hati"
+
+msgid "found"
+msgstr ""
+
+msgid "search"
+msgstr ""
+
+#, fuzzy
+#| msgid "Search"
+msgid "Search by name"
+msgstr "Tafuta"
+
+msgid "Total"
+msgstr ""
+
+msgid "Most recent"
+msgstr "Hivi karibuni zaidi"
+
+msgid "Less recent"
+msgstr "Wakati wa nyuma zaidi"
+
+msgid "A - Z"
+msgstr "A - Z"
+
+msgid "Z - A"
+msgstr "Z - A"
+
+msgid "Most popular"
+msgstr "Maarufu zaidi"
+
+msgid "Text"
+msgstr "Nakala"
+
+#, fuzzy
+#| msgid "feature type"
+msgid "Share This Dataset"
+msgstr "aina ya sura"
+
+msgid "Share This"
+msgstr ""
+
+msgid "Social Network Login Failure"
+msgstr ""
+
+msgid ""
+"An error occurred while attempting to login via your social network account."
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sections"
+msgid "Exception"
+msgstr "Sehemu"
+
+#, fuzzy
+#| msgid "Manage Connections"
+msgid "Account Connections"
+msgstr "Kusimamia Connections"
+
+msgid ""
+"You can sign in to your account using any of the following already connected "
+"third party accounts:"
+msgstr ""
+
+msgid ""
+"You currently have no social network accounts connected to this account."
+msgstr ""
+
+msgid "Add a 3rd Party Account"
+msgstr ""
+
+msgid "Login Cancelled"
+msgstr ""
+
+#, python-format
+msgid ""
+"You decided to cancel logging in to our site using one of your existing "
+"accounts. If this was a mistake, please proceed to <a href=\"%(login_url)s"
+"\">sign in</a>."
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Signup"
+msgstr "Kujiunga"
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Sign Up"
+msgstr "Kujiunga"
+
+#, python-format
+msgid ""
+"You are about to use your %(provider_name)s account to login to\n"
+"%(site_name)s. As a final step, please complete the following form:"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign in"
+msgid "Sign in with"
+msgstr "Ingia"
+
+msgid "Connect with"
+msgstr ""
+
+#, fuzzy
+#| msgid "Sign up"
+msgid "Sign up with"
+msgstr "Kujiunga"
+
+msgid "Message Inbox"
+msgstr "Kikasha cha ujumbe"
+
+msgid "Messages"
+msgstr "Ujumbe"
+
+msgid "Mark selected as read"
+msgstr "Alama iliyochaguliwa kama inavyosomwa"
+
+msgid "Mark selected as unread"
+msgstr "Alama iliyochaguliwa kama isiyosomeka"
+
+msgid "Create Message"
+msgstr "Andika Ujumbe"
+
+#, fuzzy
+#| msgid "Choose users..."
+msgid "To users"
+msgstr "Chagua watumiaji ..."
+
+#, fuzzy
+#| msgid "group"
+msgid "To groups"
+msgstr "kundi"
+
+msgid "Subject"
+msgstr "Mada"
+
+#, fuzzy
+#| msgid "Contact:"
+msgid "Content"
+msgstr "Mawasiliano:"
+
+msgid "Send message"
+msgstr "Tuma ujumbe"
+
+msgid "Back to Inbox"
+msgstr "Rudi kwenye Kikasha"
+
+msgid "Sent to"
+msgstr "Tuma kwa"
+
+msgid "by"
+msgstr ""
+
+#, fuzzy
+#| msgid "Send message"
+msgid "You have no messages"
+msgstr "Tuma ujumbe"
+
+msgid "Send Reply"
+msgstr "Tuma Majibu"
+
+#, fuzzy
+#| msgid "GeoNode Help"
+msgid "GeoNode Themes Library"
+msgstr "Msaada kuhusu Geonode"
+
+msgid "Fill in this section with markdown"
+msgstr ""
+
+msgid "Check this if the jumbotron background image already contains text"
+msgstr ""
+
+msgid "Disabling this slide will hide it from the slide show"
+msgstr ""
+
+msgid "Choose between using jumbotron background and slide show"
+msgstr ""
+
+#, fuzzy
+#| msgid "All contents"
+msgid "Empty content"
+msgstr "Yote yaliyomo"
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not access to uploaded data."
+msgstr "Halijapatikana tabaka lolote lililo katika mfumo unaoendana."
+
+msgid ""
+"One or more XML files was provided, but no matching files were found for "
+"them."
+msgstr ""
+
+msgid ""
+"One or more SLD files was provided, but no matching files were found for "
+"them."
+msgstr ""
+
+#, fuzzy
+#| msgid "Map Created"
+msgid "Layer already exists"
+msgstr "Ramani Imetengenezwa"
+
+msgid "Name already in use and overwrite is False"
+msgstr ""
+
+msgid "Error configuring time:"
+msgstr ""
+
+msgid "The GeoServer Import Session is no more available"
+msgstr ""
+
+#, python-brace-format
+msgid "Expected to find layer named '{name}' in geoserver"
+msgstr ""
+
+msgid "Exception occurred while parsing the provided Metadata file."
+msgstr ""
+
+msgid ""
+"The UUID identifier from the XML Metadata is already in use in this system."
+msgstr ""
+
+msgid "Error configuring Layer"
+msgstr ""
+
+msgid "Invalid zip file detected"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any valid spatial file inside the uploaded zip"
+msgstr "Halijapatikana tabaka lolote lililo katika mfumo unaoendana."
+
+msgid "Invalid kmz file detected"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any kml files inside the uploaded kmz"
+msgstr "Halijapatikana tabaka lolote lililo katika mfumo unaoendana."
+
+msgid "Only one shapefile per zip is allowed"
+msgstr ""
+
+msgid "kml files with more than one GroundOverlay are not supported"
+msgstr ""
+
+msgid "Ground overlay image declared in kml file cannot be found"
+msgstr ""
+
+msgid "Only one kml file per ZIP is allowed"
+msgstr ""
+
+msgid "Only one kml file per kmz is allowed"
+msgstr ""
+
+msgid ""
+"You are trying to upload multiple GeoTIFFs without a valid 'indexer."
+"properties' file."
+msgstr ""
+
+msgid "Only one raster file per ZIP is allowed"
+msgstr ""
+
+msgid "No multiple rasters allowed"
+msgstr ""
+
+msgid ""
+"To support the time step, you must enable the OGC_SERVER DATASTORE option"
+msgstr ""
+
+#, python-brace-format
+msgid "Unsupported file type: {e.message}"
+msgstr ""
+
+#, python-brace-format
+msgid "File does not exist: {absolute_base_file}"
+msgstr ""
+
+#, python-brace-format
+msgid "unknown item state: {task.state}"
+msgstr ""
+
+msgid "error during import: {progress.get('message')}"
+msgstr ""
+
+#, fuzzy
+#| msgid "Could not find any layers in a compatible projection."
+msgid "Could not find any valid Time Regex for the Mosaic files."
+msgstr "Halijapatikana tabaka lolote lililo katika mfumo unaoendana."
+
+msgid "Unsupported DataBase for Mosaics!"
+msgstr ""
+
+msgid "Upload Session invalid or no more accessible!"
+msgstr ""
+
+msgid "Invalid permission level."
+msgstr "Kibali batili."
+
+msgid "Permission Denied"
+msgstr "Kibali kimekataliwa"
+
+#, fuzzy
+#~| msgid "Layer Name"
+#~ msgid "Layer name"
+#~ msgstr "Jina la Tabaka"
+
+#, fuzzy
+#~| msgid "Layer Title"
+#~ msgid "Layer title"
+#~ msgstr "Kichwa cha tabaka"
+
+#, fuzzy
+#~| msgid "Create a Map"
+#~ msgid "Create Layer"
+#~ msgstr "Tengeneza Ramani"
+
+#~ msgid "Download Layer"
+#~ msgstr "Pakua Tabaka"
+
+#, fuzzy
+#~| msgid "Edit Layer"
+#~ msgid "View Layer"
+#~ msgstr "Hariri Tabaka"
+
+#, fuzzy
+#~| msgid "Permissions"
+#~ msgid "Updating Permissions..."
+#~ msgstr "Vibali"
+
+#~ msgid "Upload Layers"
+#~ msgstr "Pakia Matabaka"
+
+#~ msgid "Upload Layer"
+#~ msgstr "Pakia Tabaka"
+
+#, fuzzy
+#~| msgid "Files to be uploaded"
+#~ msgid "Failed to upload the layer"
+#~ msgstr "Mafaili yakupakia"
+
+#~ msgid "Register a new Service"
+#~ msgstr "Sajili Huduma mpya"
+
+#, fuzzy
+#~| msgid "Set permissions"
+#~ msgid "set permissions"
+#~ msgstr "Idhinisha ruhusa"
+
+#, fuzzy
+#~| msgid "Documents"
+#~ msgid "documents"
+#~ msgstr "Hati"
+
+#, fuzzy
+#~| msgid "dataset"
+#~ msgid "data"
+#~ msgstr "kanzidata"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "apps explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "Categories"
+#~ msgid "groups explore"
+#~ msgstr "Makundi"
+
+#, fuzzy
+#~| msgid "A Map was created"
+#~ msgid "groups create"
+#~ msgstr "Ramani iliundwa"
+
+#, fuzzy
+#~| msgid "group"
+#~ msgid "groups"
+#~ msgstr "kundi"
+
+#, fuzzy
+#~| msgid "updated"
+#~ msgid "groups update"
+#~ msgstr "kusasishwa"
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers append"
+#~ msgstr "Tabaka limepakiwa"
+
+#, fuzzy
+#~| msgid "Layers"
+#~ msgid "layers"
+#~ msgstr "Matabaka"
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers explore"
+#~ msgstr "Tabaka limepakiwa"
+
+#, fuzzy
+#~| msgid "A layer was uploaded"
+#~ msgid "layers upload"
+#~ msgstr "Tabaka limepakiwa"
+
+#~ msgid "Incomplete Uploads"
+#~ msgstr "Upakiaji usio kamili"
+
+#~ msgid "You have the following incomplete uploads"
+#~ msgstr "Kuna upakiaji ufuatao ambaosi kamili"
+
+#~ msgid "Resume"
+#~ msgstr "Resume"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "maps explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "GeoExplorer"
+#~ msgid "people explore"
+#~ msgstr "GeoExplorer"
+
+#, fuzzy
+#~| msgid "Invite people"
+#~ msgid "edit people"
+#~ msgstr "Alika watu"
+
+#~ msgid "last updated on"
+#~ msgstr "mara ya mwisho kusasishwa ni"
+
+#~ msgid "Delete, and don't ask me again."
+#~ msgstr "Futa, na usiniulize tena."
+
+#, fuzzy
+#~| msgid "Available styles"
+#~ msgid "Available layers"
+#~ msgstr "Mitindo iliyopo"
+
+#, fuzzy
+#~| msgid "Create a Map"
+#~ msgid "Save Map"
+#~ msgstr "Tengeneza Ramani"
+
+#, fuzzy
+#~| msgid "User Activities"
+#~ msgid "Utilities"
+#~ msgstr "Matukio ya mtumiaji"
+
+#, fuzzy
+#~| msgid "Files to be uploaded"
+#~ msgid "Unable to delete layer"
+#~ msgstr "Mafaili yakupakia"
+
+#, fuzzy
+#~| msgid "Thumbnail"
+#~ msgid "Thumbnail saved"
+#~ msgstr "Thumbnail"
