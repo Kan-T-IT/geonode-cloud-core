@@ -24,7 +24,6 @@ import ast
 import sys
 import subprocess
 import dj_database_url
-import json
 from schema import Optional
 from datetime import timedelta
 from urllib.parse import urlparse, urljoin
@@ -360,15 +359,12 @@ CACHES = {
     #         'MAX_ENTRIES': 10000
     #     }
     # },
-    'resources': {
-        'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
-        'TIMEOUT': 600,
-        'OPTIONS': {
-            'MAX_ENTRIES': 10000
-        }
-    }
+    "resources": {
+        "BACKEND": "django.core.cache.backends.locmem.LocMemCache",
+        "TIMEOUT": 600,
+        "OPTIONS": {"MAX_ENTRIES": 10000},
+    },
 }
-
 
 # Whitenoise Settings - ref.: http://whitenoise.evans.io/en/stable/django.html
 WHITENOISE_MANIFEST_STRICT = ast.literal_eval(os.getenv("WHITENOISE_MANIFEST_STRICT", "False"))
@@ -818,7 +814,7 @@ MIDDLEWARE = (
     "django.middleware.locale.LocaleMiddleware",
     "django.middleware.csrf.CsrfViewMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
-#    "django.middleware.clickjacking.XFrameOptionsMiddleware",
+    "django.middleware.clickjacking.XFrameOptionsMiddleware",
     "django.middleware.security.SecurityMiddleware",
     "whitenoise.middleware.WhiteNoiseMiddleware",  # ref to: http://whitenoise.evans.io/en/stable/django.html#enable-whitenoise
     "oauth2_provider.middleware.OAuth2TokenMiddleware",
@@ -837,12 +833,11 @@ if SESSION_EXPIRED_CONTROL_ENABLED:
     # user logout
     MIDDLEWARE += ("geonode.security.middleware.SessionControlMiddleware",)
 
-SESSION_COOKIE_AGE = int(os.getenv("SESSION_COOKIE_AGE", "86400"))
 SESSION_COOKIE_SECURE = ast.literal_eval(os.environ.get("SESSION_COOKIE_SECURE", "False"))
 CSRF_COOKIE_SECURE = ast.literal_eval(os.environ.get("CSRF_COOKIE_SECURE", "False"))
 CSRF_COOKIE_HTTPONLY = ast.literal_eval(os.environ.get("CSRF_COOKIE_HTTPONLY", "False"))
 CORS_ALLOW_ALL_ORIGINS = ast.literal_eval(os.environ.get("CORS_ALLOW_ALL_ORIGINS", "False"))
-#X_FRAME_OPTIONS = os.environ.get("X_FRAME_OPTIONS", "DENY")
+X_FRAME_OPTIONS = os.environ.get("X_FRAME_OPTIONS", "DENY")
 SECURE_CONTENT_TYPE_NOSNIFF = ast.literal_eval(os.environ.get("SECURE_CONTENT_TYPE_NOSNIFF", "True"))
 SECURE_BROWSER_XSS_FILTER = ast.literal_eval(os.environ.get("SECURE_BROWSER_XSS_FILTER", "True"))
 SECURE_SSL_REDIRECT = ast.literal_eval(os.environ.get("SECURE_SSL_REDIRECT", "False"))
@@ -1024,8 +1019,8 @@ GEOSERVER_ADMIN_PASSWORD = os.getenv("GEOSERVER_ADMIN_PASSWORD", "geoserver")
 # This is the password from Geoserver factory data-dir. It's only used at install time to perform the very first configurfation of GEOSERVER_ADMIN_PASSWORD
 GEOSERVER_FACTORY_PASSWORD = os.getenv("GEOSERVER_FACTORY_PASSWORD", "geoserver")
 
-GEOFENCE_SECURITY_ENABLED = (
-    False if TEST and not INTEGRATION else ast.literal_eval(os.getenv("GEOFENCE_SECURITY_ENABLED", "True"))
+ACL_SECURITY_ENABLED = (
+    False if TEST and not INTEGRATION else ast.literal_eval(os.getenv("ACL_SECURITY_ENABLED", "True"))
 )
 
 # OGC (WMS/WFS/WCS) Server Settings
@@ -1046,9 +1041,8 @@ OGC_SERVER = {
         "MAPFISH_PRINT_ENABLED": ast.literal_eval(os.getenv("MAPFISH_PRINT_ENABLED", "True")),
         "PRINT_NG_ENABLED": ast.literal_eval(os.getenv("PRINT_NG_ENABLED", "True")),
         "GEONODE_SECURITY_ENABLED": ast.literal_eval(os.getenv("GEONODE_SECURITY_ENABLED", "True")),
-        "GEOFENCE_SECURITY_ENABLED": GEOFENCE_SECURITY_ENABLED,
-        "GEOFENCE_URL": os.getenv("GEOFENCE_URL", "internal:/"),
-        "GEOFENCE_TIMEOUT": int(os.getenv("GEOFENCE_TIMEOUT", os.getenv("OGC_REQUEST_TIMEOUT", "60"))),
+        "ACL_SECURITY_ENABLED": ACL_SECURITY_ENABLED,
+        "ACL_TIMEOUT": int(os.getenv("ACL_TIMEOUT", os.getenv("OGC_REQUEST_TIMEOUT", "60"))),
         "WMST_ENABLED": ast.literal_eval(os.getenv("WMST_ENABLED", "False")),
         "BACKEND_WRITE_ENABLED": ast.literal_eval(os.getenv("BACKEND_WRITE_ENABLED", "True")),
         "WPS_ENABLED": ast.literal_eval(os.getenv("WPS_ENABLED", "False")),
@@ -1485,31 +1479,52 @@ if GEONODE_CLIENT_LAYER_PREVIEW_LIBRARY == "mapstore":
 
     MAPSTORE_CATALOGUE_SELECTED_SERVICE = ""
 
-    def generate_map_base_config():
-        site_url = os.environ.get('SITEURL', '')
-        map_bases = []
-        num_maps = int(os.environ.get('NUM_MAP_BASES', 0))
-
-        for i in range(1, num_maps + 1):
-            map_config_str = os.environ.get(f"MAP_BASE_{i}_CONFIG")
-            if map_config_str:
-                # Reemplazar [SITEURL] en la cadena JSON
-                map_config_str = map_config_str.replace('[SITEURL]', site_url)
-                try:
-                    map_base = json.loads(map_config_str)
-                    map_bases.append(map_base)
-                except json.JSONDecodeError as e:
-                    print(f"Error al decodificar la configuración del mapa base {i}: {e}")
-
-        return map_bases
-
     if GEONODE_CATALOGUE_SERVICE:
         MAPSTORE_CATALOGUE_SERVICES[list(list(GEONODE_CATALOGUE_SERVICE.keys()))[0]] = GEONODE_CATALOGUE_SERVICE[
             list(list(GEONODE_CATALOGUE_SERVICE.keys()))[0]
         ]  # noqa
         MAPSTORE_CATALOGUE_SELECTED_SERVICE = list(list(GEONODE_CATALOGUE_SERVICE.keys()))[0]
-
-        DEFAULT_MS2_BACKGROUNDS = generate_map_base_config()
+   
+    DEFAULT_MS2_BACKGROUNDS = [
+        {
+            "type": "osm",
+            "title": "Open Street Map",
+            "name": "mapnik",
+            "source": "osm",
+            "group": "background",
+            "visibility": True,
+        },
+        {
+            "type": "tileprovider",
+            "title": "OpenTopoMap",
+            "provider": "OpenTopoMap",
+            "name": "OpenTopoMap",
+            "source": "OpenTopoMap",
+            "group": "background",
+            "visibility": False,
+        },
+        {
+            "type": "wms",
+            "title": "Sentinel-2 cloudless - https://s2maps.eu",
+            "format": "image/jpeg",
+            "id": "s2cloudless",
+            "name": "s2cloudless:s2cloudless",
+            "url": "https://maps.geosolutionsgroup.com/geoserver/wms",
+            "group": "background",
+            "thumbURL": f"{SITEURL}static/mapstorestyle/img/s2cloudless-s2cloudless.png",
+            "visibility": False,
+        },
+        {
+            "source": "ol",
+            "group": "background",
+            "id": "none",
+            "name": "empty",
+            "title": "Empty Background",
+            "type": "empty",
+            "visibility": False,
+            "args": ["Empty Background", {"visibility": False}],
+        },
+    ]
 
     if MAPBOX_ACCESS_TOKEN:
         BASEMAP = {
@@ -1551,7 +1566,6 @@ if GEONODE_CLIENT_LAYER_PREVIEW_LIBRARY == "mapstore":
         ("es-es", "Español"),
         ("fr-fr", "Français"),
         ("it-it", "Italiano"),
-        ('pt', 'Portuguese'),
     )
 
     if os.getenv("LANGUAGES"):
@@ -2359,3 +2373,82 @@ DATASET_DOWNLOAD_HANDLERS = ast.literal_eval(os.getenv("DATASET_DOWNLOAD_HANDLER
 AUTO_ASSIGN_REGISTERED_MEMBERS_TO_CONTRIBUTORS = ast.literal_eval(
     os.getenv("AUTO_ASSIGN_REGISTERED_MEMBERS_TO_CONTRIBUTORS", "True")
 )
+
+# #################
+# KAN modifications
+# #################
+import json
+
+# Use Argenmap as base layer
+USE_ARGENMAP_BASE_MAP = ast.literal_eval(os.environ.get("USE_ARGENMAP_BASE_MAP", "False"))
+if USE_ARGENMAP_BASE_MAP:
+    DEFAULT_MS2_BACKGROUNDS = [
+        {
+            "type": "wms",
+            "title": "Argenmap",
+            "format": "image/jpeg",
+            "id": "capabaseargenmap",
+            "name": "capabaseargenmap",
+            "url": "https://wms.ign.gob.ar/geoserver/wms",
+            "group": "background",
+            "thumbURL": f"{SITEURL}static/mapstorestyle/img/argenmap.png",
+            "visibility": True
+        },
+        {
+            "type": "osm",
+            "title": "Open Street Map",
+            "name": "mapnik",
+            "source": "osm",
+            "group": "background",
+            "visibility": False,
+        },
+        {
+            "type": "tileprovider",
+            "title": "OpenTopoMap",
+            "provider": "OpenTopoMap",
+            "name": "OpenTopoMap",
+            "source": "OpenTopoMap",
+            "group": "background",
+            "visibility": False,
+        },
+        {
+            "type": "wms",
+            "title": "Sentinel-2 cloudless - https://s2maps.eu",
+            "format": "image/jpeg",
+            "id": "s2cloudless",
+            "name": "s2cloudless:s2cloudless",
+            "url": "https://maps.geosolutionsgroup.com/geoserver/wms",
+            "group": "background",
+            "thumbURL": f"{SITEURL}static/mapstorestyle/img/s2cloudless-s2cloudless.png",
+            "visibility": False,
+        },
+        {
+            "source": "ol",
+            "group": "background",
+            "id": "none",
+            "name": "empty",
+            "title": "Empty Background",
+            "type": "empty",
+            "visibility": False,
+            "args": ["Empty Background", {"visibility": False}],
+        },
+    ]
+MAPSTORE_BASELAYERS = DEFAULT_MS2_BACKGROUNDS
+
+# Custom collect for logstash
+if 'geonode_logstash' not in INSTALLED_APPS:
+    INSTALLED_APPS += ('geonode_logstash',)
+
+    CELERY_BEAT_SCHEDULE['dispatch_metrics'] = {
+        'task': 'geonode_logstash.tasks.dispatch_metrics',
+        'schedule': 3600.0,
+    }
+
+# Load extra contib apps from .env
+EXTRA_CONTRIB_APPS = json.loads(os.environ['EXTRA_CONTRIB_APPS'])
+if EXTRA_CONTRIB_APPS[0]: INSTALLED_APPS += tuple(EXTRA_CONTRIB_APPS)
+
+
+ACL_HOST = os.getenv("ACL_HOST", "internal:/")
+ACL_USERNAME = os.getenv("ACL_USERNAME", ""),
+ACL_PASSWORD = os.getenv("ACL_PASSWORD", ""),

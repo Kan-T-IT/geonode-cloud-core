@@ -153,10 +153,10 @@ class UploaderBase(GeoNodeBaseTestSupport):
             os.unlink(temp_file)
 
         # Cleanup
-        if settings.OGC_SERVER["default"].get("GEOFENCE_SECURITY_ENABLED", False):
-            from geonode.geoserver.security import delete_all_geofence_rules
+        if settings.OGC_SERVER["default"].get("ACL_SECURITY_ENABLED", False):
+            from geonode.geoserver.security import delete_all_acl_rules
 
-            delete_all_geofence_rules()
+            delete_all_acl_rules()
 
     def check_dataset_geonode_page(self, path):
         """Check that the final dataset page render's correctly after

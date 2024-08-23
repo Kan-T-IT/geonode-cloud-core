@@ -64,7 +64,7 @@ class GeoNodeGeoServerSync(GeoNodeLiveTestSupport):
 
     def setUp(self):
         super(GeoNodeLiveTestSupport, self).setUp()
-        settings.OGC_SERVER["default"]["GEOFENCE_SECURITY_ENABLED"] = True
+        settings.OGC_SERVER["default"]["ACL_SECURITY_ENABLED"] = True
 
     @on_ogc_backend(geoserver.BACKEND_PACKAGE)
     @timeout_decorator.timeout(LOCAL_TIMEOUT)
@@ -111,7 +111,7 @@ class GeoNodeGeoServerCapabilities(GeoNodeLiveTestSupport):
 
     def setUp(self):
         super(GeoNodeLiveTestSupport, self).setUp()
-        settings.OGC_SERVER["default"]["GEOFENCE_SECURITY_ENABLED"] = True
+        settings.OGC_SERVER["default"]["ACL_SECURITY_ENABLED"] = True
 
     @on_ogc_backend(geoserver.BACKEND_PACKAGE)
     @timeout_decorator.timeout(LOCAL_TIMEOUT)
@@ -212,7 +212,7 @@ class GeoNodePermissionsTest(GeoNodeLiveTestSupport):
 
     def setUp(self):
         super(GeoNodeLiveTestSupport, self).setUp()
-        settings.OGC_SERVER["default"]["GEOFENCE_SECURITY_ENABLED"] = True
+        settings.OGC_SERVER["default"]["ACL_SECURITY_ENABLED"] = True
 
     @on_ogc_backend(geoserver.BACKEND_PACKAGE)
     @timeout_decorator.timeout(LOCAL_TIMEOUT)

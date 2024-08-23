@@ -1,5 +1,4 @@
-# FROM geonode/geonode-base:latest-ubuntu-22.04
-FROM geonode/geonode:4.2.4
+FROM geonode/geonode-base:latest-ubuntu-22.04
 LABEL GeoNode development team
 
 # add bower and grunt command
@@ -23,6 +22,8 @@ RUN chmod +x /usr/bin/celery-commands
 COPY celery-cmd /usr/bin/celery-cmd
 RUN chmod +x /usr/bin/celery-cmd
 
+COPY entrypoint-celery.sh /usr/src/geonode/entrypoint-celery.sh
+RUN chmod +x /usr/src/geonode/entrypoint-celery.sh
 # # Install "geonode-contribs" apps
 # RUN cd /usr/src; git clone https://github.com/GeoNode/geonode-contribs.git -b master
 # # Install logstash and centralized dashboard dependencies
@@ -31,7 +32,6 @@ RUN chmod +x /usr/bin/celery-cmd
 
 RUN yes w | pip install --src /usr/src -r requirements.txt &&\
     yes w | pip install -e .
-
 
 # Cleanup apt update lists
 RUN apt-get autoremove --purge &&\

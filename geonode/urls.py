@@ -203,3 +203,17 @@ if settings.MONITORING_ENABLED:
 urlpatterns += [
     url(r"^metadata_update_redirect$", views.metadata_update_redirect, name="metadata_update_redirect"),
 ]
+
+
+# #################
+# KAN modifications
+# #################
+import json
+import os
+
+EXTRA_CONTRIB_URLS = json.loads(os.environ['EXTRA_CONTRIB_URLS'])
+for EXTRA_CONTRIB_URL in EXTRA_CONTRIB_URLS:
+    if EXTRA_CONTRIB_URL[0] and EXTRA_CONTRIB_URL[1]:
+        urlpatterns += [
+            url(EXTRA_CONTRIB_URL[0], include(EXTRA_CONTRIB_URL[1])),
+        ]

@@ -170,7 +170,7 @@ class PermissionsApiTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         self.assertValidJSONResponse(self.client.get(f"{list_url + str(layer.id)}/"))
 
         # with delayed security
-        with self.settings(DELAYED_SECURITY_SIGNALS=True, GEOFENCE_SECURITY_ENABLED=True):
+        with self.settings(DELAYED_SECURITY_SIGNALS=True, ACL_SECURITY_ENABLED=True):
             if check_ogc_backend(geoserver.BACKEND_PACKAGE):
                 gm = GeoServerResourceManager()
                 gm.set_permissions(layer.uuid, instance=layer, permissions=self.perm_spec)
@@ -215,7 +215,7 @@ class PermissionsApiTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
             _ogc_geofence_enabled = settings.OGC_SERVER
             try:
-                _ogc_geofence_enabled["default"]["GEOFENCE_SECURITY_ENABLED"] = True
+                _ogc_geofence_enabled["default"]["ACL_SECURITY_ENABLED"] = True
                 with self.settings(
                     DELAYED_SECURITY_SIGNALS=True,
                     OGC_SERVER=_ogc_geofence_enabled,
@@ -238,7 +238,7 @@ class PermissionsApiTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
                     resp = self.client.get(list_url)
                     self.assertGreaterEqual(len(self.deserialize(resp)["objects"]), 7)
             finally:
-                _ogc_geofence_enabled["default"]["GEOFENCE_SECURITY_ENABLED"] = False
+                _ogc_geofence_enabled["default"]["ACL_SECURITY_ENABLED"] = False
 
     @on_ogc_backend(geoserver.BACKEND_PACKAGE)
     def test_outh_token(self):

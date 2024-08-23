@@ -65,12 +65,12 @@ from geonode.base.populate_test_data import (
 from geonode.geoserver.security import (
     _get_gf_services,
     allow_layer_to_all,
-    delete_all_geofence_rules,
+    delete_all_acl_rules,
     sync_resources_with_guardian,
     _get_gwc_filters_and_formats,
     has_geolimits,
     create_geofence_rules,
-    delete_geofence_rules_for_layer,
+    delete_acl_rules_for_layer,
 )
 
 
@@ -122,7 +122,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
     def setUp(self):
         super().setUp()
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
-            settings.OGC_SERVER["default"]["GEOFENCE_SECURITY_ENABLED"] = True
+            settings.OGC_SERVER["default"]["ACL_SECURITY_ENABLED"] = True
 
         self.maxDiff = None
         self.user = "admin"
@@ -346,7 +346,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
 
         rules_count = 0
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
-            delete_all_geofence_rules()
+            delete_all_acl_rules()
             # Reset GeoFence Rules
             rules_count = geofence.get_rules_count()
             self.assertEqual(rules_count, 0)
@@ -406,7 +406,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
 
         rules_count = 0
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
-            delete_all_geofence_rules()
+            delete_all_acl_rules()
             # Reset GeoFence Rules
             rules_count = geofence.get_rules_count()
             self.assertEqual(rules_count, 0)
@@ -474,7 +474,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         self.client.login(username="admin", password="admin")
 
         # Reset GeoFence Rules
-        delete_all_geofence_rules()
+        delete_all_acl_rules()
         self.assertEqual(geofence.get_rules_count(), 0)
 
         perm_spec = {"users": {"AnonymousUser": []}, "groups": []}
@@ -589,7 +589,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
 
         # Testing GeoLimits
         # Reset GeoFence Rules
-        delete_all_geofence_rules()
+        delete_all_acl_rules()
         rules_count = geofence.get_rules_count()
         self.assertEqual(rules_count, 0)
         layer = Dataset.objects.first()
@@ -735,7 +735,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         layer.save()
 
         # Reset GeoFence Rules
-        delete_all_geofence_rules()
+        delete_all_acl_rules()
         rules_count = geofence.get_rules_count()
         self.assertEqual(rules_count, 0)
 
@@ -755,7 +755,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         self.assertEqual(layer.alternate, "geonode:san_andres_y_providencia_poi")
 
         # Reset GeoFence Rules
-        delete_all_geofence_rules()
+        delete_all_acl_rules()
         rules_count = geofence.get_rules_count()
         self.assertEqual(rules_count, 0)
 
@@ -854,7 +854,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
         # self.assertEqual(_content_type, 'image/png')
 
         # Reset GeoFence Rules
-        delete_all_geofence_rules()
+        delete_all_acl_rules()
         rules_count = geofence.get_rules_count()
         self.assertTrue(rules_count == 0)
 
@@ -1029,7 +1029,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
     def test_not_superuser_permissions(self):
         rules_count = 0
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
-            delete_all_geofence_rules()
+            delete_all_acl_rules()
             # Reset GeoFence Rules
             rules_count = geofence.get_rules_count()
             self.assertTrue(rules_count == 0)
@@ -1145,7 +1145,7 @@ class SecurityTests(ResourceTestCaseMixin, GeoNodeBaseTestSupport):
 
         rules_count = 0
         if check_ogc_backend(geoserver.BACKEND_PACKAGE):
-            delete_all_geofence_rules()
+            delete_all_acl_rules()
             # Reset GeoFence Rules
             rules_count = geofence.get_rules_count()
             self.assertEqual(rules_count, 0, rules_count)
@@ -1758,8 +1758,8 @@ class SecurityRulesTests(TestCase):
         self._l = create_single_dataset("test_dataset")
 
     def test_sync_resources_with_guardian_delay_false(self):
-        with self.settings(DELAYED_SECURITY_SIGNALS=False, GEOFENCE_SECURITY_ENABLED=True):
-            delete_geofence_rules_for_layer(self._l)
+        with self.settings(DELAYED_SECURITY_SIGNALS=False, ACL_SECURITY_ENABLED=True):
+            delete_acl_rules_for_layer(self._l)
             # Set geofence (and so the dirty state)
             allow_layer_to_all(self._l)
             # Retrieve the same layer
@@ -1774,8 +1774,8 @@ class SecurityRulesTests(TestCase):
 
     # TODO: DELAYED SECURITY MUST BE REVISED
     def test_sync_resources_with_guardian_delay_true(self):
-        with self.settings(DELAYED_SECURITY_SIGNALS=True, GEOFENCE_SECURITY_ENABLED=True):
-            delete_geofence_rules_for_layer(self._l)
+        with self.settings(DELAYED_SECURITY_SIGNALS=True, ACL_SECURITY_ENABLED=True):
+            delete_acl_rules_for_layer(self._l)
             # Set geofence (and so the dirty state)
             allow_layer_to_all(self._l)
             # Retrieve the same layer

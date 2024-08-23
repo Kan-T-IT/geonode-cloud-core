@@ -82,7 +82,7 @@ from geonode.utils import (
     set_resource_default_links,
 )
 
-from .geofence import GeoFenceClient, GeoFenceUtils
+from .acl.acl_client import AclClient, AclUtils
 
 logger = logging.getLogger(__name__)
 
@@ -751,7 +751,7 @@ def gs_slurp(
                     layer.srid = "EPSG:4326"
             layer.set_ll_bbox_polygon([ll_bbox[0], ll_bbox[2], ll_bbox[1], ll_bbox[3]])
 
-            # sync permissions in GeoFence
+            # sync permissions in ACL
             perm_spec = json.loads(_perms_info_json(layer))
             resource_manager.set_permissions(layer.uuid, permissions=perm_spec)
 
@@ -1876,15 +1876,14 @@ gs_catalog = Catalog(
 gs_uploader = Client(url, _user, _password)
 
 
-def _create_geofence_client():
-    gf_rest_url = f'{url.rstrip("/")}/geofence/'
-    client = GeoFenceClient(gf_rest_url, _user, _password)
-    client.set_timeout(ogc_server_settings.GEOFENCE_TIMEOUT)
+def _create_acl_client():
+    client = AclClient()
+    # client.set_timeout(ogc_server_settings.ACL_TIMEOUT)
     return client
 
 
-geofence = _create_geofence_client()
-gf_utils = GeoFenceUtils(geofence)
+acl = _create_acl_client()
+acl_utils = AclUtils(acl)
 
 _punc = re.compile(r"[\.:]")  # regex for punctuation that confuses restconfig
 _foregrounds = ["#ffbbbb", "#bbffbb", "#bbbbff", "#ffffbb", "#bbffff", "#ffbbff"]

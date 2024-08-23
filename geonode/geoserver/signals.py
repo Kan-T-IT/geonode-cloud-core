@@ -41,35 +41,8 @@ logger = logging.getLogger("geonode.geoserver.signals")
 
 geoserver_automatic_default_style_set = Signal(providing_args=["instance"])
 
-geofence_rule_assign = Signal(providing_args=["instance"])
+acl_rule_assign = Signal(providing_args=["instance"])
 
-# BEGIN CUSTOM CODE
-
-from django.dispatch import receiver
-
-from geonode.geoserver.acl_client import rule_manager, gsauth_client
-
-custom_rule_assign = Signal()
-
-@receiver(custom_rule_assign)
-def handle_custom_rule_assign(sender, **kwargs):
-
-    message = f"""{'*'*50}
-A geofence rule has been assigned to the object: {kwargs}
-{'*'*50}"""
-    logger.debug(message)
-    priority = rule_manager.get_first_available_priority()
-    new_rule = gsauth_client.Rule(
-        priority=priority,
-        access = "ALLOW" if kwargs["access"] else "DENY",
-        workspace=kwargs["workspace"],
-        layer=kwargs["layer"],
-        service=kwargs["service"],
-        user=kwargs["user"]
-    )
-    created_rule = rule_manager.create_rule(new_rule)
-
-# END CUSTOM CODE
 
 def geoserver_delete(typename):
     # cascading_delete should only be called if

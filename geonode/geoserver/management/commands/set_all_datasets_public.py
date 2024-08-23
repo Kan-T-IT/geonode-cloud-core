@@ -22,7 +22,7 @@ from django.conf import settings
 from django.core.management.base import BaseCommand
 from geonode.layers.models import Dataset
 
-from geonode.geoserver.security.utils import set_geofence_all
+# from geonode.geoserver.security.utils import set_geofence_all
 
 logger = logging.getLogger(__name__)
 
@@ -32,24 +32,27 @@ class Command(BaseCommand):
     """
 
     def handle(self, *args, **options):
-        all_datasets = Dataset.objects.all()
+        #TODO: Integrate with ACL implementation
+        raise NotImplementedError("This command is not supported.")
+    
+        # all_datasets = Dataset.objects.all()
 
-        for index, layer in enumerate(all_datasets):
-            print(f"[{(index + 1)} / {len(all_datasets)}] Setting public permissions to Dataset [{layer.name}] ...")
-            try:
-                use_geofence = settings.OGC_SERVER['default'].get(
-                    "GEOFENCE_SECURITY_ENABLED", False)
-                if use_geofence:
-                    set_geofence_all(layer)
-                layer.set_default_permissions()
-                perm_spec = {"users": {}, "groups": {}}
-                perm_spec["users"]["admin"] = ['view_resourcebase', 'change_resourcebase_permissions',
-                                               'download_resourcebase', 'publish_resourcebase',
-                                               'change_resourcebase_metadata']
-                perm_spec["users"][str(layer.owner)] = ['view_resourcebase', 'change_resourcebase_permissions',
-                                                        'download_resourcebase', 'publish_resourcebase',
-                                                        'change_resourcebase_metadata']
-                perm_spec["users"]["AnonymousUser"] = ['view_resourcebase', 'download_resourcebase']
-                layer.set_permissions(perm_spec)
-            except Exception:
-                logger.error(f"[ERROR] Dataset [{layer.name}] couldn't be updated")
+        # for index, layer in enumerate(all_datasets):
+        #     print(f"[{(index + 1)} / {len(all_datasets)}] Setting public permissions to Dataset [{layer.name}] ...")
+        #     try:
+        #         use_geofence = settings.OGC_SERVER['default'].get(
+        #             "ACL_SECURITY_ENABLED", False)
+        #         if use_geofence:
+        #             set_geofence_all(layer)
+        #         layer.set_default_permissions()
+        #         perm_spec = {"users": {}, "groups": {}}
+        #         perm_spec["users"]["admin"] = ['view_resourcebase', 'change_resourcebase_permissions',
+        #                                        'download_resourcebase', 'publish_resourcebase',
+        #                                        'change_resourcebase_metadata']
+        #         perm_spec["users"][str(layer.owner)] = ['view_resourcebase', 'change_resourcebase_permissions',
+        #                                                 'download_resourcebase', 'publish_resourcebase',
+        #                                                 'change_resourcebase_metadata']
+        #         perm_spec["users"]["AnonymousUser"] = ['view_resourcebase', 'download_resourcebase']
+        #         layer.set_permissions(perm_spec)
+        #     except Exception:
+        #         logger.error(f"[ERROR] Dataset [{layer.name}] couldn't be updated")

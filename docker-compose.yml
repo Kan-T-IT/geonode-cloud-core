@@ -3,14 +3,13 @@ version: '3.9'
 # Common Django template for GeoNode and Celery services below
 x-common-django:
   &default-common-django
-  #image: geonode/geonode:4.2.4
   build:
     context: ./
-  restart: on-failure
+    dockerfile: Dockerfile
+  restart: unless-stopped
   env_file:
     - .env
   volumes:
-    - '.:/usr/src/geonode'
     - statics:/mnt/volumes/statics
     - geoserver-data-dir:/geoserver_data/data
     - backup-restore:/backup_restore
@@ -21,7 +20,10 @@ x-common-django:
       condition: service_healthy
 
 services:
-
+  mapstore:
+    image: kantit/geonode-cloud-mapstore-client:1.0.0-rc1
+    container_name: mapstore4${COMPOSE_PROJECT_NAME}
+    command: "npm start"
   # Our custom django application. It includes Geonode.
   django:
     << : *default-common-django
@@ -44,10 +46,13 @@ services:
     depends_on:
       django:
         condition: service_healthy
+    # uncomment to enable remote connections to flower
+    #ports:
+    #  - "5555:5555"
     environment:
-      - IS_CELERY=True
-    entrypoint: ["/usr/src/geonode/entrypoint.sh"]
-    command: "celery-cmd"
+      - IS_CELERY=True    
+    entrypoint: ["/usr/src/geonode/entrypoint-celery.sh"]
+    command: ""
 
   # memcached service
   memcached:
@@ -91,7 +96,7 @@ services:
 
   # Geoserver backend
   geoserver:
-    image: geonode/geoserver:2.24.2
+    image: geonode/geoserver:2.24.2-v1
     container_name: geoserver4${COMPOSE_PROJECT_NAME}
     healthcheck:
       test: "curl -m 10 --fail --silent --write-out 'HTTP CODE : %{http_code}\n' --output /dev/null http://geoserver:8080/geoserver/ows"
@@ -129,7 +134,7 @@ services:
   # PostGIS database.
   db:
     # use geonode official postgis 15 image
-    image: vladiguive/geonode-postgres-pgrouting:15
+    image: geonode/postgis:15.3-v1
     command: postgres -c "max_connections=${POSTGRESQL_MAX_CONNECTIONS}"
     container_name: db4${COMPOSE_PROJECT_NAME}
     env_file:
@@ -137,12 +142,12 @@ services:
     volumes:
       - dbdata:/var/lib/postgresql/data
       - dbbackups:/pg_backups
-    restart: on-failure
+    restart: unless-stopped
     healthcheck:
       test: "pg_isready -d postgres -U postgres"
     # uncomment to enable remote connections to postgres
-    ports:
-      - "5432:5432"
+    #ports:
+    #  - "5432:5432"
 
   # Vanilla RabbitMQ service. This is needed by celery
   rabbitmq:
@@ -150,7 +155,7 @@ services:
     container_name: rabbitmq4${COMPOSE_PROJECT_NAME}
     volumes:
       - rabbitmq:/var/lib/rabbitmq
-    restart: on-failure
+    restart: unless-stopped
 
 volumes:
   statics:
