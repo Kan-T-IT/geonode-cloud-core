@@ -97,3 +97,5 @@ scripts/spcgeonode/_volume_*
 !hooks/*
 
 .env
+docker-compose-cloud-dev.yml
+__pycache__
