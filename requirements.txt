@@ -183,3 +183,4 @@ nh3==0.2.15
 # #################
 flower==2.0.1
 # Custom contribs
+-e ./geonode-contribs/geonode-logstash
