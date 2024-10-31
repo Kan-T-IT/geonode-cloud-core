@@ -11,8 +11,6 @@ WORKDIR /usr/src/geonode
 #RUN touch /var/log/cron.log
 #RUN service cron start
 
-COPY wait-for-databases.sh /usr/bin/wait-for-databases
-RUN chmod +x /usr/bin/wait-for-databases
 RUN chmod +x /usr/src/geonode/tasks.py \
     && chmod +x /usr/src/geonode/entrypoint.sh
 
